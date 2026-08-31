@@ -1,0 +1,249 @@
+{
+  "main": {
+    "id": "2bcb718fd738d79d",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b5a48a74776ee48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "185fc913a85ac34e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "06f1e8fd252b3c69",
+    "type": "split",
+    "children": [
+      {
+        "id": "b631ab9ab2b11b3a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "298ee3b879dc4fba",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "settings.json",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3441f1d6d85341c9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "41761b219aa86e13",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 385.5
+  },
+  "right": {
+    "id": "d6099b0a15759e58",
+    "type": "split",
+    "children": [
+      {
+        "id": "dfc826dc86bd4ed3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "707185d59b7622d0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "d5b5f8a703412a55",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "c1e845c960267862",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "837c873b491783d3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "22e24e79fa6ae4dd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "d4039f6e903d8f95",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "git-view"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 558.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "code-files:Create Code File": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "185fc913a85ac34e",
+  "lastOpenFiles": [
+    "procedures-german-fw190d9.md",
+    "basic-about-communication.md",
+    "dcs-settings.md",
+    "_tacview.md",
+    "_Headtracker.md",
+    "controls-british-mosquito-vi.md",
+    "controls-british-spitfire-vi.md",
+    "controls-american-p47d.md",
+    "controls-german-fw190d9.md",
+    "controls-german-fw190a8.md",
+    "controls-german-bf109k4.md",
+    "controls-global.md",
+    "procedures-american-p47d.md",
+    "procedures-british-mosquito-vi.md",
+    "procedures-british-spitfire-vi.md",
+    "procedures-german-bf109k4.md",
+    "procedures-german-fw190a8.md",
+    "guns-and-fuel-german-bf109k4.md",
+    "guns-and-fuel-german-fw190d9.md",
+    "guns-and-fuel-german-fw190a8.md",
+    "guns-and-fuel-british-spitfire-vi.md",
+    "guns-and-fuel-british-mosquito-vi.md",
+    "guns-and-fuel-american-p47d.md",
+    "basic-dcs-mission-editor.md",
+    "basic-about-maneuvers.md",
+    "basic-about-aircrafts.md",
+    "Untitled",
+    ".obsidian/plugins/show-all-hidden-files/manifest.json",
+    ".obsidian/plugins/show-all-hidden-files/main.js",
+    ".obsidian/plugins/omnisearch/styles.css",
+    ".obsidian/plugins/omnisearch/manifest.json",
+    ".obsidian/plugins/omnisearch/main.js",
+    ".obsidian/plugins/omnisearch/data.json",
+    ".obsidian/plugins/obsidian-git/styles.css",
+    ".obsidian/plugins/obsidian-git/obsidian_askpass.sh",
+    ".obsidian/plugins/obsidian-git/manifest.json",
+    "python/web-development/django/useful-sub-apps/pagex/docs/django-with-vue-integration.png",
+    "python/web-development/django/4-cms-admin/0-basic/detailview-m2m-horizontal-multi-selection.jpg",
+    "interview-challenges/web-development/url-shortener/10-on-code-using-python.png",
+    "interview-challenges/web-development/url-shortener/6-hash-calc.png",
+    "interview-challenges/web-development/url-shortener/3-estimates.png",
+    "interview-challenges/web-development/url-shortener/1-requirements.png",
+    "web-development/frontend/css/css-examples/django-css-zebra-striping-for-admin-inline.png",
+    "python/web-development/django/3-1-models-database/5-ERD/myapp_models.png",
+    "dev-concepts/architecture-client-server.png",
+    "dev-concepts/architecture-client-server-using-api.png"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "extensions": [
+    "ts",
+    "tsx",
+    "js",
+    "json",
+    "jsx",
+    "py",
+    "vue",
+    "html",
+    "css",
+    "scss"
+  ],
+  "folding": true,
+  "lineNumbers": true,
+  "minimap": false,
+  "semanticValidation": false,
+  "syntaxValidation": false,
+  "theme": "default",
+  "overwriteBg": true
+}

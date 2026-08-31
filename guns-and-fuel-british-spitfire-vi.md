@@ -1,0 +1,31 @@
+# Guns & Fuel, British Spitfire LF Mk IX
+
+---
+## **Guns:**
+
+- **Round types:**
+    - Mg `API` - Armor-piercing incendiary;
+    - Mg `APIT` - API with tracer;
+    - Mg `Bal` - Standard full-metal-jacket bullet;
+    - Mg `BalT` - Bal with tracer;
+    - Cannon `HEI` - High-Explosive Incendiary;
+    - Cannon `SAPI` - Semi-Armor-Piercing Incendiary;
+- **4x MG .303 (7,7mm), 350 rounds;**
+- **2x Cannon (20mm), 120 rounds;**
+
+---
+## **Fuel & Range:**
+Important: ranges are based on "Theoretical maximum"! ==(ATUALIZAR NUMEROS ABAIXO)==
+
+- **Internal tank (front upper + front lower):**
+    - Total capacity: 85igal (385L);
+    - Cruise range: ~690Km (~430mi);
+- **Internal tank + aux external tank:**
+    - Aux tank: 45igal (204L);
+    - Total capacity: 130igal (590L);
+    - Cruise range: ~1.125Km (~700mi);
+
+## More about this plane:
+- [procedures-british-spitfire-vi](procedures-british-spitfire-vi.md)
+- [controls-british-spitfire-vi](controls-british-spitfire-vi.md)
+- IL2, controls Spitfire (soon)...
