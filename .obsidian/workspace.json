@@ -11,10 +11,14 @@
             "id": "185fc913a85ac34e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "basic-about-aircrafts.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "basic-about-aircrafts"
             }
           }
         ]
@@ -170,8 +174,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -179,8 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 558.5,
-    "collapsed": true
+    "width": 558.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,6 +202,7 @@
   },
   "active": "185fc913a85ac34e",
   "lastOpenFiles": [
+    ".git/index.lock",
     "procedures-german-fw190d9.md",
     "basic-about-communication.md",
     "dcs-settings.md",
@@ -224,7 +228,6 @@
     "guns-and-fuel-american-p47d.md",
     "basic-dcs-mission-editor.md",
     "basic-about-maneuvers.md",
-    "basic-about-aircrafts.md",
     "Untitled",
     ".obsidian/plugins/show-all-hidden-files/manifest.json",
     ".obsidian/plugins/show-all-hidden-files/main.js",
