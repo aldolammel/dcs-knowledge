@@ -27,14 +27,14 @@
     - Throttle = dead 0 / Curv 5
 
 - **Engine & Fuel:**
-    - Pitch lever (RPM gauge) More/Less = PageUp/PageDown
-    - Throttle (Boost gauge) More/Less = Throttle
+    - Pitch lever (RPM gauge) More/Less = <span style="color: white; background-color: green; padding:0 5px;">PageUp/PageDown</span>
+    - Throttle (Boost gauge) More/Less = <span style="color: white; background-color: green; padding:0 5px;">Throttle</span>
     - Supercharger system On(up)/Off = manually;
-    - Wing fuel tank jettison = NumLock
+    - Wing fuel tank jettison = <span style="color: white; background-color: green; padding:0 5px;">NumLock</span>
     - Cold-start needs:
         - Left engine:
-            - Start button press = Num1
-            - Booster coil button press = Num2
+            - Start button press = <span style="color: white; background-color: green; padding:0 5px;">Num1</span>
+            - Booster coil button press = <span style="color: white; background-color: green; padding:0 5px;">Num2</span>
         - Right engine:
             - Start button press = Num4
             - Booster coil button press = Num5
@@ -43,7 +43,7 @@
         - Pilot = 1
         - Radio operator = 2
     - Trim:
-        - Trim Elevator D = JOY_BTN_POV1_U (cima)
+        - Trim Elevator D = <span style="color: white; background-color: green; padding:0 5px;">JOY_BTN_POV1_U (cima)</span>
         - Trim Elevator U = JOY_BTN_POV1_D
         - Trim Aileron L = LCtrl + JOY_BTN_POV1_L
         - Trim Aileron R = LCtrl + JOY_BTN_POV1_R

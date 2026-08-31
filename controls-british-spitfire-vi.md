@@ -12,9 +12,7 @@
 
 - Take-off assistance = 0
 - Auto rudder = false
-
 # Controls:
-
 **Important:** configurações salvas aqui:
 ==\My Drive\Hardwares e Softwares\Gaming Configs\XXXXXXXXXXXXXXXXXXXXXXXX==
 
@@ -25,53 +23,53 @@
     - Throttle = dead 0 / Curv 5
 
 - **Engine & Fuel:**
-    - Pitch lever (RPM gauge) More/Less = PageUp/PageDown
-    - Throttle (Boost gauge) More/Less = Throttle
-    - Release external fuel tank (Jettison Drop Tank) = NumLock
+    - Pitch lever (RPM gauge) More/Less = <span style="color: white; background-color: green; padding:0 5px;">PageUp/PageDown</span>
+    - Throttle (Boost gauge) More/Less = <span style="color: white; background-color: green; padding:0 5px;">Throttle</span>
+    - Release external fuel tank (Jettison Drop Tank) = <span style="color: white; background-color: green; padding:0 5px;">NumLock</span>
     - ==Release MW50/Fuel (Jettison) = RShift + NumLock==
     - Cold-start needs:
-        - Start button press = Num1
-        - Booster coil button press = Num2
+        - Start button press = <span style="color: white; background-color: green; padding:0 5px;">Num1</span>
+        - Booster coil button press = <span style="color: white; background-color: green; padding:0 5px;">Num2</span>
 - **Navigation:**
     - Trim:
-        - Trim Elevator D = JOY_BTN_POV1_U (cima)
-        - Trim Elevator U = JOY_BTN_POV1_D
+        - Trim Elevator D = <span style="color: white; background-color: green; padding:0 5px;">JOY_BTN_POV1_U (cima)</span>
+        - Trim Elevator U = <span style="color: white; background-color: green; padding:0 5px;">JOY_BTN_POV1_D</span>
         - Trim Aileron L = not available
         - Trim Aileron R = not available
-        - Trim Rudder L = JOY_BTN_POV1_L
-        - Trim Rudder R = JOY_BTN_POV1_R
-    - Gear Up/Down (Undercarriage) = G
-    - Gear Emergency release = LCtrl + G
-    - Flaps Up = Seta-cima
-    - Flaps TakeOff = Seta-baixo
+        - Trim Rudder L = <span style="color: white; background-color: green; padding:0 5px;">JOY_BTN_POV1_L</span>
+        - Trim Rudder R = <span style="color: white; background-color: green; padding:0 5px;">JOY_BTN_POV1_R</span>
+    - Gear Up/Down (Undercarriage) = <span style="color: white; background-color: green; padding:0 5px;">G</span>
+    - Gear Emergency release = <span style="color: white; background-color: green; padding:0 5px;">LCtrl + G</span>
+    - Flaps Up = <span style="color: white; background-color: green; padding:0 5px;">Seta-cima</span>
+    - Flaps TakeOff = <span style="color: white; background-color: green; padding:0 5px;">Seta-baixo</span>
     - Tail wheel lock/unlock = not available
-    - Wheel Brake (both wheels) = Seta-Esquerda ou Seta-Direita, tanto faz!
+    - Wheel Brake (both wheels) = <span style="color: white; background-color: green; padding:0 5px;">Seta-Esquerda ou Seta-Direita, tanto faz!</span>
 - **Colimador:**
-    - Gun Sight Illumination Decrease = RCtrl + JOY_BTN_POV1_D
-    - Gun Sight Illumination Increase = RCtrl + JOY_BTN_POV1_U
-    - Gun Sight Tint Screen On/Off = RCtrl + JOY_BTN_POV1_L (esquerda)
+    - Gun Sight Illumination Decrease = <span style="color: white; background-color: green; padding:0 5px;">RCtrl + JOY_BTN_POV1_D</span>
+    - Gun Sight Illumination Increase = <span style="color: white; background-color: green; padding:0 5px;">RCtrl + JOY_BTN_POV1_U</span>
+    - Gun Sight Tint Screen On/Off = <span style="color: white; background-color: green; padding:0 5px;">RCtrl + JOY_BTN_POV1_L (esquerda)</span>
 - **Machineguns & Cannons:**
-    - Safety Mode On/Off = LCtr + JOY_BTN1
-        - Fire MGs = Trigger (JOY_BTN1)
-        - Fire Cannons = JOY_BTN2 (bt inferior central)
+    - Safety Mode On/Off = <span style="color: white; background-color: green; padding:0 5px;">LCtr + JOY_BTN1</span>
+        - Fire MGs = <span style="color: white; background-color: green; padding:0 5px;">Trigger (JOY_BTN1)</span>
+        - Fire Cannons = <span style="color: white; background-color: green; padding:0 5px;">JOY_BTN2 (bt inferior central)</span>
 - **Bombs:**
     - Active bombs ==????==
-        - Bomb release = JOY_BTN3 (bt superior esq)
+        - Bomb release = <span style="color: white; background-color: green; padding:0 5px;">JOY_BTN3 (bt superior esq)</span>
 - **Rockets:**
     - Active Rockets (Main rocket switch), ==manually==
-        - Launch rockets (same bt as 'Bomb release') = JOY_BTN3 (bt superior esq)
-        - Rocket Emergency Release toggle On/Off = RCtrl + NumLock
+        - Launch rockets (same bt as 'Bomb release') = <span style="color: white; background-color: green; padding:0 5px;">JOY_BTN3 (bt superior esq)</span>
+        - Rocket Emergency Release toggle On/Off = <span style="color: white; background-color: green; padding:0 5px;">RCtrl + NumLock</span>
 - **Lights:**
     - Cabin Illumination:
-        - Left Dash lamp more = LShift + DEL
-        - Left Dash lamp less = LCtrl + DEL
-        - Right Dash lamp more = RShift + DEL
-        - Right Dash lamp less = RCtrl + DEL
-    - Navigation lights On/Off = Insert
+        - Left Dash lamp more = <span style="color: white; background-color: green; padding:0 5px;">LShift + DEL</span>
+        - Left Dash lamp less = <span style="color: white; background-color: green; padding:0 5px;">LCtrl + DEL</span>
+        - Right Dash lamp more = <span style="color: white; background-color: green; padding:0 5px;">RShift + DEL</span>
+        - Right Dash lamp less = <span style="color: white; background-color: green; padding:0 5px;">RCtrl + DEL</span>
+    - Navigation lights On/Off = <span style="color: white; background-color: green; padding:0 5px;">Insert</span>
 - **Miscellaneous:**
     - Canopy:
-        - Open/Close = E
-        - Bailout = LCtrl+E
+        - Open/Close = <span style="color: white; background-color: green; padding:0 5px;">E</span>
+        - Bailout = <span style="color: white; background-color: green; padding:0 5px;">LCtrl+E</span>
 
 ---
 ## Relembre como fazer a gameplay:

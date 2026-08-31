@@ -33,7 +33,7 @@
     - Radiator Flaps Open/Close = ==RAlt+Seta-cima / RAlt+Seta-baixo==
 - **Navigation:**
     - Trim:
-        - Trim Elevator D = JOY_BTN_POV1_U (cima)
+        - Trim Elevator D = <span style="color: white; background-color: green;">JOY_BTN_POV1_U (cima)</span>
         - Trim Elevator U = JOY_BTN_POV1_D
         - Trim Aileron L = LCtrl+JOY_BTN_POV1_L
         - Trim Aileron R = LCtrl+JOY_BTN_POV1_R
