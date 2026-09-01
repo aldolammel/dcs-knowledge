@@ -36,14 +36,16 @@
 ---
 ## **1) Spitfire > Cold start:**
 
-1. (If applicable) Turn `Cockpit lights` ON;
+1. (If applicable) Turn your `personal flashlight` ON;
 2. Open `Canopy` (crew needs to listen to you);
 3. Request `Start-Up` procedure to tower;
 4. Check the current weather temperature in the `Briefing` screen;
 5. (If applicable) Ask `Ground Crew` to "Rearm and Refuel";
 6. **Electric (part 1/2):**
-    1. Hidden by the `Throttle`, turn the `Undercarriage Indicator Switch` ON (forward);
-    2. (If applicable):
+	1.  Ask `Ground Crew` for `Ground Electrical Power` ON;
+	2. (If applicable) Turn `Cockpit lights` ON;
+    3. Hidden by the `Throttle`, turn the `Undercarriage Indicator Switch` ON (forward);
+    4. (If applicable):
         1. Heavy duty operation weight: ask for the crew to `Ground Electric Power`;
         2. If cold/high-alt.: Turn `Windscreen De-Icer` knob (right leg) to ON (upper red end pointing to the back);
 7. **Fuel:**
@@ -81,14 +83,17 @@
     10. Back to `Primer` valve again (the copper one), twist it to close;
 10. **Warm the engine up:**
     1. Adjust the `Throttle`, making your `Tachometer` park at 12 (1200 RPM);
-    2. **Meanwhile:**
+    2. (If applicable) Scramble situation:
+	    1. ==xxxxxxxxxxxxxxxxxxxx==
+    3. **Meanwhile:**
         - (If applicable) Ask the crew to disconnect the `Ground Electric Power`;
+        - ==Turn Radio (xxxxxxxx) ON and set this up;==
         - ==In `Altimeter` gauge, set it to zero!==
         - In `Compass Course Ring` (behind the `Stick`), align the North with the North Magnetic (a white cross);
         - In `Directional Gyro` gauge (above the compass), set it to the same value as the `North Magnetic` shows with a `bold stripe` pointed to the bird's nose direction;
-    3. Wait for `Oil temp.` gauge (front, right side, copper one) to reach >=20ºC / Wait for `Radiator temp.` gauge (front, right side, green one) to reach 60ºC (~3min);
-    4. Once warmed up, slide back the `Throttle` to idle;
-    5. Release the `Wheel Brakes`;
+    4. Wait for `Oil temp.` gauge (front, right side, copper one) to reach >=20ºC / Wait for `Radiator temp.` gauge (front, right side, green one) to reach 60ºC (~3min);
+    5. Once warmed up, slide back the `Throttle` to idle;
+    6. Release the `Wheel Brakes`;
 11. Ready to go!
 
 ---
@@ -100,6 +105,7 @@
 4. Make sure the `Carburetor Air Control` lever (left leg) is in `Filter IN` (up);
 5. Say on radio:  taxiing!
 6. To move the bird, use only `Throttle` at 11 (1100 RPM), `Rudder`, and `Wheel Brakes` gently. The brake system gets the rudder direction to apply the right pressure to the wheels during a turn.
+7. (If applicable) Request to take off and wait for your go;
 
 ---
 ## **3) Spitfire > Takeoff:**
@@ -119,15 +125,12 @@ EXTRA TIP: Check where you are on the map (or on the kneeboard);
         - If only guns and full internal fuel tank or less: no `flaps` needed;
         - If heavier (bombs and/or loaded w/ `External Fuel Tank`), set `Landing Flaps` lever (front panel, upper corner) down to prepare the bird to takeoff. When the `flaps` are down, over each wing, you can see a small tab indicator up;
     - Make sure everything from "MEANWHILE" Cold-start procedures was done;
-    - (If applicable) Request to take off and wait for your go;
 2. **Go:**
     1. Say on radio: `YourCallsign` rolling!
     2. Pull the `Stick` back, slide up the `Throttle` slowly, adjusting the direction with `Rudder`:
-        
         - **If normal weight:**
             - Speed up until +3 `boost` gauge, then release the `Stick` gently;
             - When the `Tail` comes up, open to +7 boost;
-        
         1. **If heavy weight:**
             - Speed up until +5 `boost` gauge, then release the `Stick` gently;
             - When the `Tail` comes up, open to +9 boost;

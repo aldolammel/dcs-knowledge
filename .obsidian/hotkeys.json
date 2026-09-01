@@ -57,6 +57,12 @@
         "Mod"
       ],
       "key": "."
+    },
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Delete"
     }
   ],
   "global-search-and-replace:search-and-replace": [

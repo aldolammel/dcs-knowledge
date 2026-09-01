@@ -28,22 +28,22 @@ Introduced in 1942, this is a variant of the British 'Wooden Wonder', the twin-e
 ---
 ## **1) Mosquito > Cold start:**
 
-1. (If applicable) Turn `Cockpit lights` ON (use your `personal flashlight` too);
+1. (If applicable) Turn your `personal flashlight` ON;
 2. Open the `left window` (crew needs to listen to you);
 3. Request `Start-Up` procedure to tower;
 4. Check the current weather temperature in the `Briefing` screen;
 5. (If applicable) Ask `Ground Crew` to "Rearm and Refuel";
-6. (If applicable) For Bombing mission:
-    - Ask `Ground Crew` to `Ground Electric Power` ;
-7. **Electric:**
-    1. Unblock the `Electric Power Master` switch (front panel, left side of those two red bts) by pulling only the metal protection UP;
-    2. In `Radiators` panel (front blue panel, above those two red bts):
-        - Make sure both `Engine Water Cooling Flaps` switches are OFF (up);
-        - Turn `Air Filter` (of carburetor) switch ON (down);
-    3. (If applicable) For Bombing mission:
-        - Make sure all 6 `Bomb panel` switches (right knee level) are OFF (up);
-        - ~~If cold/high-alt.: Turn~~ `~~Anti-Icing System~~` ~~(right foot) to ON (not working yet);~~
-    4. In `Circuit Breakers` panel (right side, upper white buttons):
+6. **Electric:**
+	1. Ask `Ground Crew` to `Ground Electric Power` ;
+	2. (If applicable) Turn `Cockpit lights` ON;
+	3. Unblock the `Electric Power Master` switch (front panel, left side of those two red bts) by pulling only the metal protection UP;
+	4. In `Radiators` panel (front blue panel, above those two red bts):
+		1. Make sure both `Engine Water Cooling Flaps` switches are OFF (up);
+		2. Turn `Air Filter` (of carburetor) switch ON (down);
+    5. (If applicable) For Bombing mission:
+	    1. Make sure all 6 `Bomb panel` switches (right knee level) are OFF (up);
+	    2. ~~If cold/high-alt.: Turn~~ `~~Anti-Icing System~~` ~~(right foot) to ON (not working yet);~~
+    6. In `Circuit Breakers` panel (right side, upper white buttons):
         1. Mandatory:
             - Keep `Fuel Pump` switch OFF (up). Main engine-driven pumps feed directly from the wing/inner tanks even when `External Fuel` tanks are in use.
             - Turn `Nav. Lights` switch ON (down);
@@ -80,6 +80,7 @@ Introduced in 1942, this is a variant of the British 'Wooden Wonder', the twin-e
 10. **Warm the engine up:**
     1. **Meanwhile:**
         - (If applicable) Ask the crew to disconnect the `Ground Electric Power` ;
+        - ==Turn Radio (xxxxxxxx) ON and set this up;==
         - ==In `Altimeter` gauge, set it to zero!==
         - In `Compass Course Ring` (front of `Throttle` ), align the North with the North Magnetic (an orange cross);
         - In `Directional Gyro` gauge (front panel, above the stick head pos), set it to the same value as the `North Magnetic` shows with a `bold stripe` pointed to the bird's nose direction;
@@ -105,6 +106,7 @@ Introduced in 1942, this is a variant of the British 'Wooden Wonder', the twin-e
     2. Make sure `Air Filter` (of carburetor) is ON (down);
 6. Say on radio: `YourCallsign` taxiing!
 7. To move the bird, use only `Throttle` at 11.5 (1150 RPM), `Rudder` , and `Wheel Brakes` gently. The brake system gets the rudder direction to apply the right pressure to the wheels during a turn;
+8. (If applicable) Request to take off and wait for your go;
 
 ---
 ## **3) Mosquito > Takeoff:**
@@ -132,8 +134,7 @@ EXTRA TIP: Check where you are on the map (or on the kneeboard);
     - `Flaps` :
         - If only guns and full internal fuel tank or less: no `flaps` needed;
         - If heavier (bombs and/or loaded w/ `External Fuel Tank` ), unblock the `Flaps` lever (front panel, `F` lever), and adjust it to 15º (monitor on the lever's left side);
-    - Make sure everything from "MEANWHILE" Cold-start procedures was done;
-    - Request to take off and wait for your go;
+    - Make sure everything from "MEANWHILE" Cold-start procedures was done; 
 2. **Go:**
     1. Say on radio: `YourCallsign` rolling!
     2. Keep `Stick` in idle, hold the brakes, and slide `Throttle` forward up to 2000 RPM, releasing brakes;

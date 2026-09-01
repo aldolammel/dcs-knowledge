@@ -26,22 +26,24 @@ From September 1944, the Focke-Wulf Dora-9 was a late-war Luftwaffe high-altitud
 ---
 ## **1)** D-9 > **Cold start:**
 
-1. (If applicable) Turn `Cockpit lights` ON;
+1. (If applicable) Turn your `personal flashlight` ON;
 2. Open `Canopy` (crew needs to listen to you);
 3. Request `Start-Up` procedure to tower;
 4. Check the current weather temperature in the `Briefing` screen;
 5. (If applicable) Ask `Ground Crew` to "Rearm and Refuel";
 6. **Electric:**
-    1. Turn `Circuit Breakers` (right side, low panel) ON:
-        1. Mandatory (from top): **all**, except the **3**rd one;
-        2. (If applicable):
-            - If dark: --
-            - If cold: **3**rd;
-            - If raining: **3**rd;
-            - If dropping bombs: --
-    2. In `Kraftstoffpumpen` (fuel pumps) (right side, lower panel):
-        - Mandatory (from top to bottom): **All**, except **E85;**
-        - (If applicable) If `External Fuel` tank: **All;**
+	1. Ask `Ground Crew` for `Ground Electrical Power` ON;
+	2. (If applicable) Turn `Cockpit lights` ON;
+	3. Turn `Circuit Breakers` (right side, low panel) ON:
+		1. Mandatory (from top): **all**, except the **3**rd one;
+		2. (If applicable):
+			- If dark: --
+			- If cold: **3**rd;
+			- If raining: **3**rd;
+			- If dropping bombs: --
+		3. In `Kraftstoffpumpen` (fuel pumps) (right side, lower panel):
+			1. Mandatory (from top to bottom): **All**, except **E85;**
+			2. (If applicable) If `External Fuel` tank: **All;**
 7. **Fuel:**
     1. (If applicable) Ask crew to add the `External Fuel Tank`;
     2. In `Fuel Tank Selector` (red valve on the left):
@@ -70,13 +72,18 @@ From September 1944, the Focke-Wulf Dora-9 was a late-war Luftwaffe high-altitud
     3. Slide `Throttle` up until `Tachometer` hits 12 (1200) RPM;
         - Stay until `Oil temp.` gauge (red) hits 40ºC;
     4. Now, `Tachometer` to 1800 RPM;
-    5. **Meanwhile:**
-        - In the `Artificial Horizon`, rotate it fully anti-clockwise;
-        - ==In `Altimeter` gauge, set it to zero!==
-    6. Wait for `Oil temp.` in 60ºC (probably it can take ~==5min==);
-    7. Once warmed up, slide back the `Throttle` to idle.
-    8. ==Set `Cooling Flaps Control` to `Auf` (open);==
-    9. Release `Wheel Brakes` OR remove the `Wheel Chocks`;
+    5. (If applicable) Scramble situation:
+	    1. ==xxxxxxxxxxxxxxxxxxxx==
+    6. **Meanwhile:**
+	    - ==Turn `Battery Switch` (front panel, left side, over the red valve) ON (left);==
+	    - Ask `Ground Crew` to disconnect `Ground Electric Power`;
+	    - ==Turn Radio (xxxxxxxx) ON and set this up;==
+	    1. In the `Artificial Horizon`, rotate it fully anti-clockwise;
+	    2. ==In `Altimeter` gauge, set it to zero!==
+    7. Wait for `Oil temp.` in 60ºC (probably it can take ~==5min==);
+    8. Once warmed up, slide back the `Throttle` to idle.
+    9. ==Set `Cooling Flaps Control` to `Auf` (open);==
+    10. Release `Wheel Brakes` OR remove the `Wheel Chocks`;
 10. Ready to go!
 
 ---
@@ -89,6 +96,7 @@ From September 1944, the Focke-Wulf Dora-9 was a late-war Luftwaffe high-altitud
 5. Say on radio: `YourCallsign` taxiing!
 6. To move, `Throttle` (1200-1400RPM) and `Wheel Brakes` gently;
 7. If needed, pull the `Stick` back to lock `Tail Wheel`;
+8. (If applicable) Request to take off and wait for your go;
 
 ---
 ## 3) D-9 > Takeoff:
@@ -108,7 +116,6 @@ EXTRA TIP: Check where you are on the map (or on the `kneeboard`);
             - (If applicable) If MW 50 is not for extra fuel, turn `MW 50 Boost` switch ON (forward);
             - Trim nose (stabilizer) up to +2.0 (left side, weird right wheel);
     7. Make sure everything from "MEANWHILE" Cold-start procedures was done;
-    8. (If applicable) Request `Takeoff` and wait for your go;
 2. **Go:**
     1. Say on radio: `YourCallsign` rolling!
     2. Pull the `Stick` back (it locks the `Tail Wheel`), slide up the `Throttle` slowly until the `Start` throttle rail end position.

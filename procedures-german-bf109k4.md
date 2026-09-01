@@ -31,13 +31,15 @@ An October 1944 variant of the Bf 109, Germany's most important and deadliest fi
 ---
 ## **1) 109K-4 > Cold start:**
 
-1. (If applicable) Turn `Cockpit lights` ON;
+1. (If applicable) Turn your `personal flashlight` ON;
 2. Open Canopy (crew needs to listen to you);
 3. Request `Start-Up` procedure to tower;
 4. Check the current weather temperature in the `Briefing` screen;
 5. (If applicable) Ask `Ground Crew` to "Rearm and Refuel";
 6. **Electric:**
-    1. Turn `Circuit Breakers` (right side, below `pistol flare`) ON (in):
+    1. Ask `Ground Crew` for `Ground Electrical Power` ON;
+    2. (If applicable) Turn `Cockpit lights` ON;
+    3. Turn `Circuit Breakers` (right side, below `pistol flare`) ON (in):
         - Mandatory (from top to bottom):
             - Left column: **1**st; **3**rd; **6**th (last one);
             - Right column: **all of them**;
@@ -74,12 +76,17 @@ An October 1944 variant of the Bf 109, Germany's most important and deadliest fi
     2. Set `Radiators Mode` (right side, above a red valve on the floor) to `Zu` (close) pos.
     3. Using the `Throttle` , keep it until the `Tachometer` gauge hits 6 (600 RPM) for ~25 secs.
     4. Sliding up `Throttle` , increase the `Tachometer` to 15 (1500 RPM);
-    5. **Meanwhile:**
-        - In the `Artificial Horizon` , rotate it fully anti-clockwise;
-        - ==In `Altimeter` gauge, set it to zero!==
-    6. Wait for the `Oil pressure` gauge (half-yellow, half-red, in the front-right panel) to stabilize at ~9.5, and the `Oil temperature` gauge (right side, small red edges) reaches 25ºC.
-    7. Once warmed up, slide back the `Throttle` to idle;
-    8. Release the `Wheel Brakes` OR remove the `Wheel Chocks;
+    5. (If applicable) Scramble situation:
+	    1. ==xxxxxxxxxxxxxxxxxxxx==
+    6. **Meanwhile:**
+	    - ==Turn `Battery Switch` (front panel, left side, over the red valve) ON (left);==
+	    - Ask `Ground Crew` to disconnect `Ground Electric Power`;
+	    - ==Turn Radio (xxxxxxxx) ON and set this up;==
+	    1. In the `Artificial Horizon` , rotate it fully anti-clockwise;
+	    2. ==In `Altimeter` gauge, set it to zero!==
+    7. Wait for the `Oil pressure` gauge (half-yellow, half-red, in the front-right panel) to stabilize at ~9.5, and the `Oil temperature` gauge (right side, small red edges) reaches 25ºC.
+    8. Once warmed up, slide back the `Throttle` to idle;
+    9. Release the `Wheel Brakes` OR remove the `Wheel Chocks;
 10. Ready to go!
 
 ---
@@ -91,10 +98,10 @@ An October 1944 variant of the Bf 109, Germany's most important and deadliest fi
 4. Set the `Governor` switch to ON (down);
 5. Say on radio: `YourCallsign` taxiing!
 6. To move, `Throttle` (1000-1100RPM) and `Wheel Brakes` gently;
+7. (If applicable) Request to take off and wait for your go;
 
 ---
-## **3) 109K-4 > Takeoff:**
-
+## 3) 109K-4 > Takeoff:
 EXTRA TIP: Check where you are on the map (or on the `kneeboard`);
 
 1. **Preparing:**
@@ -111,7 +118,6 @@ EXTRA TIP: Check where you are on the map (or on the `kneeboard`);
             - (If applicable) If MW 50 is not for extra fuel, turn `MW 50 Boost` switch ON (forward);
             - Trim nose (stabilizer) up to +2.0 (left side, weird right wheel);
     8. Make sure everything from "MEANWHILE" Cold-start procedures was done;
-    9. (If applicable) Request to take off and wait for your go;
 2. **Go:**
     1. Say on radio: `YourCallsign` rolling!
     2. Keep the `Stick` in idle, slide up the `Throttle` slowly, adjusting the direction with `Rudder` , speeding up until ATA 1.35.

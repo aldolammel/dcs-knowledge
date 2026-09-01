@@ -25,6 +25,8 @@ Creating a checkbox list (`Ctrl + L`)
 Creating a warning (`Ctrl + Numpad-comma`):
 ==Example==
 
+Creating a Green Highlight (`Alt + Numpad-comma`):
+<span style="color: white; background-color: green; padding:0 5px;">Example</span>
 
 Creating a code block (`Ctrl + Numpad0`):
 ```
