@@ -29,11 +29,12 @@ Introduced in 1942, this is a variant of the British 'Wooden Wonder', the twin-e
 ## **1) Mosquito > Cold start:**
 
 1. (If applicable) Turn your `personal flashlight` ON;
-2. Open the `left window` (crew needs to listen to you);
-3. Request `Start-Up` procedure to tower;
-4. Check the current weather temperature in the `Briefing` screen;
-5. (If applicable) Ask `Ground Crew` to "Rearm and Refuel";
-6. **Electric:**
+2. Open `left window` (crew needs to listen to you);
+3. (If applicable) Looking to `Radio Operator` seat, lower the `Armored Backrest`;
+4. Request `Start-Up` procedure to tower;4. 
+5. Check the current weather temperature in the `Briefing` screen;
+6. (If applicable) Ask `Ground Crew` to "Rearm and Refuel";
+7. **Electric:**
 	1. Ask `Ground Crew` to `Ground Electric Power` ;
 	2. (If applicable) Turn `Cockpit lights` ON;
 	3. Unblock the `Electric Power Master` switch (front panel, left side of those two red bts) by pulling only the metal protection UP;
@@ -42,7 +43,7 @@ Introduced in 1942, this is a variant of the British 'Wooden Wonder', the twin-e
 		2. Turn `Air Filter` (of carburetor) switch ON (down);
     5. (If applicable) For Bombing mission:
 	    1. Make sure all 6 `Bomb panel` switches (right knee level) are OFF (up);
-	    2. ~~If cold/high-alt.: Turn~~ `~~Anti-Icing System~~` ~~(right foot) to ON (not working yet);~~
+	    2. ~~If cold/high-alt.: Turn `Anti-Icing System' (right foot) to ON~~ ==(not working yet)==;
     6. In `Circuit Breakers` panel (right side, upper white buttons):
         1. Mandatory:
             - Keep `Fuel Pump` switch OFF (up). Main engine-driven pumps feed directly from the wing/inner tanks even when `External Fuel` tanks are in use.
@@ -61,8 +62,8 @@ Introduced in 1942, this is a variant of the British 'Wooden Wonder', the twin-e
         1. ==Pull `Drop Tank` lever (right leg) to ON (back);==
         2. ==Turn `Main Tank` lever to OFF (down);==
 9. **Engine:**
-    1. Both `Pitch` levers (side by side with `Throttle` ), slide them forward until the end;
-    2. Make sure `Supercharger Gear` switch (rear of the `Throttle` ) is in MOD pos (down);
+    1. Both `Pitch` levers (side by side with `Throttle`), slide them forward until the end;
+    2. Make sure `Supercharger Gear` switch (rear of the `Throttle`) is in MOD pos (down);
     3. Ask `Ground Crew` :
         - To place `Wheel Chocks` (to avoid the plane moving);
         - To `start priming engines` ;
@@ -82,7 +83,7 @@ Introduced in 1942, this is a variant of the British 'Wooden Wonder', the twin-e
         - (If applicable) Ask the crew to disconnect the `Ground Electric Power` ;
         - ==Turn Radio (xxxxxxxx) ON and set this up;==
         - ==In `Altimeter` gauge, set it to zero!==
-        - In `Compass Course Ring` (front of `Throttle` ), align the North with the North Magnetic (an orange cross);
+        - In `Compass Course Ring` (front of `Throttle`), align the North with the North Magnetic (an orange cross);
         - In `Directional Gyro` gauge (front panel, above the stick head pos), set it to the same value as the `North Magnetic` shows with a `bold stripe` pointed to the bird's nose direction;
         - (If applicable) In `Circuit Breakers` panel, turn `UV Light` switch ON (down), and adjust the cockpit lights intensity based in your taste;
     2. Wait for `Oil temp.` gauges (front, left side, between `Oil Pressure` gauges) to reach 40ºC / Wait for `Radiator temp.` gauges (below the `Oil temp.` gauges) to reach 60ºC (~3min);
@@ -99,60 +100,57 @@ Introduced in 1942, this is a variant of the British 'Wooden Wonder', the twin-e
 
 1. Make sure `Nav. Lights` are ON;
 2. (If applicable) Make sure `Landing Light` knobs are ON;
-3. Make sure all windows are closed;
-4. Make sure `Pitch` levers are fully forward;
-5. In `Radiators` panel:
+3. (If applicable) Looking to `Radio Operator` seat, lower the `Armored Backrest`;
+4. Make sure all windows are closed;
+5. Make sure `Pitch` levers are fully forward;
+6. In `Radiators` panel:
     1. Make sure both `Engine Water Cooling Flaps` switches are ON (down);
     2. Make sure `Air Filter` (of carburetor) is ON (down);
-6. Say on radio: `YourCallsign` taxiing!
-7. To move the bird, use only `Throttle` at 11.5 (1150 RPM), `Rudder` , and `Wheel Brakes` gently. The brake system gets the rudder direction to apply the right pressure to the wheels during a turn;
-8. (If applicable) Request to take off and wait for your go;
+7. Say on radio: `YourCallsign` taxiing!
+8. To move the bird, use only `Throttle` at 11.5 (1150 RPM), `Rudder` , and `Wheel Brakes` gently. The brake system gets the rudder direction to apply the right pressure to the wheels during a turn;
+9. (If applicable) Request to take off and wait for your go;
 
 ---
-## **3) Mosquito > Takeoff:**
-
+## 3) Mosquito > Takeoff:
 EXTRA TIP: Check where you are on the map (or on the kneeboard);
 
 1. **Preparing:**
     - Make sure `Nav. Lights` are ON;
     - (If applicable) Make sure `Landing Light` knobs are ON;
+    - (If applicable) Looking to `Radio Operator` seat, lower the `Armored Backrest`;
+    - Make sure all windows are closed;
     - On the runway, you are already in takeoff position;
     - Make sure `Pitch` levers are fully forward;
     - Make sure both `Fuel Tank` selectors are in the `Outer Tanks` positions;
-    - Unblock the `Gear` lever (right knee, red one), making sure the `protection plate` is felt to pilot direction;
+    - Unblock `Gear` lever (right knee, red one), making sure the `protection plate` is felt to pilot direction;
     1. In `Radiators` panel:
         - Make sure both `Engine Water Cooling Flaps` switches are ON (down);
         - Make sure `Air Filter` (of carburetor) is ON (down);
     - (If) Heavy duty mission:
-        - Turn `Supercharger` (rear of `Throttle` ) to `AUTO` (up);
-    - `Trim_:
-        - `Trim Elevator` (monitor above `Throttle` ):
-            - If no bombs: to 1 pos (nose down);
-            - If with bombs: to 2 pos (nose down);
-        - `Trim Rudder` (monitor right side of `Reflector Sight` ) to right until the "Trim" pos;
+        - Turn `Supercharger` (rear of `Throttle`) to `AUTO` (up);
+    - Trim:
+        - `Trim Elevator` (monitor above `Throttle`):
+            - If no bombs: to `1` pos (nose down);
+            - If with bombs: to `2` pos (nose down);
+        - `Trim Rudder` (monitor right side of `Reflector Sight`) to right until the "Trim" pos;
         - `Trim Ailerons` (right knee) to neutral (center) pos;
-    - `Flaps` :
+    - Flaps:
         - If only guns and full internal fuel tank or less: no `flaps` needed;
-        - If heavier (bombs and/or loaded w/ `External Fuel Tank` ), unblock the `Flaps` lever (front panel, `F` lever), and adjust it to 15º (monitor on the lever's left side);
+        - If heavier (bombs and/or loaded w/ `External Fuel Tank`), unblock `Flaps` lever (front panel, `F` lever), and adjust it to 15º (monitor on the lever's left side);
     - Make sure everything from "MEANWHILE" Cold-start procedures was done; 
 2. **Go:**
     1. Say on radio: `YourCallsign` rolling!
-    2. Keep `Stick` in idle, hold the brakes, and slide `Throttle` forward up to 2000 RPM, releasing brakes;
-        - **If normal weight:**
-            - Speed up to 3.000 RPM;
-            - When 110mhp, gently pull the Stick back to fly;
-        1. **If heavy weight:**
-            - Speed up to 3.000 RPM;
-            - When 110mhp, gently pull the Stick back to fly;
+    2. Holding `brake pedals`, keep `Stick` idle, and slide `Throttle` forward up to 2.000 RPM;
+    3. Release `brake pedals` and speed up to 3.000 RPM;
+    4. When 110mhp, gently pull the `Stick` back to fly;
 3. **Once airborne:**
     - Press `Brakes` to stop the tires;
-    - `Gear up` , holding the red lever up for 5 secs - limit speed's ==XXXmph==;
+    - `Gear up`, holding the red lever up for 5 secs - limit speed's ==XXXmph==;
     - (If applicable) `Flaps up` to 0º - limit speed's ==XX0mph==;
     - Say on radio: `YourCallsign` airborne!
-    - Trim adjustments!
     - Turn `Air Filter` (of carburetor) is OFF (up);
-    - Turn `Supercharger to` ON/AUTO (up);
-    - In `Oxygen` valve (behind the `Stick` , small wing knob), open it (vertical) ==to arm the auto feed (idle until 10K feet);==
+    - (If applicable) Turn `Supercharger to` ON/AUTO (up);
+    - Trim adjustments!
     1. **(If applicable) In combat skies:**
         - Turn `Nav. Lights` OFF;
         - Turn `Cabin illumination OFF` ;
@@ -163,8 +161,10 @@ EXTRA TIP: Check where you are on the map (or on the kneeboard);
 ## **4) Mosquito > Climbing & Cruise:**
 
 - **Climbing:**
-    - ==Ceiling: 43.000ft (~13km);==
-    - ==`Pitch` 2850 RPM, `Throttle` +12 Boost (nose up to 170mph stable);==
+    - Ceiling: 35.000ft (~10.600m);
+    - `Pitch` 2850 RPM, `Throttle` +9 Boost (==nose up to 170mph stable==);
+    - From 10.000ft (~3.000m):
+	    - In `Oxygen` valve (behind the `Stick`, small wing knob), open it (vertical);
     - ==From 18.000ft alt:==
         - ==Make sure `Circuit Breaker Pitot Heating` switch is ON (down);==
         - ==Turn `Windscreen De-Icer` knob (right leg) to ON (upper red end pointing to the back);==
@@ -184,7 +184,7 @@ EXTRA TIP: Check where you are on the map (or on the kneeboard);
 
 - **General:**
     - [basic-about-maneuvers](basic-about-maneuvers.md)
-    - ==Never use high `Boost` (`Throttle` ) settings with low RPM (`Pitch` );==
+    - ==Never use high `Boost` (`Throttle`) settings with low RPM (`Pitch`);==
         - ==For less power = First, reduce `Boost` , and then RPM;==
         - ==For more power = First, increase RPM, and then `Boost` ;==
     - ==Stall speed < 160mph (257Km);==
@@ -196,19 +196,22 @@ EXTRA TIP: Check where you are on the map (or on the kneeboard);
     - ==xxxx==
     - ==For Rockets use, check `Special Ops` section;==
 - **Ground attack:**
-    - Bombing straight:
-        - In Bomb panel (right knee):
-            - Activate `Bomb Panel` dual switch (down);
-            - Activate each bomb switch (down);
-            - Activate `Fuse` switch (down);
-        - (If applicable) Push `Bomb Bay` lever ("B" one) to open it, and wait for the Yellow light signal on the `Bomb` `Panel` ;
-        - Vel. 160mph, ==Alt. 6000ft;==
-        - Release bombs;
-        - (If applicable) In `Bomb Bay` lever, pull it up to close it;
-    - Bombing diving:
-        - ﻿﻿[https://www.youtube.com/watch?v=\_C7n0GJH_DU](https://www.youtube.com/watch?v=_C7n0GJH_DU)
-        - ==Vel. 230mph, Alt. 6000ft;==
-        - ==Dive 45-60º, release bomb(s) at 3000ft, recover alt from 2500ft max;==
+    - Bombing:
+	    - In Bomb panel (right side of `Flaps` lever):
+		    - Activate `Bomb Panel` dual-switch (down);
+		    - Activate every bomb you wanna use (down):
+			    - Upper dual switches = wing ones;
+			    - Middle dual switches = Internal/fuselage ones;
+		    - Activate `Fuse` lower switches (down);
+	    - (If applicable) Push `Bomb Bay` lever ("B" one) to open it, and wait for the Yellow light signal;
+	    - **Critical:** long trigger press to release all of them; or single press for just one;
+	    - Straight approach:
+		    - Vel. 160mph, ==Alt. 6000ft;==
+	    - Dive approach:
+		    - ==[https://www.youtube.com/watch?v=\_C7n0GJH_DU](https://www.youtube.com/watch?v=_C7n0GJH_DU)
+		    - ==Vel. 230mph, Alt. 6000ft;==
+		    - ==Dive 45-60º, release bomb(s) at 3000ft, recover alt from 2500ft max;==
+	    - (If applicable) In `Bomb Bay` lever, pull it up to close it;﻿
     - Strafing:
         - ==xxxx==
 
@@ -217,7 +220,7 @@ EXTRA TIP: Check where you are on the map (or on the kneeboard);
 
 - **(If) Firing rockets:**
     1. Turn `Rockets Master` switch (side by side with `Supercharger` switch) ON (down);
-    2. ~~In~~ `~~Rockets Manual Advancement~~` ~~silver button, select how many rockets to use simultaneously (not working);~~
+    2. ~~In `Rockets Manual Advancement` silver button, select how many rockets to use simultaneously~~ (not working);
     3. In `Rockets Salvo` switch (front panel, upper left side), define if you want (ON/down) or not (OFF/up) to fire all rockets at the same time;
 - **(If) Discarding `External Fuel` Tank:**
     1. Turn `Fuel Pump` switch (right panel, white buttons) OFF (up);
@@ -260,10 +263,10 @@ EXTRA TIP: Check where you are on the map (or on the kneeboard);
     2. Turn `Supercharger Gear` switch to MOD (down);
     3. Make sure `Pitch` lever is in fully forward pos;
     4. `Trim_:
-        - `Trim Elevator` (monitor above `Throttle` ):
+        - `Trim Elevator` (monitor above `Throttle`):
             - ==If no bombs: to 1 pos (nose down);==
             - ==If with bombs: to 2 pos (nose down);==
-        - `Trim Rudder` (monitor right side of `Reflector Sight` ) ==to right until the "Trim" pos;==
+        - `Trim Rudder` (monitor right side of `Reflector Sight`) ==to right until the "Trim" pos;==
         - `Trim Ailerons` (right knee) ==to neutral (center) pos;==
     5. Unblock `Flaps` lever, and adjust it to ==15º== (monitor on the lever's left side);
     6. ==Vel. 160mph, alt. 1000 feet;==

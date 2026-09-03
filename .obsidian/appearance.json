@@ -2,5 +2,8 @@
   "showRibbon": true,
   "showViewHeader": true,
   "accentColor": "",
-  "nativeMenus": false
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "custom-inline-code"
+  ]
 }

@@ -1,0 +1,4 @@
+/* Background color behind inline code */
+body {
+  --code-background: #373737;
+}

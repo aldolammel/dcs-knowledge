@@ -31,67 +31,76 @@
 - Trigger color only for those about "Mission Status" (win, neutral, fail);
     - Use "blue" for triggers that need to be tested or have an issue;
 
-## Trigger types column:
+## `Trigger types` column:
 
-- **Type: Mission Start**
+- **Type:** <span style="color: white; background-color: green; padding:0 5px;">Mission Start</span>
     - It checks its condition just once;
     - It's automatically deleted right after its condition is checked, no matter the result;
-- **Type: Once**
+- **Type:** <span style="color: white; background-color: green; padding:0 5px;">Once</span>
     - It checks its condition 1x per second;
     - It's automatically deleted only when its condition is completely true;
-- **Type: Repetitive Action**
+- **Type:** <span style="color: white; background-color: green; padding:0 5px;">Repetitive Action</span>
     - It checks its condition 1x per second;
     - It's never deleted, no matter the condition result;
     - While its condition is true, it will repeatedly execute its actions;
     - If its condition becomes completely false again, the trigger stays working, waiting until the true condition;
-- **Type: Switched Condition**
+- **Type:** <span style="color: white; background-color: green; padding:0 5px;">Switched Condition</span>
     - It checks its condition 1x per second;
     - It's never deleted, no matter the condition result;
     - When its condition is completely true, it executes its actions just once;
     - Since it's never deleted, once true, it enters an idle state until the mission ends or it has its condition dynamically changed by another trigger;
 
-## Trigger Conditions column options:
+## `Trigger Conditions` column options:
 
-- Time More = ==xxxxx==
+- <span style="color: white; background-color: green; padding:0 5px;">Time More</span> = ==xxxxx==
     - It doesn't work with "Mission Start" trigger type;
-- Time Less = ==xxxxx==
-- Time Since Flag = Perfect when you wanna add action(s) delay case a specific flag is true;
-- Flag is True = If a flag exists, this condition is true;
-- Flag is False = If a flag doesn't exist, this condition is true;
-- Unit Alive = ==xxxxx==
-- Group Dead = ==xxxxx==
-- Random = Add a probability to be considered and commonly you will use a flag action or group activation;
+- <span style="color: white; background-color: green; padding:0 5px;">Time Less</span> = ==xxxxx==
+- <span style="color: white; background-color: green; padding:0 5px;">Time Since Flag</span> = Perfect when you wanna add action(s) delay case a specific flag is true;
+- <span style="color: white; background-color: green; padding:0 5px;">Flag is True</span> = If a flag exists, this condition is true;
+- <span style="color: white; background-color: green; padding:0 5px;">Flag is False</span> = If a flag doesn't exist, this condition is true;
+- <span style="color: white; background-color: green; padding:0 5px;">Unit Alive</span> = ==xxxxx==
+- <span style="color: white; background-color: green; padding:0 5px;">Group Dead</span> = ==xxxxx==
+- <span style="color: white; background-color: green; padding:0 5px;">Random</span> = Used only with the trigger type `Start Mission`, it adds a probability to return `True`. If it's true, generally it uses a `Flag On` action and/or a `Group Activation`;
     - This just works with "Mission Start" trigger type.
 
-## Trigger Actions column options:
+## `Trigger Actions` column options:
 
-- Do Script file = load (and auto copy) any Lua file anywhere in your local machine each time the mission is saved.
-- Flag On = Create a flag using any integer (number) only.
-- Flag Set Random Value = ==xxxxx==.
-- Group Activate = Once an object/group is checked with 'Late Activation", this action will activate the group.
-- Set Briefing = You update the "Objective" area in the Briefing Screen.
+- <span style="color: white; background-color: green; padding:0 5px;">AI Task Set</span> = Replaces the group's current task by another one listed in the group's `Triggered Actions` tab. When this action is called, it's like "Stop doing what you're doing and do this instead".
+- <span style="color: white; background-color: green; padding:0 5px;">AI Task Push</span> = Temporarily adds the selected task (listed in the group's `Triggered Actions` tab) on top of the current task. When this action is called, it's like "Do this additional task now, then return to what you were doing".
+- <span style="color: white; background-color: green; padding:0 5px;">Do Script file</span> = load (and auto copy) any Lua file anywhere in your local machine each time the mission is saved.
+- <span style="color: white; background-color: green; padding:0 5px;">Flag On</span> = Create a flag using any integer (number) only.
+- <span style="color: white; background-color: green; padding:0 5px;">Flag Set Random Value</span> = ==xxxxx==.
+- <span style="color: white; background-color: green; padding:0 5px;">Group Activate</span> = Once an object/group is checked with 'Late Activation", this action will activate the group.
+- <span style="color: white; background-color: green; padding:0 5px;">Set Briefing</span> = You update the "Objective" area in the Briefing Screen.
+## What is the differences between actions in a group's `waypoint-0` and those ones in the group's "`Triggered Actions`" tab?
 
-## Airplane Task options:
+- **Action in `Waypoint-0`:**
+	- Make a group behave just like that by default;
+	- The group just change it if its `waypoint-1` actions window is not empty;
+- **Actions in `Triggered Actions` tab:**
+	- All these actions are "planned" to be used dynamically later by mission triggers;
+	- Once a group has something in this tab, you can call it using `AI Task Set` and `AI Task Push` through mission triggers;
+## Airplane `Task` options:
 
 - **Air-to-Air Roles**
-    - CAP (Combat Air Patrol): Defensive or area-control role. AI patrols an assigned area and engages any enemy aircraft detected within their detection/radar envelope.
-    - Fighter Sweep: Offensive air superiority. AI actively hunts enemy aircraft ahead of friendly bomber waves or deep behind enemy lines.
-    - Escort: Dedicated protection. AI stays close to a designated friendly asset (like a flight of B-17s) and only engages hostiles that threaten the escorted flight.
-    - Intercept: Quick-scramble air defense. AI focuses on vectoring straight to incoming hostiles (typically enemy bombers or reconnaissance) to destroy them before they reach their targets.
+    - <span style="color: white; background-color: green; padding:0 5px;">CAP</span> (Combat Air Patrol): Defensive or area-control role. AI patrols an assigned area and engages any enemy aircraft detected within their detection/radar envelope.
+    - <span style="color: white; background-color: green; padding:0 5px;">Fighter Sweep:</span> Offensive air superiority. AI actively hunts enemy aircraft ahead of friendly bomber waves or deep behind enemy lines.
+    - <span style="color: white; background-color: green; padding:0 5px;">Escort:</span> Dedicated protection. AI stays close to a designated friendly asset and only engages hostiles that threaten the escorted flight.
+    - <span style="color: white; background-color: green; padding:0 5px;">Intercept:</span> Quick-scramble air defense. AI focuses on vectoring straight to incoming hostiles to destroy them before they reach their targets.
 - **Air-to-Ground Roles**
-    - CAS (Close Air Support): Tactical ground attack near friendly troops. AI targets light vehicles, artillery, and infantry. Highly useful for Jabos (like Fw 190 A-8s or P-47s) supporting frontline ground battles.
-    - Ground Attack: Direct strike against fixed structures, supply lines, soft targets, or fortified positions (e.g., train yards, encampments, supply depots).
-    - Runway Attack: Dedicated strike mission targeting enemy airfields to destroy runways and grounded aircraft.
-    - Pinpoint Strike: High-precision bombing against specific individual high-value targets (bridges, radar towers, bunker command posts).
-    - Anti-Ship: Maritime strike targeting convoys, landing craft, or naval vessels.
+    - <span style="color: white; background-color: green; padding:0 5px;">CAS</span> (Close Air Support): Tactical ground attack near friendly troops.
+    - <span style="color: white; background-color: green; padding:0 5px;">Ground Attack:</span> Direct strike against fixed structures, supply lines, soft targets, or fortified positions (e.g., train yards, encampments, supply depots).
+    - <span style="color: white; background-color: green; padding:0 5px;">Runway Attack:</span> Dedicated strike mission targeting enemy airfields to destroy runways and grounded aircraft.
+    - <span style="color: white; background-color: green; padding:0 5px;">Pinpoint Strike:</span> High-precision bombing against specific individual high-value targets (bridges, radar towers, bunker command posts).
+    - <span style="color: white; background-color: green; padding:0 5px;">Anti-Ship:</span> Maritime strike targeting convoys, landing craft, or naval vessels.
 - **Support & Utility Roles**
-    - Reconnaissance: Flying a path to gather intelligence. AI avoids direct engagements unless attacked.
-    - Transport / Aerobatics / Nothing: Utility tasks typically used to set up civil flights, unarmed utility drops, or customized AI scripts without default combat behaviors.
+    - <span style="color: white; background-color: green; padding:0 5px;">Reconnaissance:</span> Flying a path to gather intelligence. AI avoids direct engagements unless attacked.
+    - <span style="color: white; background-color: green; padding:0 5px;">Transport / Aerobatics / Nothing: </span>Utility tasks typically used to set up civil flights, unarmed utility drops, or customized AI scripts without default combat behaviors.
 
-## Airplane Reaction To Threat options:
+## Airplane `Reaction To Threat` options:
 
-- No Reaction: Ignores threats and performs no defensive reaction. It won't maneuver to evade, use defensive countermeasures as a threat response, or abort because of the threat.
-- Passive Defense: Uses defensive systems such as chaff/flares/ECM, but does not perform evasive maneuvers.
-- Evade Fire: Performs defensive maneuvers when threatened, and also uses passive defenses.
-- Allow Abort Mission: The most permissive/default behavior: if the AI considers the threat sufficiently dangerous, it can abort its mission and RTB.
-- Horizontal AAA fire evade: ==xxxxx==.
+- <span style="color: white; background-color: green; padding:0 5px;">No Reaction:</span> Ignores threats and performs no defensive reaction. It won't maneuver to evade, use defensive countermeasures as a threat response, or abort because of the threat.
+- <span style="color: white; background-color: green; padding:0 5px;">Passive Defense:</span> Uses defensive systems such as chaff/flares/ECM, but does not perform evasive maneuvers.
+- <span style="color: white; background-color: green; padding:0 5px;">Evade Fire:</span> Performs defensive maneuvers when threatened, and also uses passive defenses.
+- <span style="color: white; background-color: green; padding:0 5px;">Allow Abort Mission:</span> The most permissive/default behavior: if the AI considers the threat sufficiently dangerous, it can abort its mission and RTB.
+- <span style="color: white; background-color: green; padding:0 5px;">Horizontal AAA fire evade:</span> ==xxxxx==.

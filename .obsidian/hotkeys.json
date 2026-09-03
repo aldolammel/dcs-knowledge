@@ -148,5 +148,19 @@
       ],
       "key": "Delete"
     }
+  ],
+  "templater-obsidian:.obsidian/_format-templates/green-highlight.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "."
+    },
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Delete"
+    }
   ]
 }

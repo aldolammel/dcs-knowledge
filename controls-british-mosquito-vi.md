@@ -14,9 +14,7 @@
 - Auto rudder = false
 - Cockpit camera origin = Shift to aim when reflector sight is turned on
 - Customized cockpit = Default
-
 # Controls:
-
 **Important:** configurações salvas aqui:
 ==\My Drive\Hardwares e Softwares\Gaming Configs\XXXXXXXXXXXXXXXXXXXXXXXX==
 
@@ -36,58 +34,58 @@
             - Start button press = <span style="color: white; background-color: green; padding:0 5px;">Num1</span>
             - Booster coil button press = <span style="color: white; background-color: green; padding:0 5px;">Num2</span>
         - Right engine:
-            - Start button press = Num4
-            - Booster coil button press = Num5
+            - Start button press = <span style="color: white; background-color: green; padding:0 5px;">Num4</span>
+            - Booster coil button press = <span style="color: white; background-color: green; padding:0 5px;">Num5</span>
 - **Navigation:**
     - Seats:
-        - Pilot = 1
-        - Radio operator = 2
+        - Pilot = <span style="color: white; background-color: green; padding:0 5px;">1</span>
+        - Radio operator = <span style="color: white; background-color: green; padding:0 5px;">2</span>
     - Trim:
         - Trim Elevator D = <span style="color: white; background-color: green; padding:0 5px;">JOY_BTN_POV1_U (cima)</span>
-        - Trim Elevator U = JOY_BTN_POV1_D
-        - Trim Aileron L = LCtrl + JOY_BTN_POV1_L
-        - Trim Aileron R = LCtrl + JOY_BTN_POV1_R
-        - Trim Rudder L = JOY_BTN_POV1_L
-        - Trim Rudder R = JOY_BTN_POV1_R
+        - Trim Elevator U = <span style="color: white; background-color: green; padding:0 5px;">JOY_BTN_POV1_D</span>
+        - Trim Aileron L = <span style="color: white; background-color: green; padding:0 5px;">LCtrl + JOY_BTN_POV1_L</span>
+        - Trim Aileron R = <span style="color: white; background-color: green; padding:0 5px;">LCtrl + JOY_BTN_POV1_R</span>
+        - Trim Rudder L = <span style="color: white; background-color: green; padding:0 5px;">JOY_BTN_POV1_L</span>
+        - Trim Rudder R = <span style="color: white; background-color: green; padding:0 5px;">JOY_BTN_POV1_R</span>
     - Gear (Undercarriage):
-        - Protection Off = G
-        - Gear Up/Down (Undercarriage) = RCtrl + Seta-cima / RCtrl + Seta-baixo
+        - Protection Off = <span style="color: white; background-color: green; padding:0 5px;">G</span>
+        - Gear Up/Down (Undercarriage) = <span style="color: white; background-color: green; padding:0 5px;">RCtrl + Seta-cima</span> / <span style="color: white; background-color: green; padding:0 5px;">RCtrl + Seta-baixo</span>
         - Gear Emergency release = not available
     - Flaps:
-        - Protection Off = F
-        - Flaps Up/Down = Seta-cima / Seta-baixo
+        - Protection Off = <span style="color: white; background-color: green; padding:0 5px;">F</span>
+        - Flaps Up/Down = <span style="color: white; background-color: green; padding:0 5px;">Seta-cima</span> / <span style="color: white; background-color: green; padding:0 5px;">Seta-baixo</span>
     - Tail wheel lock/unlock = not available
-    - Wheel Brake (both wheels) = Seta-Esquerda ou Seta-Direita, tanto faz!
-- **Colimador:**
-    - Gun Sight Reticle, intensity Decrease = RCtrl + JOY_BTN_POV1_D
-    - Gun Sight Reticle, intensity Increase = RCtrl + JOY_BTN_POV1_U
-    - Gun Sight power On/Off = RCtrl + JOY_BTN_POV1_L (esquerda)
+    - Wheel Brake (both wheels) = <span style="color: white; background-color: green; padding:0 5px;">Seta-Esquerda ou Seta-Direita, tanto faz!</span>
+- **Collimator:**
+    - Gun Sight Reticle, intensity Decrease = <span style="color: white; background-color: green; padding:0 5px;">RCtrl + JOY_BTN_POV1_D</span>
+    - Gun Sight Reticle, intensity Increase = <span style="color: white; background-color: green; padding:0 5px;">RCtrl + JOY_BTN_POV1_U</span>
+    - Gun Sight power On/Off = <span style="color: white; background-color: green; padding:0 5px;">RCtrl + JOY_BTN_POV1_L (esquerda)</span>
 - **Machineguns & Cannons:**
-    - Gun Firing Master Switch On/Off = LCtr + JOY_BTN1Q
-        - Fire MGs = Trigger (JOY_BTN1)
-        - Fire Cannons = JOY_BTN2 (bt inferior central)
+    - Gun Firing Master Switch On/Off = <span style="color: white; background-color: green; padding:0 5px;">LCtr + JOY_BTN1Q</span>
+        - Fire MGs = <span style="color: white; background-color: green; padding:0 5px;">Trigger (JOY_BTN1)</span>
+        - Fire Cannons = <span style="color: white; background-color: green; padding:0 5px;">JOY_BTN2 (bt inferior central)</span>
 - **Bombs:**
     - Active bombs = manually;
-        - Bomb release = JOY_BTN3 (bt superior esq)
+        - Bomb release = <span style="color: white; background-color: green; padding:0 5px;">JOY_BTN3 (bt superior esq)</span>
 - **Rockets:**
     - Rockets Master switch = manually;
-        - Launch rockets = JOY_BTN4 (bt superior dir)
+        - Launch rockets = <span style="color: white; background-color: green; padding:0 5px;">JOY_BTN4 (bt superior dir)</span>
         - Rockets Salvo Mode (fire all at the same time) On/Off = manually;
         - Rocket manual (how many rockets to fire with one click) = ==not working;==
         - Rocket rails jettison = not available;
 - **Lights:**
-    - Personal flashlight = END
+    - Personal flashlight = <span style="color: white; background-color: green; padding:0 5px;">END</span>
     - Cabin Illumination = All of them manually;
     - UV Lights:
-        - Left Dash lamp more = LShift + DEL
-        - Left Dash lamp less = LCtrl + DEL
-        - Right Dash lamp more = RShift + DEL
-        - Right Dash lamp less = RCtrl + DEL
-    - Navigation lights On/Off = Insert
+        - Left Dash lamp more = <span style="color: white; background-color: green; padding:0 5px;">LShift + DEL</span>
+        - Left Dash lamp less = <span style="color: white; background-color: green; padding:0 5px;">LCtrl + DEL</span>
+        - Right Dash lamp more = <span style="color: white; background-color: green; padding:0 5px;">RShift + DEL</span>
+        - Right Dash lamp less = <span style="color: white; background-color: green; padding:0 5px;">RCtrl + DEL</span>
+    - Navigation lights On/Off = <span style="color: white; background-color: green; padding:0 5px;">Insert</span>
 - **Miscellaneous:**
     - Canopy:
-        - Open/Close = E
-        - Bailout = LCtrl+E
+        - Open/Close = <span style="color: white; background-color: green; padding:0 5px;">E</span>
+        - Bailout = <span style="color: white; background-color: green; padding:0 5px;">LCtrl+E</span>
 
 ---
 ## Relembre como fazer a gameplay:

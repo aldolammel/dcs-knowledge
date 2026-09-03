@@ -1,41 +1,41 @@
-# Controls (globais)
+# Controls (global)
 
 ---
 
 **Engine:**
-- Cold-start Assist Start = RWin+Home
-**Missão:**
-- Mission briefing = LAlt + B
-- Map (kneeboard) = Backspace
-    - Your current position marked on the map = RCtrl + Backspace
-    - Next page = =
-    - Previous page = -
-    - Game full map = F10
-- Communication menu = CapsLock
-- Push-to-talk (Communication menu) = LCtrl+B
-- Push-to-talk (VOIP) = B
-- Pilot flashlight = End
+- Cold-start Assist Start = <span style="color: white; background-color: green; padding:0 5px;">LWin+Home</span>
+**Mission:**
+- Mission briefing = <span style="color: white; background-color: green; padding:0 5px;">LAlt + B</span>
+- Map (kneeboard) = <span style="color: white; background-color: green; padding:0 5px;">Backspace</span>
+    - Your current position marked on the map = <span style="color: white; background-color: green; padding:0 5px;">RCtrl + Backspace</span>
+    - Next page = <span style="color: white; background-color: green; padding:0 5px;">=</span>
+    - Previous page = <span style="color: white; background-color: green; padding:0 5px;">-</span>
+    - Game full map = <span style="color: white; background-color: green; padding:0 5px;">F10</span>
+- Communication menu = <span style="color: white; background-color: green; padding:0 5px;">CapsLock</span>
+- Push-to-talk (Communication menu) = <span style="color: white; background-color: green; padding:0 5px;">LCtrl+B</span>
+- Push-to-talk (VOIP) = <span style="color: white; background-color: green; padding:0 5px;">B</span>
+- Pilot flashlight = <span style="color: white; background-color: green; padding:0 5px;">End</span>
 **Sistema:**
-- Pause = P
-- Active Pause = RCtrl + P
-- Reiniciar missão = LShift + R
-- Rearming and Refueling Window = Enter
+- Pause = <span style="color: white; background-color: green; padding:0 5px;">P</span>
+- Active Pause = <span style="color: white; background-color: green; padding:0 5px;">RCtrl + P</span>
+- Reiniciar missão = <span style="color: white; background-color: green; padding:0 5px;">LShift + R</span>
+- Rearming and Refueling Window = <span style="color: white; background-color: green; padding:0 5px;">Enter</span>
 **HUD:**
-- Zoom normal (return to the original zoom) = Space
-- Marcações de aeronaves On/Off = LShift + F2
-- Movimento natural cabeça On/Off = LCtrl + F1
-- Movimento ainda mais natural da cabeça On/Off = LWin + F1
-**Câmera:**
-- First person/cockpit = F1
-    - Show Pilot = RAlt + P (if available for the plane)
-- Free 3rd-person-you = F2
-    - Fixed 3rd-person-you = LCtrl + F4
-    - Fixed 3rd-person-you, but looking to the closest enemy position = LCtrl + F5
-- Gun Camera = JOY_BTN7 (botão frontal abaixo do gatilho principal)
-- Zoom in slow = JOY_BTN6 (bt inferior dir)
-- Zoom out slow = JOY_BTN5 (bt inferior esq)
-- View Left slow / View Right slow = LAlt + JOY_BTN_POV1_L / LAlt + JOY_BTN_POV1_R
-- View Up slow / View Down slow = LAlt + JOY_BTN_POV1_U / LAlt + JOY_BTN_POV1_D
+- Zoom normal (return to the original zoom) = <span style="color: white; background-color: green; padding:0 5px;">Space</span>
+- Marcações de aeronaves On/Off = <span style="color: white; background-color: green; padding:0 5px;">LShift + F2</span>
+- Movimento natural cabeça On/Off = <span style="color: white; background-color: green; padding:0 5px;">LCtrl + F1</span>
+- Movimento ainda mais natural da cabeça On/Off = <span style="color: white; background-color: green; padding:0 5px;">LWin + F1</span>
+**Camera:**
+- First person/cockpit = <span style="color: white; background-color: green; padding:0 5px;">F1</span>
+    - Show Pilot = <span style="color: white; background-color: green; padding:0 5px;">RAlt + P</span> (if available for the plane)
+- Free 3rd-person-you = <span style="color: white; background-color: green; padding:0 5px;">F2</span>
+    - Fixed 3rd-person-you = <span style="color: white; background-color: green; padding:0 5px;">LCtrl + F4</span>
+    - Fixed 3rd-person-you, but looking to the closest enemy position = <span style="color: white; background-color: green; padding:0 5px;">LCtrl + F5</span>
+- Gun Camera = <span style="color: white; background-color: green; padding:0 5px;">JOY_BTN7 (botão frontal abaixo do gatilho principal)</span>
+- Zoom in slow = <span style="color: white; background-color: green; padding:0 5px;">JOY_BTN6 (bt inferior dir)</span>
+- Zoom out slow = <span style="color: white; background-color: green; padding:0 5px;">JOY_BTN5 (bt inferior esq)</span>
+- View Left slow / View Right slow = <span style="color: white; background-color: green; padding:0 5px;">LAlt + JOY_BTN_POV1_L</span> / <span style="color: white; background-color: green; padding:0 5px;">LAlt + JOY_BTN_POV1_R</span>
+- View Up slow / View Down slow = <span style="color: white; background-color: green; padding:0 5px;">LAlt + JOY_BTN_POV1_U</span> / <span style="color: white; background-color: green; padding:0 5px;">LAlt + JOY_BTN_POV1_D</span>
 
 ---
 ## Specific controls for:

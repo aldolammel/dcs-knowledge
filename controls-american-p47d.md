@@ -19,10 +19,10 @@
 ==\My Drive\Hardwares e Softwares\Gaming Configs\XXXXXXXXXXXXXXXXXXXXXXXX==
 
 **Joystick "Axis Tune":**
-- - Pitch = dead 1 / Saturation Y 64 / Curv 18
-    - Roll = dead 1 / Curv 5
-    - Rudder = dead 1 / Curv 5
-    - Throttle = dead 0 / Curv 5
+- Pitch = dead 1 / Saturation Y 64 / Curv 18
+- Roll = dead 1 / Curv 5
+- Rudder = dead 1 / Curv 5
+- Throttle = dead 0 / Curv 5
 
 - **Engine & Fuel:**
     - Pitch lever (RPM gauge) More/Less = <span style="color: white; background-color: green; padding:0 5px;">PageUp/PageDown</span>
