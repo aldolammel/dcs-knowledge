@@ -1,0 +1,1 @@
+<span style="color: orange;"><% tp.file.selection() %></span>

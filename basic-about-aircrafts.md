@@ -39,7 +39,7 @@
 ## Escolha uma aeronave para estudar:
 - [procedures-american-p47d](procedures-american-p47d.md)
 - [procedures-british-mosquito-vi](procedures-british-mosquito-vi.md)
-- [procedures-british-spitfire-vi](procedures-british-spitfire-vi.md)
+- [procedures-british-spitfire-ix](procedures-british-spitfire-ix.md)
 - [procedures-german-bf109k4](procedures-german-bf109k4.md)
 - [procedures-german-fw190a8](procedures-german-fw190a8.md)
 - [procedures-german-fw190d9](procedures-german-fw190d9.md)

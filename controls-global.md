@@ -1,6 +1,10 @@
 # Controls (global)
 
 ---
+# Controls:
+Presets: `GoogleDrive:\My Drive\Hardwares e Softwares\Gaming Configs\DCS\` 
+
+---
 
 **Engine:**
 - Cold-start Assist Start = <span style="color: white; background-color: green; padding:0 5px;">LWin+Home</span>
@@ -42,7 +46,7 @@
 
 - [controls-american-p47d](controls-american-p47d.md)
 - [controls-british-mosquito-vi](controls-british-mosquito-vi.md)
-- [controls-british-spitfire-vi](controls-british-spitfire-vi.md)
+- [controls-british-spitfire-ix](controls-british-spitfire-ix.md)
 - [controls-german-bf109k4](controls-german-bf109k4.md)
 - [controls-german-fw190a8](controls-german-fw190a8.md)
 - [controls-german-fw190d9](controls-german-fw190d9.md)

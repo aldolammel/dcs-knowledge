@@ -26,6 +26,6 @@ Important: ranges are based on "Theoretical maximum"! ==(ATUALIZAR NUMEROS ABAIX
     - Cruise range: ~1.125Km (~700mi);
 
 ## More about this plane:
-- [procedures-british-spitfire-vi](procedures-british-spitfire-vi.md)
-- [controls-british-spitfire-vi](controls-british-spitfire-vi.md)
+- [procedures-british-spitfire-ix](procedures-british-spitfire-ix.md)
+- [controls-british-spitfire-ix](controls-british-spitfire-ix.md)
 - IL2, controls Spitfire (soon)...

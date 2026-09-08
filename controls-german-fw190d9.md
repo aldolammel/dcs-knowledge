@@ -14,9 +14,7 @@
 - Auto rudder = false
 
 # Controls:
-
-**Important:** configurações salvas aqui:
-==\My Drive\Hardwares e Softwares\Gaming Configs\XXXXXXXXXXXXXXXXXXXXXXXX==
+Presets: `GoogleDrive:\My Drive\Hardwares e Softwares\Gaming Configs\DCS\` 
 
 **Joystick "Axis Tune":**
 
@@ -84,7 +82,3 @@
         - Bailout = LCtrl + E
 
 ---
-## Relembre como fazer a gameplay:
-
-- [basic-about-aircrafts](basic-about-aircrafts.md)
-- [procedures-german-fw190d9](procedures-german-fw190d9.md)

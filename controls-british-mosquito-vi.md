@@ -5,24 +5,22 @@
 - [\_Headtracker](_Headtracker.md)
 - [dcs-settings](dcs-settings.md)
 - [controls-global](controls-global.md)
-## Relembre como fazer a gameplay:
+## Gameplay reminders:
 - [basic-about-aircrafts](basic-about-aircrafts.md)
 - [procedures-british-mosquito-vi](procedures-british-mosquito-vi.md)
 # Special Settings:
-
-- Take-off assistance = 0
-- Auto rudder = false
-- Cockpit camera origin = Shift to aim when reflector sight is turned on
-- Customized cockpit = Default
+- Take-off assistance = `0`
+- Auto rudder = `false`
+- Cockpit camera origin = `Shift to aim when reflector sight is turned on`
+- Customized cockpit = `Default`
 # Controls:
-**Important:** configurações salvas aqui:
-==\My Drive\Hardwares e Softwares\Gaming Configs\XXXXXXXXXXXXXXXXXXXXXXXX==
+Presets: `GoogleDrive:\My Drive\Hardwares e Softwares\Gaming Configs\DCS\` 
 
-**Joystick "Axis Tune":**
-- - Pitch = dead 1 / Saturation Y 64 / Curv 18
-    - Roll = dead 1 / Curv 5
-    - Rudder = dead 1 / Curv 5
-    - Throttle = dead 0 / Curv 5
+- **Joystick "Axis Tune":**
+	- Pitch = dead `1` / Saturation Y `64` / Curv `18`
+	- Roll = dead `1` / Curv `5`
+	- Rudder = dead `1` / Curv `5`
+	- Throttle = dead `0` / Curv `5`
 
 - **Engine & Fuel:**
     - Pitch lever (RPM gauge) More/Less = <span style="color: white; background-color: green; padding:0 5px;">PageUp/PageDown</span>
@@ -88,7 +86,3 @@
         - Bailout = <span style="color: white; background-color: green; padding:0 5px;">LCtrl+E</span>
 
 ---
-## Relembre como fazer a gameplay:
-
-- [basic-about-aircrafts](basic-about-aircrafts.md)
-- [procedures-british-mosquito-vi](procedures-british-mosquito-vi.md)

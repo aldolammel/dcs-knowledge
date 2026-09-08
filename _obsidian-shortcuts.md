@@ -1,54 +1,56 @@
 #### Obsidian
-# Basic & Custom shortcuts
+# Keyboard Shortcuts
 
 ---
+## Basic:
 
-Make this file editable or not (`Ctrl + E`);
+Make this file editable or not (`Ctrl + E`); -- Obsidian native
 
+Pin/Unpin a tab file (click over the tab and `Ctrl + Enter`); -- Obsidian native
 
-Creating a h1 (`Ctrl + Numpad1`):
-# Example
+Find In-file (`Alt + Home`); -- Omnisearch add-on
+Find globally (`Ctrl + Home`); -- Omnisearch add-on
 
+Find & Replace in file (`Ctrl + H`); -- Obsidian native
+Find and replace globally (`Ctrl + Shift + H`) -- Global and Search Replace add-on;
 
-Creating a h2 (`Ctrl + Numpad2`):
-## Example
+---
+## Formatting:
 
+Creating a h1 (`Ctrl + Numpad1`): -- Obsidian native
+# H1
 
-Creating a h3 (`Ctrl + Numpad3`):
-### Example
+Creating a h2 (`Ctrl + Numpad2`): -- Obsidian native
+## H2
 
+Creating a h3 (`Ctrl + Numpad3`): -- Obsidian native
+### H3
 
-Creating a checkbox list (`Ctrl + L`)
-- [ ] Example 1 
-- [x] Example 2
-
-Creating a warning (`Ctrl + Numpad-comma`):
+Creating a warning (`Ctrl + Numpad-comma`): -- Obsidian native
 ==Example==
 
-Creating a Green Highlight (`Alt + Numpad-comma`):
+Creating a Green Highlight (`Alt + Numpad-comma`): -- Templater add-on
 <span style="color: white; background-color: green; padding:0 5px;">Example</span>
 
-Creating a code block (`Ctrl + Numpad0`):
+Creating a Orange text (`Win + Num-comma`): -- Templater add-on
+<span style="color: orange;">Example</span>
+
+Creating a code block (`Ctrl + Numpad0`): -- Obsidian native
 ```
 Example
 ```
-Creating a code inline (`Alt + Numpad0`):
+
+Creating a code inline (`Alt + Numpad0`): -- Obsidian native
 `Example`
 
-
-Creating a horizontal line (`Ctrl + -`):
+Creating a horizontal line (`Ctrl + -`): -- Obsidian native
 
 ---
+## Specials:
+
+Creating a checkbox list (`Ctrl + L`): -- Obsidian native
+- [ ] Example 1 
+- [x] Example 2
 
 
-Pin/Unpin a tab file (click over the tab and `Ctrl + Enter`);
 
-
-
-Find & Replace in file (`Ctrl + H`);
-
-Find and replace globally (`Ctrl + Shift + H`), by add-on;
-
-Find In-file (`Alt + Home`), by Omnisearch;
-
-Find globally (`Ctrl + Home`), by Omnisearch;

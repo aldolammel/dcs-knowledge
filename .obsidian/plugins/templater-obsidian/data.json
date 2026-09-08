@@ -17,6 +17,11 @@
       "template": ".obsidian/_format-templates/green-highlight.md",
       "insert_enabled": true,
       "create_enabled": false
+    },
+    {
+      "template": ".obsidian/_format-templates/orange-text.md",
+      "insert_enabled": true,
+      "create_enabled": false
     }
   ],
   "startup_templates": [],

@@ -1,13 +1,13 @@
-# Procedures > British Spitfire LF Mk VI
+# Procedures > British Spitfire LF Mk IX
 
 ---
 
 **Controls:**
-- [controls-british-spitfire-vi](controls-british-spitfire-vi.md)
+- [controls-british-spitfire-ix](controls-british-spitfire-ix.md)
 - IL2 GB, controls, Spitfire (soon)
 
 **Guns & Fuel:**
-- [guns-and-fuel-british-spitfire-vi](guns-and-fuel-british-spitfire-vi.md)
+- [guns-and-fuel-british-spitfire-ix](guns-and-fuel-british-spitfire-ix.md)
 
 **Basic Gameplay:**
 - [basic-about-aircrafts](basic-about-aircrafts.md)

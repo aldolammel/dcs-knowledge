@@ -1,26 +1,24 @@
-# Controls, British Spitfire LF Mk VI
+# Controls, British Spitfire LF Mk IX
 
 ---
 ## Basic settings:
 - [\_Headtracker](_Headtracker.md)
 - [dcs-settings](dcs-settings.md)
 - [controls-global](controls-global.md)
-## Relembre como fazer a gameplay:
+## Gameplay reminders:
 - [basic-about-aircrafts](basic-about-aircrafts.md)
-- [procedures-british-spitfire-vi](procedures-british-spitfire-vi.md)
+- [procedures-british-spitfire-ix](procedures-british-spitfire-ix.md)
 # Special Settings:
-
-- Take-off assistance = 0
-- Auto rudder = false
+- Take-off assistance = `0`
+- Auto rudder = `false`
 # Controls:
-**Important:** configurações salvas aqui:
-==\My Drive\Hardwares e Softwares\Gaming Configs\XXXXXXXXXXXXXXXXXXXXXXXX==
+Presets: `GoogleDrive:\My Drive\Hardwares e Softwares\Gaming Configs\DCS\` 
 
-**Joystick "Axis Tune":**
-- Pitch = dead 1 / Saturation Y 64 / Curv 18
-- Roll = dead 1 / Curv 5
-- Rudder = dead 1 / Curv 5
-- Throttle = dead 0 / Curv 5
+- **Joystick "Axis Tune":**
+	- Pitch = dead `1` / Saturation Y `64` / Curv `18`
+	- Roll = dead `1` / Curv `5`
+	- Rudder = dead `1` / Curv `5`
+	- Throttle = dead `0` / Curv `5`
 
 - **Engine & Fuel:**
     - Pitch lever (RPM gauge) More/Less = <span style="color: white; background-color: green; padding:0 5px;">PageUp/PageDown</span>
@@ -72,7 +70,3 @@
         - Bailout = <span style="color: white; background-color: green; padding:0 5px;">LCtrl+E</span>
 
 ---
-## Relembre como fazer a gameplay:
-
-- [basic-about-aircrafts](basic-about-aircrafts.md)
-- [procedures-british-spitfire-vi](procedures-british-spitfire-vi.md)

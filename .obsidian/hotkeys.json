@@ -13,6 +13,12 @@
         "Mod"
       ],
       "key": "Numpad1"
+    },
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "End"
     }
   ],
   "editor:set-heading-2": [
@@ -21,6 +27,12 @@
         "Mod"
       ],
       "key": "Numpad2"
+    },
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "ArrowDown"
     }
   ],
   "editor:set-heading-3": [
@@ -29,6 +41,12 @@
         "Mod"
       ],
       "key": "Numpad3"
+    },
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "PageDown"
     }
   ],
   "editor:insert-codeblock": [
@@ -161,6 +179,28 @@
         "Alt"
       ],
       "key": "Delete"
+    }
+  ],
+  "templater-obsidian:.obsidian/_format-templates/orange-text.md": [
+    {
+      "modifiers": [
+        "Meta"
+      ],
+      "key": "."
+    },
+    {
+      "modifiers": [
+        "Meta"
+      ],
+      "key": "Delete"
+    }
+  ],
+  "workspace:next-tab": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "Tab"
     }
   ]
 }

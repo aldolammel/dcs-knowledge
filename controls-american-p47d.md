@@ -1,28 +1,24 @@
-# Controls, American P47D
+Q# Controls, American P47D
 
 ---
 ## Basic settings:
 - [\_Headtracker](_Headtracker.md)
 - [dcs-settings](dcs-settings.md)
 - [controls-global](controls-global.md)
-## Relembre como fazer a gameplay:
+## Gameplay reminders:
 - [basic-about-aircrafts](basic-about-aircrafts.md)
 - [procedures-american-p47d](procedures-american-p47d.md)
 # Special Settings:
-
-- Take-off assistance = 0
-- Auto rudder = false
-
+- Take-off assistance = `0`
+- Auto rudder = `false`
 # Controls:
+Presets: `GoogleDrive:\My Drive\Hardwares e Softwares\Gaming Configs\DCS\` 
 
-**Important:** configurações salvas aqui:
-==\My Drive\Hardwares e Softwares\Gaming Configs\XXXXXXXXXXXXXXXXXXXXXXXX==
-
-**Joystick "Axis Tune":**
-- Pitch = dead 1 / Saturation Y 64 / Curv 18
-- Roll = dead 1 / Curv 5
-- Rudder = dead 1 / Curv 5
-- Throttle = dead 0 / Curv 5
+- **Joystick "Axis Tune":**
+	- Pitch = dead `1` / Saturation Y `64` / Curv `18`
+	- Roll = dead `1` / Curv `5`
+	- Rudder = dead `1` / Curv `5`
+	- Throttle = dead `0` / Curv `5`
 
 - **Engine & Fuel:**
     - Pitch lever (RPM gauge) More/Less = <span style="color: white; background-color: green; padding:0 5px;">PageUp/PageDown</span>
@@ -79,7 +75,3 @@
         - Bailout = LCtrl + E
 
 ---
-## Relembre como fazer a gameplay:
-
-- [basic-about-aircrafts](basic-about-aircrafts.md)
-- [procedures-american-p47d](procedures-american-p47d.md)
