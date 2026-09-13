@@ -22,8 +22,11 @@ Presets: `GoogleDrive:\My Drive\Hardwares e Softwares\Gaming Configs\DCS\`
 
 - **Engine & Fuel:**
     - Pitch lever (RPM gauge) More/Less = <span style="color: white; background-color: green; padding:0 5px;">PageUp/PageDown</span>
-    - Throttle (Boost gauge) More/Less = <span style="color: white; background-color: green; padding:0 5px;">Throttle</span>
-    - Water Injection Button On/Off = <span style="color: white; background-color: green; padding:0 5px;">RCtrl+Num0</span>
+    - Throttle (Manifold Pressure control) More/Less = <span style="color: white; background-color: green; padding:0 5px;">Throttle</span>
+    - Boost (Turbocharger control) = <span style="color: orange;">manually</span>;
+    - Water Injection Button:
+	    - Hold to use = <span style="color: white; background-color: green; padding:0 5px;">Num0</span>
+	    - On/Off = <span style="color: white; background-color: green; padding:0 5px;">RCtrl+Num0</span>
     - Release external fuel tank (Jettison Drop Tank) = ==NumLock==
     - ==Release MW50/Fuel (Jettison) = RShift + NumLock==
     - Radiator Flaps Open/Close = ==RAlt+Seta-cima / RAlt+Seta-baixo==

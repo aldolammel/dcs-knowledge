@@ -155,22 +155,22 @@ EXTRA TIP: Check where you are on the map (or on the `kneeboard`);
 
 - **General:**
 	- [basic-about-maneuvers](basic-about-maneuvers.md)
-    - Original `MW 50 Boost` fluid delivers an extra 500 horsepower for 10min!
-    - ATA 1.35 - Engine survival = 30min;
-    - ATA 1.98 - Engine survival = 10min;
-    - Stall speed ==< 180Km/h==
-    - Dive speed limit: 850Km/h alt 1km / 700Km/h alt 5km;
+	- Original `MW 50 Boost` fluid delivers an extra 500 horsepower for 10min!
+	- ATA 1.35 - Engine survival = 30min;
+	- ATA 1.98 - Engine survival = 10min;
+	- Stall speed ==< 180Km/h==
+	- Dive speed limit: 850Km/h alt 1km / 700Km/h alt 5km;
 - **Dogfight:**
-    - (If applicable) `External Fuel` tank should be dropped!
-    - ==xxxx==
+	- (If applicable) `External Fuel` tank should be dropped!
+	- ==xxxx==
 - **Intercepting:**
-    - ==xxxx==
-    - ==For Rockets use, check `Special Ops` section;==
+	- ==xxxx==
+	- ==For Rockets use, check `Special Ops` section;==
 - **Ground attack:**
-    - Bombing:
-        - ==xxx==
-    - Strafing:
-        - ==xxx==
+	- Bombing:
+		- ==xxx==
+	- Strafing:
+		- ==xxx==
 
 ---
 
