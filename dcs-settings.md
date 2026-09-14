@@ -17,6 +17,12 @@
         - Não gera nenhum dos problemas citados no DLAA nem no MSAA, porém fica um pouco "blurry", então tem que pôr um pouco de sharpness!
 
 [https://i.ibb.co/0y9W5JTq/image.png](https://i.ibb.co/0y9W5JTq/image.png)
+
+Corrections:
+- Clutter/Grass = 350
+- Forest Visibility = 60%
+- Gamma = 2.5
+- LOD = 1
 # Gameplay
 [https://i.ibb.co/21hJzVPR/image.png](https://i.ibb.co/21hJzVPR/image.png)
 # Misc.

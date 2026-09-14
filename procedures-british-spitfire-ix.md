@@ -37,64 +37,64 @@
 ## **1) Spitfire > Cold start:**
 
 1. (If applicable) Turn your `personal flashlight` ON;
-2. Open `Canopy` (crew needs to listen to you);
-3. Request `Start-Up` procedure to tower;
-4. Check the current weather temperature in the `Briefing` screen;
-5. (If applicable) Ask `Ground Crew` to "Rearm and Refuel";
-6. **Electric (part 1/2):**
+2. (If applicable) Turn `Cockpit lights` ON;
+3. Open `Canopy` (crew needs to listen to you);
+4. Request `Start-Up` procedure to tower;
+5. Check the current weather temperature in the `Briefing` screen;
+6. (If applicable) Ask `Ground Crew` to "Rearm and Refuel", and wait for the `"Rearming"` and/or `"Refueling"` answer;
+7. **Electric (part 1/2):**
 	1.  Ask `Ground Crew` for `Ground Electrical Power` ON;
-	2. (If applicable) Turn `Cockpit lights` ON;
-    3. Hidden by the `Throttle`, turn the `Undercarriage Indicator Switch` ON (forward);
-    4. (If applicable):
-        1. Heavy duty operation weight: ask for the crew to `Ground Electric Power`;
-        2. If cold/high-alt.: Turn `Windscreen De-Icer` knob (right leg) to ON (upper red end pointing to the back);
-7. **Fuel:**
-    1. (If applicable) Ask `Ground Crew` to add the `External Fuel Tank`;
-    2. Make sure `Fuel Tank Pressure` valve (front, right low corner) is OFF (left);
-    3. Check current `Fuel Quantity` (above `Fuel Tank Pressure`) onboard, pressing and holding its button;
-    4. In `Main Tank` lever (behind the `Stick`), set to ON (up);
-    5. In `Primer` (a copper valve side by side with the `Main Tank` lever), twist it to open, and pump it 4x (if cold outside, 8x). Keep it open;
-    6. In `Wobble Type Fuel` valve (right side, huge metal globe), pump it until the `low fuel pressure` light turns off;
-    7. Take the `Throttle` and slide it forward just a bit (10%) to make the fuel flow soon;
-    8. (If applicable) Using an `External Fuel Tank`:
-        1. Pull `Drop Tank` lever (right leg) to ON (back);
-        2. Turn `Main Tank` lever to OFF (down);
-8. **Electric (part 2/2):**
+	2. Turn the red `Nav. Lights` switch (front panel, upper left corner) ON (up);
+	3. Hidden by the `Throttle`, turn the `Undercarriage Indicator Switch` ON (forward);
+	4. (If applicable):
+		1. If cold/high-alt.: Turn `Windscreen De-Icer` knob (right leg) to ON (upper red end pointing to the back);
+8. **Fuel:**
+	1. (If applicable) Ask `Ground Crew` to add the `External Fuel Tank`;
+	2. Make sure `Fuel Tank Pressure` valve (front, right low corner) is OFF (left);
+	3. In `Main Tank` lever (behind the `Stick`), set to ON (up);
+	4. (If applicable) Using an `External Fuel Tank`:
+		1. Pull `Drop Tank` lever (right leg) to ON (back);
+		2. Again, in `Main Tank` lever, turn it back to OFF (down);
+	5. In `Primer` (a copper valve side by side with the `Main Tank` lever), twist it to open, and pump it 4x (if cold outside, 8x). Keep it open;
+	6. In `Wobble Type Fuel` valve (right side, huge metal globe), pump it until the `low fuel pressure` light turns off;
+	7. Take the `Throttle` and slide it forward just a bit (5%) to make the fuel flow soon;
+9. **Electric (part 2/2):**
     1. `Circuit Breakers` (left leg, red buttons):
         1. Mandatory:
             - Turn `Fuel Pump` switch ON (down);
             - Turn `Radiators Flaps Auto` switch AUTO/OFF (up);
         2. (If applicable):
             - If cold: `Pitot Heating` switch ON (down);
-            - If rain: `Pitot Heating` switch ON (down);
-    2. Turn the red `Nav. Lights` switch (front panel, upper left corner) ON (up);
-9. **Engine:**
-    1. In `Carburetor Air Control` lever (left leg), set to `Filter IN` (up);
-    2. In `Supercharger Mode Auto` switch (right below the `Tachometer`), set to AUTO (down);
-    3. In `Magneto` (front panel, left side, low corner), turn ON (up) its two switches;
-    4. In `Pitch` lever (side by side with the `Throttle`), slide it forward until the end (up);
-    5. In `Stick`, use the `Mouse Scroll` to set the maximum pressure in the `Wheel Brakes` lever;
-    6. Open the `Starter` and `Booster Coil button` covers (over the `Main Tank` lever);
-        - Press and hold both buttons simultaneously until the propeller starts to spin;
-    7. Quickly, and still holding those buttons, push the `Mixture Control Select` lever forward until the end (up), and release those buttons;
-    8. THE ENGINE SHOULD START NOW!
-        1. (If applicable) If it failed, pull back the `Mixture Control Select` lever and restart the procedure, starting with the "2 buttons" step and so on!
-    9. Check the `Oil Pressure` gauge (front panel, red square monitor), it should be within 60-120ft/in²;
-    10. Back to `Primer` valve again (the copper one), twist it to close;
-10. **Warm the engine up:**
-    1. Adjust the `Throttle`, making your `Tachometer` park at 12 (1200 RPM);
-    2. (If applicable) Scramble situation:
-	    1. ==xxxxxxxxxxxxxxxxxxxx==
-    3. **Meanwhile:**
-        - (If applicable) Ask the crew to disconnect the `Ground Electric Power`;
-        - ==Turn Radio (xxxxxxxx) ON and set this up;==
-        - ==In `Altimeter` gauge, set it to zero!==
-        - In `Compass Course Ring` (behind the `Stick`), align the North with the North Magnetic (a white cross);
-        - In `Directional Gyro` gauge (above the compass), set it to the same value as the `North Magnetic` shows with a `bold stripe` pointed to the bird's nose direction;
-    4. Wait for `Oil temp.` gauge (front, right side, copper one) to reach >=20ºC / Wait for `Radiator temp.` gauge (front, right side, green one) to reach 60ºC (~3min);
-    5. Once warmed up, slide back the `Throttle` to idle;
-    6. Release the `Wheel Brakes`;
-11. Ready to go!
+            - If rain: `Pitot Heating` switch ON (down); 
+10. **Engine:**
+	1. In `Carburetor Air Control` lever (left leg), set to `Filter IN` (up);
+	2. In `Supercharger Mode Auto` switch (right below the `Tachometer`), set to AUTO (down);
+	3. In `Magneto` (front panel, left side, low corner), turn ON (up) its two switches;
+	4. In `Pitch` lever (side by side with the `Throttle`), slide it fully forward;
+	5. In `Stick`, use the `Mouse Scroll` to set the maximum pressure in the `Wheel Brakes` lever;
+	6. Open the `Starter` and `Booster Coil button` covers (over the `Main Tank` lever);
+		1. Press and hold both buttons simultaneously until the propeller starts to spin;
+		2. Quickly, and still holding those buttons, push the `Mixture Control Select` lever fully forward;
+		3. Release those buttons;
+	7. THE ENGINE SHOULD START NOW!
+		1. (If applicable) If it failed, pull back the `Mixture Control Select` lever and restart the procedure, starting with the "2 buttons" step and so on!
+	8. Back to `Primer` valve again (the copper one), twist it to close;
+11. **Warm the engine up:**
+	1. Adjust the `Throttle`, making your `Tachometer` park at 12 (1200 RPM);
+	2. (If applicable) Scramble situation:
+		1. ==xxxxxxxxxxxxxxxxxxxx==
+		2. ==xxxxx;==
+	3. **Meanwhile:**
+		- (If applicable) Ask the crew to disconnect the `Ground Electric Power`;
+		- ==Turn Radio (xxxxxxxx) ON and set this up;==
+		- ==In `Altimeter` gauge, set it to zero!==
+		- In `Compass Course Ring` (behind the `Stick`), align the North with the North Magnetic (a white cross);
+		- In `Directional Gyro` gauge (above the compass), set it to the same value as the `North Magnetic` shows with a `bold stripe` pointed to the bird's nose direction;
+	4. Wait for `Oil temp.` gauge (front, right side, copper one) to reach >=20ºC / Wait for `Radiator temp.` gauge (front, right side, green one) to reach 60ºC (~3min);
+	5. Check the `Oil Pressure` gauge (front panel, red square monitor), it should be within 60-120ft/in²;
+	6. Once warmed up, slide back the `Throttle` to idle;
+	7. Release the `Wheel Brakes`;
+12. Ready to go!
 
 ---
 ## **2) Spitfire > Taxiing:**
@@ -273,7 +273,7 @@ EXTRA TIP: Check where you are on the map (or on the kneeboard);
     3. Once the blades have stopped completely, turn `Magnetos` OFF;
 4. **Fuel:**
     1. Turn `Fuel Tank Pressure` valve OFF (left);
-    2. Pull `Mixture Control Select` lever full back;
+    2. Pull `Mixture Control Select` lever fully back;
     3. In `Main Tank` lever, set it OFF (down);
 5. **Electric:**
     1. Hidden by the `Throttle`, turn the `Undercarriage Indicator Switch` OFF (down);

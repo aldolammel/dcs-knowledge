@@ -24,7 +24,7 @@ Presets: `GoogleDrive:\My Drive\Hardwares e Softwares\Gaming Configs\DCS\`
     - Pitch lever (RPM gauge) More/Less = <span style="color: white; background-color: green; padding:0 5px;">PageUp/PageDown</span>
     - Throttle (Boost gauge) More/Less = <span style="color: white; background-color: green; padding:0 5px;">Throttle</span>
     - Release external fuel tank (Jettison Drop Tank) = <span style="color: white; background-color: green; padding:0 5px;">NumLock</span>
-    - ==Release MW50/Fuel (Jettison) = RShift + NumLock==
+    - Release MW50/Fuel (Jettison) = ==RShift + NumLock==
     - Cold-start needs:
         - Start button press = <span style="color: white; background-color: green; padding:0 5px;">Num1</span>
         - Booster coil button press = <span style="color: white; background-color: green; padding:0 5px;">Num2</span>
@@ -42,7 +42,7 @@ Presets: `GoogleDrive:\My Drive\Hardwares e Softwares\Gaming Configs\DCS\`
     - Flaps TakeOff = <span style="color: white; background-color: green; padding:0 5px;">Seta-baixo</span>
     - Tail wheel lock/unlock = not available
     - Wheel Brake (both wheels) = <span style="color: white; background-color: green; padding:0 5px;">Seta-Esquerda ou Seta-Direita, tanto faz!</span>
-- **Colimador:**
+- **Collimator:**
     - Gun Sight Illumination Decrease = <span style="color: white; background-color: green; padding:0 5px;">RCtrl + JOY_BTN_POV1_D</span>
     - Gun Sight Illumination Increase = <span style="color: white; background-color: green; padding:0 5px;">RCtrl + JOY_BTN_POV1_U</span>
     - Gun Sight Tint Screen On/Off = <span style="color: white; background-color: green; padding:0 5px;">RCtrl + JOY_BTN_POV1_L (esquerda)</span>
@@ -54,7 +54,7 @@ Presets: `GoogleDrive:\My Drive\Hardwares e Softwares\Gaming Configs\DCS\`
     - Active bombs ==????==
         - Bomb release = <span style="color: white; background-color: green; padding:0 5px;">JOY_BTN3 (bt superior esq)</span>
 - **Rockets:**
-    - Active Rockets (Main rocket switch), ==manually==
+    - Active Rockets (Main rocket switch) = <span style="color: orange;">manually</span>
         - Launch rockets (same bt as 'Bomb release') = <span style="color: white; background-color: green; padding:0 5px;">JOY_BTN3 (bt superior esq)</span>
         - Rocket Emergency Release toggle On/Off = <span style="color: white; background-color: green; padding:0 5px;">RCtrl + NumLock</span>
 - **Lights:**

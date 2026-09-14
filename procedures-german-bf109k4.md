@@ -35,7 +35,7 @@ An October 1944 variant of the Bf 109, Germany's most important and deadliest fi
 2. Open Canopy (crew needs to listen to you);
 3. Request `Start-Up` procedure to tower;
 4. Check the current weather temperature in the `Briefing` screen;
-5. (If applicable) Ask `Ground Crew` to "Rearm and Refuel";
+5. (If applicable) Ask `Ground Crew` to "Rearm and Refuel", and wait for the `"Rearming"` and/or `"Refueling"` answer;
 6. **Electric:**
     1. Ask `Ground Crew` for `Ground Electrical Power` ON;
     2. (If applicable) Turn `Cockpit lights` ON;
@@ -54,7 +54,7 @@ An October 1944 variant of the Bf 109, Germany's most important and deadliest fi
                 - Left column: **5**th;
                 - Right column: --
 7. **Fuel:**
-    1. (If applicable) Ask crew to add the `_External Fuel Tank` ;
+    1. (If applicable) Ask crew to add the `External Fuel Tank` ;
     2. Set `Booster Pump` (Fuel tank selector near `Throttle`) lever to `P1+P2` (Rear+Front tanks);
     3. In `Priming Pump` (left side, floor, red valve), pump it 15x;
     4. Slide `Throttle` forward just 10% to make the fuel flow into the engine;

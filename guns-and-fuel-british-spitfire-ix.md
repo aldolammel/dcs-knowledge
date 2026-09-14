@@ -18,12 +18,12 @@
 Important: ranges are based on "Theoretical maximum"! ==(ATUALIZAR NUMEROS ABAIXO)==
 
 - **Internal tank (front upper + front lower):**
-    - Total capacity: 85igal (385L);
-    - Cruise range: ~690Km (~430mi);
+    - Total capacity: <span style="color: orange;">85igal</span> (385L);
+    - Cruise range: <span style="color: orange;">~690Km</span> (~430mi);
 - **Internal tank + aux external tank:**
     - Aux tank: 45igal (204L);
-    - Total capacity: 130igal (590L);
-    - Cruise range: ~1.125Km (~700mi);
+    - Total capacity: <span style="color: orange;">130igal</span> (590L);
+    - Cruise range: <span style="color: orange;">~1.125Km</span> (~700mi);
 
 ## More about this plane:
 - [procedures-british-spitfire-ix](procedures-british-spitfire-ix.md)

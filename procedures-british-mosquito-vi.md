@@ -33,9 +33,9 @@ Introduced in 1942, this is a variant of the British 'Wooden Wonder', the twin-e
 3. (If applicable) Looking to `Radio Operator` seat, lower the `Armored Backrest`;
 4. Request `Start-Up` procedure to tower;4. 
 5. Check the current weather temperature in the `Briefing` screen;
-6. (If applicable) Ask `Ground Crew` to "Rearm and Refuel";
+6. (If applicable) Ask `Ground Crew` to "Rearm and Refuel", and wait for the `"Rearming"` and/or `"Refueling"` answer;
 7. **Electric:**
-	1. Ask `Ground Crew` to `Ground Electric Power` ;
+	1. Ask `Ground Crew` to `Ground Electric Power`;
 	2. (If applicable) Turn `Cockpit lights` ON;
 	3. Unblock the `Electric Power Master` switch (front panel, left side of those two red bts) by pulling only the metal protection UP;
 	4. In `Radiators` panel (front blue panel, above those two red bts):
@@ -66,7 +66,7 @@ Introduced in 1942, this is a variant of the British 'Wooden Wonder', the twin-e
     2. Make sure `Supercharger Gear` switch (rear of the `Throttle`) is in MOD pos (down);
     3. Ask `Ground Crew` :
         - To place `Wheel Chocks` (to avoid the plane moving);
-        - To `start priming engines` ;
+        - To `start priming engines`;
     4. In `Magnetos` switches (those 4 switches in `Electric Power Master` switch):
         1. Left engine:
             1. Turn both left `Magnetos` ON (up);
@@ -80,7 +80,7 @@ Introduced in 1942, this is a variant of the British 'Wooden Wonder', the twin-e
         3. Check `Oil Pressure` gauge (front panel, left orange square monitors), both should be within 60-120ft/in² after a little while;
 10. **Warm the engine up:**
     1. **Meanwhile:**
-        - (If applicable) Ask the crew to disconnect the `Ground Electric Power` ;
+        - (If applicable) Ask the crew to disconnect the `Ground Electric Power`;
         - ==Turn Radio (xxxxxxxx) ON and set this up;==
         - ==In `Altimeter` gauge, set it to zero!==
         - In `Compass Course Ring` (front of `Throttle`), align the North with the North Magnetic (an orange cross);
@@ -89,9 +89,9 @@ Introduced in 1942, this is a variant of the British 'Wooden Wonder', the twin-e
     2. Wait for `Oil temp.` gauges (front, left side, between `Oil Pressure` gauges) to reach 40ºC / Wait for `Radiator temp.` gauges (below the `Oil temp.` gauges) to reach 60ºC (~3min);
     3. Once warmed up, in Radiators panel, turn both `Engine Water Cooling Flaps` switches ON (down);
     4. Slide back `Throttles` to idle;
-    5. Ask `Ground Crew` to remove the `Wheel Chocks` ;
+    5. Ask `Ground Crew` to remove the `Wheel Chocks`;
     6. In `Stick` , press the `Brake Handle` to release the wheels;
-    7. Close any `open windows` ;
+    7. Close any `open windows`;
 11. (If applicable) Night/Low visibility, turn both `Landing Light` (right foot) knobs ON (right);
 12. Ready to go!
 
@@ -153,7 +153,7 @@ EXTRA TIP: Check where you are on the map (or on the kneeboard);
     - Trim adjustments!
     1. **(If applicable) In combat skies:**
         - Turn `Nav. Lights` OFF;
-        - Turn `Cabin illumination OFF` ;
+        - Turn `Cabin illumination OFF`;
         - Turn `Reflector Sight` switch (`Circuit Breakers` panel) ON (down);
         - Unblock and turn `Gun Firing Master` switch (right knee, green button) to FIRE (down) pos;
 
@@ -186,7 +186,7 @@ EXTRA TIP: Check where you are on the map (or on the kneeboard);
     - [basic-about-maneuvers](basic-about-maneuvers.md)
     - ==Never use high `Boost` (`Throttle`) settings with low RPM (`Pitch`);==
         - ==For less power = First, reduce `Boost` , and then RPM;==
-        - ==For more power = First, increase RPM, and then `Boost` ;==
+        - ==For more power = First, increase RPM, and then `Boost`;==
     - ==Stall speed < 160mph (257Km);==
     - ==Dive speed limit: 450mph alt 0-20K feet;==
     - ==After 25K feet, set `Fuel Tank Pressure` valve to ON (right);==
@@ -254,7 +254,7 @@ EXTRA TIP: Check where you are on the map (or on the kneeboard);
 ## **8) Mosquito > Landing:**
 
 1. **Before the motherland coast:**
-    1. (If applicable) Release `External Fuel Tank` ;
+    1. (If applicable) Release `External Fuel Tank`;
     2. (If applicable) Night/Low visibility:
         - Turn `Resin Air Lamps` switch (right panel, left of `Morse Code` panel) to ON (down);
         - Turn `Type F Transmitter` light (an IR tail light) switch (right panel, under a golden valve) to ON (right/back);
@@ -303,7 +303,7 @@ EXTRA TIP: Check where you are on the map (or on the kneeboard);
 1. **Weaponry:**
     - Turn `Gun Firing Master` switch (right knee) to SAFE (up), and block it;
 2. Make sure the `left window` is open;
-3. Ask `Ground Crew` to place `Wheel Chocks` ;
+3. Ask `Ground Crew` to place `Wheel Chocks`;
 - (If applicable) Turn `Landing Light` knobs OFF (left);
 1. **Engine:**
     1. ==Cool the engine for 2min at 800 RPM;==

@@ -32,7 +32,7 @@ Anton is a 1944 variant of the German FW-190. Originally intended for intercepti
 2. Open `Canopy` (crew needs to listen to you);
 3. Request `Start-Up` procedure to tower;
 4. Check the current weather temperature in the `Briefing` screen;
-5. (If applicable) Ask `Ground Crew` to `Rearm and Refuel`;
+5. (If applicable) Ask `Ground Crew` to "Rearm and Refuel", and wait for the `"Rearming"` and/or `"Refueling"` answer;
 6. **Electric:**
     1. Ask `Ground Crew` for `Ground Electrical Power` ON;
     2. (If applicable) Turn `Cockpit lights` ON;
