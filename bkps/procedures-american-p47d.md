@@ -153,19 +153,18 @@ EXTRA TIP: Check where you are on the map (or on the `kneeboard`);
 Throttle / supercharger management. It's easy: Always use the throttle first, and when it's maxed out and you need more power, start moving the supercharger forward. When the overspeed light comes on, you've gone too far, move it back a bit.
 
 - **Climbing:**
-	- Ceiling: **43,000ft (~13km)**;
-	- `Pitch` 2550 RPM, `Throttle` 42" Hg;
-		- Use `Throttle` to establish the desired manifold pressure;
-		- Use `Boost`/turbo control to maintain the desired manifold pressure as altitude changes;
-	- Best climb speed: 160mph;
-	- Keep `Cowl Flaps` OPEN
+    - ==Ceiling: 43.000ft (~13km);==
+    - ==`Pitch` 2850 RPM, `Throttle` +12 Boost (nose up to 170mph stable);==
+    - ==From 18.000ft alt:==
+        - ==Make sure `Circuit Breaker Pitot Heating` switch is ON (down);==
+        - ==Turn `Windscreen De-Icer` knob (right leg) to ON (upper red end pointing to the back);==
+    - ==From 25.000ft alt:==
+        - ==Set `Fuel Tank Pressure` valve to ON (right);==
 - **Cruise:**
-	- Normal economical cruise = `Pitch` **2250 RPM**, `Throttle` **32" Hg**, `Mixture` **AUTO LEAN**;
-	- Maximum continuous = `Pitch` **2550 RPM**, `Throttle` **42" Hg**, `Mixture` **AUTO RICH**;
-	- If using `External Fuel Tank`:
-	    - Select the external tank **after takeoff**;
-	    - With two external tanks, alternate them periodically to maintain lateral balance.
-	- `Cowl Flaps`: **OPEN** when additional cooling is required; **CLOSED** at high speed to reduce drag;
+    - ==(If applicable) Make sure the `External Fuel Tank` is being used;==
+    - ==Safe cruise MAX = `Pitch` 2650 RPM, `Throttle` +7 Boost (Fuel = 80 igal/h);==
+    - ==To save fuel = `Pitch` 1800 RPM, `Throttle +2` Boost (Fuel = 30 igal/h);==
+    - ==Make sure `Radiators` switch is Auto (up);==
 - **Communication:**
 	- [basic-about-communication](basic-about-communication.md)
     
@@ -174,22 +173,20 @@ Throttle / supercharger management. It's easy: Always use the throttle first, an
 
 - **General:**
     - [basic-about-maneuvers](basic-about-maneuvers.md)
-    - Water injection deliveries <span style="color: orange;">800</span> additional horse power for <span style="color: orange;">5min</span>;
-    - Pitch 2700 RPM + Throttle 52 - engine survival = 15min;
-    - Pitch 2750 RPM + Throttle 64 + Water injection - engine survival = 5min;
-    - Above 225mph `Cowl Flaps` CLOSED to avoid excessive drag;
-    - Never use high `Boost`/`Throttle` with low `Pitch`/RPM;
-        - For less power = First, reduce `Boost`/manifold pressure, and then RPM;
-        - For more power = First, increase RPM, and then `Boost`/manifold pressure;
-    - Stall speed <span style="color: orange;">130mph</span>;
-    - Dive speed limit: <span style="color: orange;">500mph</span>;
+    - ==Never use high `Boost` (`Throttle`) settings with low RPM (`Pitch`);==
+        - ==For less power = First, reduce `Boost`, and then RPM;==
+        - ==For more power = First, increase RPM, and then `Boost`;==
+    - ==Stall speed < 160mph (257Km);==
+    - ==Dive speed limit: 450mph alt 0-20K feet;==
+    - ==After 25K feet, set `Fuel Tank Pressure` valve to ON (right);==
 - **Dogfight:**
-    - DON'T!
+    - ==xxxx==
 - **Intercepting:**
     - ==xxxx==
     - ==For Rockets use, check `Special Ops` section;==
 - **Ground attack:**
     - Bombing:
+        - [YouTubeDCS Spitfire Mk.IX - Dive bombing](https://www.youtube.com/watch?v=_C7n0GJH_DU)﻿
         - ==Vel. 230mph, Alt. 6000ft;==
         - ==Dive 45-60º, release bomb(s) at 3000ft, recover alt from 2500ft max;==
     - Strafing:
