@@ -39,14 +39,13 @@ xxxxxxxxxxxxxxxxxxx
         1. ==Heavy duty operation weight: ask for the crew to `Ground Electric Power`;==
         2. ==If cold/high-alt.: Turn `Windscreen De-Icer` knob (right leg) to ON (upper red end pointing to the back);==
 7. **Fuel:**
-    1. ==(If applicable) Ask `Ground Crew` to add the `External Fuel Tank`;==
-    2. Set `Main Fuel Selector Valve` (left side, below the red ball lever) to `Main On` (forward) pos with the smallest side of the valve;
-    3. In `Primer` valve (front panel, right side, a elliptical valve):
+    1. Set `Main Fuel Selector Valve` (left side, below the red ball lever) to `Main On` (forward) pos with the smallest side of the valve;
+    2. In `Primer` valve (front panel, right side, a elliptical valve):
 	    1. Unlock it (right click)
 	    2. Pump it (left click) 5x;
 	    3. Lock it again;
-    4. Slide `Throttle` forward just a bit (10%) to make the fuel flow;
-    5. ==(If applicable) Using an `External Fuel Tank`:==
+    3. Slide `Throttle` forward just a bit (10%) to make the fuel flow;
+    4. ==(If applicable) Using an `External Fuel Tank`:==
         1. ==Pull `Drop Tank` lever (right leg) to ON (back);==
         2. ==Turn `Main Tank` lever to OFF (down);==
 8. **Engine:**

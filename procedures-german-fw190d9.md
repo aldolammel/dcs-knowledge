@@ -19,133 +19,130 @@ From September 1944, the Focke-Wulf Dora-9 was a late-war Luftwaffe high-altitud
 - Excellent acceleration and climb;
 - [basic-about-maneuvers](basic-about-maneuvers.md)- use flat or rolling scissors; Boom-zoom;
 ## **Cons:**
-- Poor maneuverability in low speed;
+- Awful night operation cockpit illumination;
+- Poor maneuverability in low speed; 
 - Poor dogfight performance under 2.000m or over 6.000m;
 - External tank drag punish more D-9 than A-8.
 
 ---
 ## **1)** D-9 > **Cold start:**
 
-1. (If applicable) Turn your `personal flashlight` ON;
-2. Open `Canopy` (crew needs to listen to you);
-3. Request `Start-Up` procedure to tower;
-4. Check the current weather temperature in the `Briefing` screen;
-5. (If applicable) Ask `Ground Crew` to "Rearm and Refuel", and wait for the `"Rearming"` and/or `"Refueling"` answer;
-6. **Electric:**
-	1. Ask `Ground Crew` for `Ground Electrical Power` ON;
-	2. (If applicable) Turn `Cockpit lights` ON;
-	3. Turn `Circuit Breakers` (right side, low panel) ON:
-		1. Mandatory (from top): **all**, except the **3**rd one;
+1. ~~(If applicable) Turn your `personal flashlight` ON;~~
+2. ~~(If applicable) Turn `Cockpit lights` ON;~~
+3. Open `Canopy` (crew needs to listen to you);
+4. Request `Start-Up` procedure to tower;
+5. Check the current weather temperature in the `Briefing` screen;
+6. (If applicable) Ask `Ground Crew` to "Rearm and Refuel", and wait for the `"Rearming"` and/or `"Refueling"` answer;
+7. **Electric:**
+	1. Ask `Ground Crew` for `Ground Electrical Power` <span style="color: orange;">ON</span>;
+	2. (If applicable) Turn `Cockpit lights` <span style="color: orange;">ON</span>;
+	3. Turn `Circuit Breakers` (right side, low panel) <span style="color: orange;">ON</span>:
+		1. Mandatory (from top): <span style="color: orange;">All, except the 3rd and the 8th (last one)</span>;
 		2. (If applicable):
 			- If dark: --
-			- If cold: **3**rd;
-			- If raining: **3**rd;
+			- If cold: <span style="color: orange;">3rd</span>; 
+			- If raining: <span style="color: orange;">3rd</span>;
 			- If dropping bombs: --
 		3. In `Kraftstoffpumpen` (fuel pumps) (right side, lower panel):
-			1. Mandatory (from top to bottom): **All**, except **E85;**
-			2. (If applicable) If `External Fuel` tank: **All;**
-7. **Fuel:**
-    1. (If applicable) Ask crew to add the `External Fuel Tank`;
-    2. In `Fuel Tank Selector` (red valve on the left):
+			1. (If applicable) Including `External Fuel Tank`: <span style="color: orange;">All</span>;
+			2. Otherwise, just the mandatory (from top to bottom): <span style="color: orange;">All, except</span> `E85`;
+8. **Fuel:**
+    1. In `Fuel Tank Selector` (front panel, red valve on the left):
         1. Put it fully up in "_Auf_" (On/Auto);
-        2. ==(If applicable) Case `External Fuel` tank, put that in "_Vord."` pos! It closes the forward tank, making the `External Fuel` refill only the rear tank.==
-    3. ==In `Fuel Gauge Selector` (front-low-right yellow lever), set `Hinten` (rear) to monitor that tank.==
-    4. ~~In~~ `~~Primer Pump~~` ~~(left lower panel, black rounded valve), pump it 10x;~~
-    5. Make sure `MW-40` switch is "Aus" (OFF, back);
-    6. (If applicable) Extra fuel:
-        - ==(If applicable) `External Fuel` tank:==
-            1. ==XXXXXXXXXXXXXXX==
-        - (If applicable) `MW 50 Boost` fluid replaced by fuel:
-            1. Make sure `MW 50 Boost` switch (left lower panel, near to `Magnetos`) is OFF (back). If you turn it on, the fuel will be catastrophically injected into the supercharger;
-8. **Engine:**
-    1. In `Magneto Switch`, select "_M1+M2_" option (fully forward);
-    2. `Unlock throttle` ("throttle to start" command), and keep idle pos;
-    3. ==Set `Zündung` (Governor) switch to OFF (down) to manually control the propeller blades angle;==
-        - ==In `Propeller Pitch Indicator` (gauge on the right of the `Fuel` gauge), set the blades angle to "_12:35_" using `Engine RPM` commands (to prevent the plane from going forward in warm-up);==
-    4. In `Starter Switch` (right side, below `Canopy Hand Crank`):
-        1. Open "_FREI_" protection;
-        2. Press down and hold the switch (left click), waiting 25secs before releasing it and then pull it up once (right click).
-    5. THE ENGINE SHOULD START NOW!
-9. **Warm the engine up:**
-    1. ==Set `Cooling Flaps Control` (hand crank in your front) to `Zu` (close);==
+        2. (If applicable) Case `External Fuel Tank`, put that in <span style="color: orange;">Vorderer B...</span> pos!
+	        1. Info: it closes the forward tank, making the `External Fuel Tank` refill only the rear tank while the rear tank feeds the engine.
+    2. In `Fuel Gauge Selector` (front-low-right yellow lever), set <span style="color: orange;">Hinten (rear)</span> tank to monitor that.
+    3. (If applicable) In cold weather only:
+	    1. ==In `Primer Pump` (left lower panel, black rounded valve), pump it 10x;==
+    4. Make sure `MW-40` switch is <span style="color: orange;">Aus (OFF, back)</span>;
+    5. (If applicable) Extra fuel:
+	    1. (If applicable) `MW 50 Boost` fluid was replaced by extra fuel, <span style="color: orange;">NEVER turn it "Ein" (ON, forward)</span>, once it would be catastrophically injected into the supercharger;
+9. **Engine:**
+    1. In `Magneto Switch`, select <span style="color: orange;">M1+M2</span> option (fully forward);
+    2. `Unlock throttle` ("throttle to start" command), and keep it in <span style="color: orange;">idle</span> pos;
+    3. In `Starter Switch` (right side, below `Canopy Hand Crank`):
+        1. Open `FREI` protection;
+        2. Press down and hold the switch (left click), waiting 25 secs before releasing it and then pull it up once (right click).
+    4. THE ENGINE SHOULD START NOW!
+10. **Warm the engine up:**
+    1. Make sure the `Radiator Flaps` are <span style="color: orange;">fully CLOSED</span>;
     2. Hold both `Wheel Brakes` down OR ask crew to place `Wheel Chocks` (to avoid the plane moving);
-    3. Slide `Throttle` up until `Tachometer` hits 12 (1200) RPM;
-        - Stay until `Oil temp.` gauge (red) hits 40ºC;
-    4. Now, `Tachometer` to 1800 RPM;
+    3. Slide `Throttle` up until `Tachometer` hits <span style="color: orange;">1200 RPM</span>;
+        - Stay until `Oil temp.` gauge (red) hits <span style="color: orange;">40ºC</span>;
+    4. Now, `Tachometer` to <span style="color: orange;">1800 RPM</span>;
     5. (If applicable) Scramble situation:
 	    1. ==xxxxxxxxxxxxxxxxxxxx==
     6. **Meanwhile:**
-	    - ==Turn `Battery Switch` (front panel, left side, over the red valve) ON (left);==
+	    - Turn `Battery` button (`Circuit Breakers` panel, last one) <span style="color: orange;">ON (in)</span>;
 	    - Ask `Ground Crew` to disconnect `Ground Electric Power`;
 	    - ==Turn Radio (xxxxxxxx) ON and set this up;==
-	    1. In the `Artificial Horizon`, rotate it fully anti-clockwise;
+	    1. In `Artificial Horizon`, rotate it <span style="color: orange;">fully anti-clockwise</span>;
 	    2. ==In `Altimeter` gauge, set it to zero!==
-    7. Wait for `Oil temp.` in 60ºC (probably it can take ~==5min==);
-    8. Once warmed up, slide back the `Throttle` to idle.
-    9. ==Set `Cooling Flaps Control` to `Auf` (open);==
-    10. Release `Wheel Brakes` OR remove the `Wheel Chocks`;
-10. Ready to go!
+    7. Wait for `Oil temp.` in <span style="color: orange;">60ºC</span> (probably it can take ~==5min==);
+    8. Once `Coolant Temp.` gauge (behind `Stick`, green monitor) indicates <span style="color: orange;">>=90ºC</span>, <span style="color: orange;">OPEN</span> the `Radiator Flaps`;
+    9. Once warmed up, slide back the `Throttle` to <span style="color: orange;">idle</span>.
+    10. <span style="color: orange;">Release</span> `Wheel Brakes` OR <span style="color: orange;">remove</span> `Wheel Chocks`;
+    11. Ready to go!
 
 ---
 ## **2)** D-9 > **Taxiing:**
 
-1. Make sure `Nav. Lights` are ON;
-2. Make sure `Canopy` is open;
-3. ==Make sure `Cooling Flaps Control` is `Auf` (open);==
-4. ~~Turn~~ `~~Zündung~~` ~~(Governor) switch to ON (up) to automatically control the propeller blade angle!~~
-5. Say on radio: `YourCallsign` taxiing!
-6. To move, `Throttle` (1200-1400RPM) and `Wheel Brakes` gently;
-7. If needed, pull the `Stick` back to lock `Tail Wheel`;
-8. (If applicable) Request to take off and wait for your go;
+1. Make sure `Nav. Lights` are <span style="color: orange;">ON</span>;
+2. Make sure `Canopy` is <span style="color: orange;">open</span>;
+3. Make sure `Radiator Flaps` is <span style="color: orange;">fully OPEN</span>;
+4. Say on radio: `YourCallsign` taxiing!
+5. To move, `Throttle` (1200-1400RPM) and `Wheel Brakes` gently;
+6. If needed, pull the `Stick` <span style="color: orange;">back to lock</span> `Tail Wheel`;
+7. (If applicable) Request to take off and wait for your go;
 
 ---
 ## 3) D-9 > Takeoff:
 EXTRA TIP: Check where you are on the map (or on the `kneeboard`);
 
 1. **Preparing:**
-    1. Make sure `Nav. Lights` are ON;
+    1. Make sure `Nav. Lights` are <span style="color: orange;">ON</span>;
     2. On the runway, you are already in takeoff position;
-    3. Close the `Canopy`;
-    4. ==Make sure the `Cooling Flaps Control` is `Auf` (open) pos.;==
-    5. `Flaps` to takeoff pos (left side, lower panel, center yellow button);
+    3. <span style="color: orange;">Close</span> the `Canopy`;
+    4. Make sure `Radiator Flaps` is <span style="color: orange;">fully OPEN</span>;
+    5. `Flaps` to <span style="color: orange;">takeoff</span> pos (left side, lower panel, center yellow button);
     6. Based in your weight:
         1. Light:
-            - Make sure `MW 50 Boost` switch (left lower panel, near to `Magnetos`) is OFF (back).
-            - Trim nose (stabilizer) up to +1.0 (left side, weird right wheel);
+            - Make sure `MW 50 Boost` switch (left lower panel, near to `Magnetos`) is <span style="color: orange;">OFF (back)</span>.
+            - Trim nose (stabilizer) up to <span style="color: orange;">+1.0</span> (left side, weird right wheel);
         2. Heavy:
-            - (If applicable) If MW 50 is not for extra fuel, turn `MW 50 Boost` switch ON (forward);
-            - Trim nose (stabilizer) up to +2.0 (left side, weird right wheel);
+            - (If applicable) If MW 50 is not for extra fuel, turn `MW 50 Boost` switch <span style="color: orange;">ON (forward)</span>;
+            - Trim nose (stabilizer) up to <span style="color: orange;">+2.0</span> (left side, weird right wheel);
     7. Make sure everything from "MEANWHILE" Cold-start procedures was done;
 2. **Go:**
     1. Say on radio: `YourCallsign` rolling!
-    2. Pull the `Stick` back (it locks the `Tail Wheel`), slide up the `Throttle` slowly until the `Start` throttle rail end position.
-    3. Release the `Stick` slowly, and, in 180km/h, pull it back again;
+    2. Pull the `Stick` <span style="color: orange;">back</span> (it locks the `Tail Wheel`), slide `Throttle` forward slowly until the throttle's rail <span style="color: orange;">Start</span> pos;
+    3. <span style="color: orange;">Release</span> the `Stick` slowly, and, in <span style="color: orange;">180kmh</span>, pull it back again;
 3. **Once airborne:**
-    - `Gears up` (unlock and press the right-RED-button) - limit speed's XXXKm/h;
-    - `Flaps up` to 0º (left-RED-button) - limit speed's 300Km/h;
+    - `Gears up` (unlock and press the right-RED-button) - limit speed's ==XXXKm==/h;
+    - `Flaps up` to 0º (left-RED-button) - limit speed's ==300Km==/h;
     - Say on radio: `YourCallsign` airborne!
     - Trim adjustments!
-    - Turn `Oxygen` valve (right side, low panel, blue one) ON (up);
-    - (If applicable and not fuel in) Turn `MW 50 Boost` switch (near to `Magnetos`) ON (forward);
+    - Turn `Oxygen` valve (right side, low panel, blue one) <span style="color: orange;">ON (up)</span>;
+    - (If applicable and not fuel in) Turn `MW 50 Boost` switch (near to `Magnetos`) <span style="color: orange;">ON (forward)</span>;
     1. **(If applicable) In combat skies:**
-        - Turn `Nav. Lights` OFF;
-        - ==Turn `Cabin illumination OFF`;==
-        - Turn `Master Arm` switch to ON (up);
+        - Turn `Nav. Lights` <span style="color: orange;">OFF</span>;
+        - ~~Turn `Cabin illumination` OFF;~~
+        - Turn `Master Arm` switch to <span style="color: orange;">ON (up)</span>;
 
 ---
 ## **4)** D-9 > **Climbing & Cruise:**
 
 - **Climbing:**
-    - Ceiling: ==XXkm (~XXXXft);==
-    - ==Set `Cooling Flaps` to `Auf` (open) to avoid overheating;==
-    - `Throttle` rail has `Steigen` (climb) pos;
+    - Ceiling: <span style="color: orange;">10.500km</span> (34.450ft);
+    - Open `Radiator Flaps` to avoid overheating (over than 110ºC);
+    - Set `Throttle` to <span style="color: orange;">Steigen (climb)</span> pos to get <span style="color: orange;">285kmh</span>;
     - ==From Xkm alt:==
-        - Make sure `Circuit Breaker Pitot and Clothes Heating` switch is ON (in);
+        - Make sure Circuit Breaker's `Pitot and Heating Cover` switch is <span style="color: orange;">ON (in)</span>;
 - **Cruise:**
     - ==(If applicable) Make sure the `External Fuel Tank` is being used;==
     - ==Safe cruise MAX = ATA 1.0-1.2 ???????(Fuel consuption = xxx xxxx/h);==
     - ==To save fuel = xxxxxxxx (Fuel consuption = xx xxx/h);==
-    - ==Set `Cooling Flaps` to `Zu` (close) to avoid drag;==
+    - `Radiator Flaps` must be progressively <span style="color: orange;">closed</span> if the `Coolant Temp.` gauge doesn't get higher than <span style="color: orange;">100ºC</span>;
 - **Communication:**
 	- [basic-about-communication](basic-about-communication.md)
     
@@ -159,8 +156,8 @@ EXTRA TIP: Check where you are on the map (or on the `kneeboard`);
     - ==Stall speed < 180Km/h (xxxMph)==
     - ==Dive speed limit: 850Km/h alt 2Km / 700Km/h alt 5Km;==
 - **Dogfight:**
-    - (If applicable) `External Fuel` tank should be dropped!
-    - ==_Cooling Flaps:` Closed or at least 50% closed to prevent energy bleeding;==
+    - (If applicable) `External Fuel Tank` should be dropped!
+    - `Radiator Flaps:` <span style="color: orange;">Closed or at least 50% closed</span> to prevent energy bleeding;
     - ==For Scissors maneuver, consider using `Flaps` in `Takeoff` pos (flaps limit 300km/h) to get the enemy in your crosshair;==
 - **Intercepting:**
     - ==xxxx==
@@ -177,13 +174,14 @@ EXTRA TIP: Check where you are on the map (or on the `kneeboard`);
 ---
 ## 6) D-9 > Special Ops:
 
-- **(If) Discarding `External Fuel` Tank:**
-    - ==In `Fuel Tank Selector`, put it up in the "_Auf_" (On/Auto);==
-    - ==In `Kraftstoffpumpen` (Fuel Circuit Breakers) panel, turn OFF the first and the last two bts;==
-    - ==Pull the `Bomben` handle (red one) to release the aux. fuel tank;==
+- **(If) Discarding `External Fuel Tank`:**
+	- Info:  Once the rear (<span style="color: orange;">Hinten</span>) internal tank's fuel level begins to get lower than <span style="color: orange;">240L</span> it means the external tank is dry.
+	- In `Fuel Tank Selector`, put it in the <span style="color: orange;">Auf (On/Auto)</span> pos;
+	- In `Kraftstoffpumpen` (Fuel Circuit Breakers) panel, turn the `E85` button <span style="color: orange;">OFF</span>;
+	- Pull `Rumpflast` handle (left knee, lower red handle) to release the external tank;
 - **(If) Firing rockets:**
-    - ==Turn ON the `Main Rocket Switch` (front-low-panel behind the stick);==
-    - ==To discard the rocket tubes, use the `Rocket Emergency Release` in the rockets panel;==
+	- ==Turn ON the `Main Rocket Switch` (front-low-panel behind the stick);==
+	- ==To discard the rocket tubes, use the `Rocket Emergency Release` in the rockets panel;==
 
 ---
 ## 7) D-9 > Failure Actions:
@@ -202,8 +200,8 @@ EXTRA TIP: Check where you are on the map (or on the `kneeboard`);
     - **Failure:**
         - ==Gliding speed ~260km/h;==
         - ==(If applicable) Jettison all external load;==
-        - ==Turn `Zündung` (Governor) switch OFF (back);==
-            - ==In `Propeller Pitch Indicator`, set it to 12:35 (feathered position);==
+        - ~~Turn `Zündung` (Governor) switch OFF (back);
+            - ~~In `Propeller Pitch Indicator`, set it to 12:35 (feathered position);~~
         - Read section: 8) Landing > Emergency landing;
     - **On fire:**
         - ==Slide `Throttle` fully back;==
@@ -219,10 +217,10 @@ EXTRA TIP: Check where you are on the map (or on the `kneeboard`);
 ## 8) D-9 > **Landing:**
 
 1. **Before:**
-    1. (if applicable) Release `External fuel tank`;
+    1. (if applicable) Release `External fuel Tank`;
     2. `Nav. Lights` ON;
     3. ==Set `Trim` to -2 to -3 (nose up);==
-    4. ==(If applicable) `Cooling Flaps Control` in `Auf` (open) to add more drag;==
+    4. ==(If applicable) `Radiator Flaps` in `Auf` (open) to add more drag;==
     5. ==Vel. 300Km/h (`ATA` 1.0), 200m alt;==
     6. (If applicable) Emergency landing:
         1. ==Nothing to do...==
@@ -262,7 +260,7 @@ EXTRA TIP: Check where you are on the map (or on the `kneeboard`);
     3. After that time, cut `Throttle` to idle;
     4. Set `Magneto Switch` to 0 (full back);
     5. `Lock Throttle` ("throttle to stop" command);
-    6. ==Set `Cooling Flaps Control` to `Zu` (close);==
+    6. `Radiator Flaps` must be <span style="color: orange;">fully closed</span>;
 4. **Fuel:**
     1. In `Fuel Tank Selector`, put it down in `ZU` (close);
 5. **Electric:**

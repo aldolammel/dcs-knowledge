@@ -54,11 +54,10 @@ An October 1944 variant of the Bf 109, Germany's most important and deadliest fi
                 - Left column: **5**th;
                 - Right column: --
 7. **Fuel:**
-    1. (If applicable) Ask crew to add the `External Fuel Tank` ;
-    2. Set `Booster Pump` (Fuel tank selector near `Throttle`) lever to `P1+P2` (Rear+Front tanks);
-    3. In `Priming Pump` (left side, floor, red valve), pump it 15x;
-    4. Slide `Throttle` forward just 10% to make the fuel flow into the engine;
-    5. (If applicable) Extra fuel:
+    1. Set `Booster Pump` (Fuel tank selector near `Throttle`) lever to `P1+P2` (Rear+Front tanks);
+    2. In `Priming Pump` (left side, floor, red valve), pump it 15x;
+    3. Slide `Throttle` forward just 10% to make the fuel flow into the engine;
+    4. (If applicable) Extra fuel:
         - (If applicable) `External Fuel` tank:
             1. Check if `External Fuel Tube` has liquid flowing (right lag, transparent tube);
         - (If applicable) `MW 50 Boost` fluid replaced by fuel:

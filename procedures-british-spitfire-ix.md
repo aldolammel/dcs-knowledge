@@ -36,7 +36,7 @@
 ---
 ## **1) Spitfire > Cold start:**
 
-1. (If applicable) Turn your `personal flashlight` ON;
+1. ~~(If applicable) Turn your `personal flashlight` ON;~~
 2. (If applicable) Turn `Cockpit lights` ON;
 3. Open `Canopy` (crew needs to listen to you);
 4. Request `Start-Up` procedure to tower;
@@ -49,15 +49,14 @@
 	4. (If applicable):
 		1. If cold/high-alt.: Turn `Windscreen De-Icer` knob (right leg) to ON (upper red end pointing to the back);
 8. **Fuel:**
-	1. (If applicable) Ask `Ground Crew` to add the `External Fuel Tank`;
-	2. Make sure `Fuel Tank Pressure` valve (front, right low corner) is OFF (left);
-	3. In `Main Tank` lever (behind the `Stick`), set to ON (up);
-	4. (If applicable) Using an `External Fuel Tank`:
+	1. Make sure `Fuel Tank Pressure` valve (front, right low corner) is OFF (left);
+	2. In `Main Tank` lever (behind the `Stick`), set to ON (up);
+	3. (If applicable) Using an `External Fuel Tank`:
 		1. Pull `Drop Tank` lever (right leg) to ON (back);
 		2. Again, in `Main Tank` lever, turn it back to OFF (down);
-	5. In `Primer` (a copper valve side by side with the `Main Tank` lever), twist it to open, and pump it 4x (if cold outside, 8x). Keep it open;
-	6. In `Wobble Type Fuel` valve (right side, huge metal globe), pump it until the `low fuel pressure` light turns off;
-	7. Take the `Throttle` and slide it forward just a bit (5%) to make the fuel flow soon;
+	4. In `Primer` (a copper valve side by side with the `Main Tank` lever), twist it to open, and pump it 4x (if cold outside, 8x). Keep it open;
+	5. In `Wobble Type Fuel` valve (right side, huge metal globe), pump it until the `low fuel pressure` light turns off;
+	6. Take the `Throttle` and slide it forward just a bit (5%) to make the fuel flow soon;
 9. **Electric (part 2/2):**
     1. `Circuit Breakers` (left leg, red buttons):
         1. Mandatory:

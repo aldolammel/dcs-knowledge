@@ -49,12 +49,11 @@ Anton is a 1944 variant of the German FW-190. Originally intended for intercepti
     5. In `Schusswaffen` (Firearms), turn on those 3 bts;
     6. Near to `Schusswaffen` bts, open that other circuit panel and turn on all of them, except the last one (right side, "self-destruction...");
 7. **Fuel:**
-    1. (If applicable) Ask `Ground Crew` to add the `External Fuel Tank`;
-    2. In `Fuel Tank Selector` (red valve on the left):
+    1. In `Fuel Tank Selector` (red valve on the left):
         - Put it fully up in `Auf` (On/Auto);
         - (If applicable) Case `External Fuel` tank, put that in `Vord` pos! It closes the forward tank, making the `External Fuel` refill only the rear tank.
-    3. In `Fuel Gauge Selector` (front-low-right yellow lever), set `Hinten` (rear) to monitor that tank.
-    4. In `Primer Pump` (yellow valve, below your left shoulder), pump it 10x;
+    2. In `Fuel Gauge Selector` (front-low-right yellow lever), set `Hinten` (rear) to monitor that tank.
+    3. In `Primer Pump` (yellow valve, below your left shoulder), pump it 10x;
 8. **Engine:**
     1. In `Magneto Switch`, select `M1+M2` option (fully forward);
     2. `Unlock throttle` ("throttle to start" command), and keep idle pos;
