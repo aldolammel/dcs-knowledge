@@ -12,7 +12,7 @@
 - This plane's official doc: [https://www.digitalcombatsimulator.com/en/downloads/documentation/dcs-mosquito_early_access_manual_en/](https://www.digitalcombatsimulator.com/en/downloads/documentation/dcs-mosquito_early_access_manual_en/)
 
 ```
-Introduced in 1942, this is a variant of the British 'Wooden Wonder', the twin-engine Mosquito fighter-bomber. Renowned as one of the fastest propeller-driven aircraft of WWII, it features potent centralized cannon firepower and flexible internal and wing-mounted payloads.
+Introduced in 1942, this is a variant of the British 'Wooden Wonder', the twin-engine Mosquito fighter-bomber. Renowned as one of the fastest propeller-driven aircraft of WWII, it features potent centralized cannon firepower and flexible internal and wing-mounted payloads. It's a night interceptor too, using the Hit-and-Run doctrine.
 ```
 ## **Pros:**
 - Light (wooden-made);
@@ -116,6 +116,7 @@ EXTRA TIP: Check where you are on the map (or on the kneeboard);
 
 1. **Preparing:**
     - Make sure `Nav. Lights` are ON;
+    - (If applicable) Case `External Fuel Tanks`, ==selector position xxxxxxxxxxxx;==
     - (If applicable) Make sure `Landing Light` knobs are ON;
     - (If applicable) Looking to `Radio Operator` seat, lower the `Armored Backrest`;
     - Make sure all windows are closed;
@@ -190,6 +191,8 @@ EXTRA TIP: Check where you are on the map (or on the kneeboard);
     - ==Stall speed < 160mph (257Km);==
     - ==Dive speed limit: 450mph alt 0-20K feet;==
     - ==After 25K feet, set `Fuel Tank Pressure` valve to ON (right);==
+    - (If applicable) `External Fuel Tanks` should be dropped:
+	    - Read section: 6) Discarding `External Fuel Tanks`;
 - **Dogfight:**
     - ==xxxx==
 - **Intercepting:**

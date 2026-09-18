@@ -101,13 +101,14 @@ EXTRA TIP: Check where you are on the `map` (or on the `kneeboard`);
 
 1. **Preparing**:
     1. Make sure `Nav. Lights` are ON;
-    2. On the runway, you are already in takeoff position;
-    3. Close the `Canopy`,
-    4. Make sure `Zündung` (Governor) switch is set ON (up)!
-    5. Make sure the `Cooling Flaps Control` is `Auf` (open) pos.;
-    6. `Flaps` at 13º position (left side, lower panel, small yellow button);
-    7. Trim nose (left side, lower panel) UP to +1.5 (light) or +2.0 (heavy);
-    8. Make sure everything from "MEANWHILE" Cold-start procedures was done;
+    2. (If applicable) Case `External Fuel Tank`, ==selector position xxxxxxxxxxxx;==
+    3. On the runway, you are already in takeoff position;
+    4. Close the `Canopy`,
+    5. Make sure `Zündung` (Governor) switch is set ON (up)!
+    6. Make sure the `Cooling Flaps Control` is `Auf` (open) pos.;
+    7. `Flaps` at 13º position (left side, lower panel, small yellow button);
+    8. Trim nose (left side, lower panel) UP to +1.5 (light) or +2.0 (heavy);
+    9. Make sure everything from "MEANWHILE" Cold-start procedures was done;
 2. **Go:**
     1. Say on radio: `MyCallsign` rolling!
     2. Pull the `Stick` back (it locks the `Tail Wheel`), slide up the `Throttle` slowly, adjusting the direction with `Rudder`, speeding up until 120-140km/h, then release the `Stick` gently.
@@ -135,7 +136,7 @@ EXTRA TIP: Check where you are on the `map` (or on the `kneeboard`);
     - From ==Xkm== alt:
         - Make sure `Circuit Breaker Clothes Heating` switch is ON (in);
 - **Cruise:**
-    - (If applicable) Make sure the `External Fuel Tank` is being used;
+    - (If applicable) Case `External Fuel Tank`, ==selector position xxxxxxxxxxxx;==
     - ==Safe cruise MAX = ATA 1.0-1.2 ???????(Fuel consuption = xxx xxxx/h);==
     - ==To save fuel = xxxxxxxx (Fuel consuption = xx xxx/h);==
     - Set `Cooling Flaps` to `Zu` (close) to avoid drag;
@@ -150,8 +151,9 @@ EXTRA TIP: Check where you are on the `map` (or on the `kneeboard`);
     - Max speed = ==xxxxxKm==/h (ATA 1.xx)
     - Stall speed < 180Km/h (==xxxMph==)
     - Dive speed limit: 850Km/h alt 2Km / 700Km/h alt 5Km;
+    - (If applicable) `External Fuel Tank` should be dropped:
+	    - Read section: 6) Discarding `External Fuel Tank`;
 - **Dogfight:**
-    - (If applicable) `External Fuel` tank should be dropped!
     - `Cooling Flaps:` Closed or at least 50% closed to prevent energy bleeding;
     - For Scissors maneuver, consider using `Flaps` in `Takeoff` pos (flaps limit 300km/h) to get the enemy in your crosshair;
 - **Intercepting:**

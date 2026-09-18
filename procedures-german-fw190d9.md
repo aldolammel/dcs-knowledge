@@ -49,12 +49,12 @@ From September 1944, the Focke-Wulf Dora-9 was a late-war Luftwaffe high-altitud
 8. **Fuel:**
     1. In `Fuel Tank Selector` (front panel, red valve on the left):
         1. Put it fully up in "_Auf_" (On/Auto);
-        2. (If applicable) Case `External Fuel Tank`, put that in <span style="color: orange;">Vorderer B...</span> pos!
+        2. (If applicable) Case `External Fuel Tank`, put that in <span style="color: orange;">Vorderer B...</span> pos;
 	        1. Info: it closes the forward tank, making the `External Fuel Tank` refill only the rear tank while the rear tank feeds the engine.
-    2. In `Fuel Gauge Selector` (front-low-right yellow lever), set <span style="color: orange;">Hinten (rear)</span> tank to monitor that.
+    2. In `Fuel Gauge Selector` (right knee, black selector), set <span style="color: orange;">Hinten (rear)</span> tank to monitor that.
     3. (If applicable) In cold weather only:
 	    1. ==In `Primer Pump` (left lower panel, black rounded valve), pump it 10x;==
-    4. Make sure `MW-40` switch is <span style="color: orange;">Aus (OFF, back)</span>;
+    4. Make sure `MW-40` switch (left side, lower panel, rear of big red bt) is <span style="color: orange;">Aus (OFF, back)</span>;
     5. (If applicable) Extra fuel:
 	    1. (If applicable) `MW 50 Boost` fluid was replaced by extra fuel, <span style="color: orange;">NEVER turn it "Ein" (ON, forward)</span>, once it would be catastrophically injected into the supercharger;
 9. **Engine:**
@@ -66,9 +66,9 @@ From September 1944, the Focke-Wulf Dora-9 was a late-war Luftwaffe high-altitud
     4. THE ENGINE SHOULD START NOW!
 10. **Warm the engine up:**
     1. Make sure the `Radiator Flaps` are <span style="color: orange;">fully CLOSED</span>;
-    2. Hold both `Wheel Brakes` down OR ask crew to place `Wheel Chocks` (to avoid the plane moving);
+    2. <span style="color: orange;">Hold</span> both `Wheel Brakes` down OR ask crew <span style="color: orange;">to place</span> `Wheel Chocks`;
     3. Slide `Throttle` up until `Tachometer` hits <span style="color: orange;">1200 RPM</span>;
-        - Stay until `Oil temp.` gauge (red) hits <span style="color: orange;">40ºC</span>;
+        - Keep it until `Oil temp.` gauge (behind `Stick`, orange one) hits <span style="color: orange;">40ºC</span>;
     4. Now, `Tachometer` to <span style="color: orange;">1800 RPM</span>;
     5. (If applicable) Scramble situation:
 	    1. ==xxxxxxxxxxxxxxxxxxxx==
@@ -78,8 +78,8 @@ From September 1944, the Focke-Wulf Dora-9 was a late-war Luftwaffe high-altitud
 	    - ==Turn Radio (xxxxxxxx) ON and set this up;==
 	    1. In `Artificial Horizon`, rotate it <span style="color: orange;">fully anti-clockwise</span>;
 	    2. ==In `Altimeter` gauge, set it to zero!==
-    7. Wait for `Oil temp.` in <span style="color: orange;">60ºC</span> (probably it can take ~==5min==);
-    8. Once `Coolant Temp.` gauge (behind `Stick`, green monitor) indicates <span style="color: orange;">>=90ºC</span>, <span style="color: orange;">OPEN</span> the `Radiator Flaps`;
+    7. Wait for `Oil temp.` in <span style="color: orange;">60ºC</span>;
+    8. (Automatic system) once `Coolant Temp.` gauge (behind `Stick`, green monitor) indicates <span style="color: orange;">>=90ºC</span>, <span style="color: orange;">OPEN</span> `Radiator Flaps`;
     9. Once warmed up, slide back the `Throttle` to <span style="color: orange;">idle</span>.
     10. <span style="color: orange;">Release</span> `Wheel Brakes` OR <span style="color: orange;">remove</span> `Wheel Chocks`;
     11. Ready to go!
@@ -89,9 +89,9 @@ From September 1944, the Focke-Wulf Dora-9 was a late-war Luftwaffe high-altitud
 
 1. Make sure `Nav. Lights` are <span style="color: orange;">ON</span>;
 2. Make sure `Canopy` is <span style="color: orange;">open</span>;
-3. Make sure `Radiator Flaps` is <span style="color: orange;">fully OPEN</span>;
+3. Keep in mind: once `Coolant Temp.` gauge (behind `Stick`, green monitor) indicates <span style="color: orange;">>=90ºC</span>, <span style="color: orange;">OPEN</span> `Radiator Flaps`;
 4. Say on radio: `YourCallsign` taxiing!
-5. To move, `Throttle` (1200-1400RPM) and `Wheel Brakes` gently;
+5. To move, `Throttle` (<span style="color: orange;">1200-1400 RPM</span>) and `Wheel Brakes` gently;
 6. If needed, pull the `Stick` <span style="color: orange;">back to lock</span> `Tail Wheel`;
 7. (If applicable) Request to take off and wait for your go;
 
@@ -101,18 +101,20 @@ EXTRA TIP: Check where you are on the map (or on the `kneeboard`);
 
 1. **Preparing:**
     1. Make sure `Nav. Lights` are <span style="color: orange;">ON</span>;
-    2. On the runway, you are already in takeoff position;
-    3. <span style="color: orange;">Close</span> the `Canopy`;
-    4. Make sure `Radiator Flaps` is <span style="color: orange;">fully OPEN</span>;
-    5. `Flaps` to <span style="color: orange;">takeoff</span> pos (left side, lower panel, center yellow button);
-    6. Based in your weight:
+    2. (If applicable) Case `External Fuel Tank`, put `Fuel Tank Selector` in <span style="color: orange;">Vorderer B...</span> pos;
+    3. In `Fuel Gauge Selector` set <span style="color: orange;">Hinten (rear)</span> tank to monitor that;
+    4. On the runway, you are already in takeoff position;
+    5. `Canopy` must be <span style="color: orange;">closed</span>;
+    6. (Automatic system) `Radiator Flaps` should be <span style="color: orange;">at least a bit OPEN</span>;
+    7. `Flaps` to <span style="color: orange;">takeoff</span> pos (left side, lower panel, center yellow button);
+    8. Based in your weight:
         1. Light:
             - Make sure `MW 50 Boost` switch (left lower panel, near to `Magnetos`) is <span style="color: orange;">OFF (back)</span>.
             - Trim nose (stabilizer) up to <span style="color: orange;">+1.0</span> (left side, weird right wheel);
         2. Heavy:
             - (If applicable) If MW 50 is not for extra fuel, turn `MW 50 Boost` switch <span style="color: orange;">ON (forward)</span>;
             - Trim nose (stabilizer) up to <span style="color: orange;">+2.0</span> (left side, weird right wheel);
-    7. Make sure everything from "MEANWHILE" Cold-start procedures was done;
+    9. Make sure everything from "MEANWHILE" Cold-start procedures was done;
 2. **Go:**
     1. Say on radio: `YourCallsign` rolling!
     2. Pull the `Stick` <span style="color: orange;">back</span> (it locks the `Tail Wheel`), slide `Throttle` forward slowly until the throttle's rail <span style="color: orange;">Start</span> pos;
@@ -139,7 +141,8 @@ EXTRA TIP: Check where you are on the map (or on the `kneeboard`);
     - ==From Xkm alt:==
         - Make sure Circuit Breaker's `Pitot and Heating Cover` switch is <span style="color: orange;">ON (in)</span>;
 - **Cruise:**
-    - ==(If applicable) Make sure the `External Fuel Tank` is being used;==
+    - (If applicable) Case `External Fuel Tank`, put `Fuel Tank Selector` in <span style="color: orange;">Vorderer B...</span> pos;
+    - In `Fuel Gauge Selector` set <span style="color: orange;">Hinten (rear)</span> tank to monitor that;
     - ==Safe cruise MAX = ATA 1.0-1.2 ???????(Fuel consuption = xxx xxxx/h);==
     - ==To save fuel = xxxxxxxx (Fuel consuption = xx xxx/h);==
     - `Radiator Flaps` must be progressively <span style="color: orange;">closed</span> if the `Coolant Temp.` gauge doesn't get higher than <span style="color: orange;">100ºC</span>;
@@ -155,8 +158,9 @@ EXTRA TIP: Check where you are on the map (or on the `kneeboard`);
     - ==Max speed = xxxxxKm/h (ATA 1.xx)==
     - ==Stall speed < 180Km/h (xxxMph)==
     - ==Dive speed limit: 850Km/h alt 2Km / 700Km/h alt 5Km;==
+    - (If applicable) `External Fuel Tank` should be dropped:
+	    - Read section: 6) Discarding `External Fuel Tank`;
 - **Dogfight:**
-    - (If applicable) `External Fuel Tank` should be dropped!
     - `Radiator Flaps:` <span style="color: orange;">Closed or at least 50% closed</span> to prevent energy bleeding;
     - ==For Scissors maneuver, consider using `Flaps` in `Takeoff` pos (flaps limit 300km/h) to get the enemy in your crosshair;==
 - **Intercepting:**
@@ -180,8 +184,11 @@ EXTRA TIP: Check where you are on the map (or on the `kneeboard`);
 	- In `Kraftstoffpumpen` (Fuel Circuit Breakers) panel, turn the `E85` button <span style="color: orange;">OFF</span>;
 	- Pull `Rumpflast` handle (left knee, lower red handle) to release the external tank;
 - **(If) Firing rockets:**
-	- ==Turn ON the `Main Rocket Switch` (front-low-panel behind the stick);==
-	- ==To discard the rocket tubes, use the `Rocket Emergency Release` in the rockets panel;==
+	- In `Main Rocket Switch` (front panel, behind `Stick`, left bt) turn it <span style="color: orange;">ON (up)</span>;
+	- Firing:
+		- (If R4M, 55mm) Trigger ones to fire one couple of rockets at time;
+		- (If BR21, 210mm) Trigger ones to fire one rocket at time;
+	- To discard the rockets, use `Rocket Emergency Release` in bombs panel;
 
 ---
 ## 7) D-9 > Failure Actions:

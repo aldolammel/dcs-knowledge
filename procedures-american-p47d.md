@@ -103,6 +103,7 @@ EXTRA TIP: Check where you are on the map (or on the `kneeboard`);
 
 1. **Preparing:**
     - Make sure `Nav. Lights` are ON;
+    - (If applicable) Case `External Fuel Tank`, ==selector position xxxxxxxxxxxx;==
     - On the runway, you are already in takeoff position;
     - Close the `Canopy` (USAF doctrine if not carrier-based airplane);
     - Lock `Tail Wheel` (right side, on floor) moving it forward;
@@ -159,6 +160,7 @@ Throttle / supercharger management. It's easy: Always use the throttle first, an
 	- Best climb speed: 160mph;
 	- Keep `Cowl Flaps` OPEN
 - **Cruise:**
+	- (If applicable) Case `External Fuel Tank`, ==selector position xxxxxxxxxxxx;==
 	- Normal economical cruise = `Pitch` **2250 RPM**, `Throttle` **32" Hg**, `Mixture` **AUTO LEAN**;
 	- Maximum continuous = `Pitch` **2550 RPM**, `Throttle` **42" Hg**, `Mixture` **AUTO RICH**;
 	- If using `External Fuel Tank`:
@@ -182,10 +184,11 @@ Throttle / supercharger management. It's easy: Always use the throttle first, an
         - For more power = First, increase RPM, and then `Boost`/manifold pressure;
     - Stall speed <span style="color: orange;">130mph</span>;
     - Dive speed limit: <span style="color: orange;">500mph</span>;
+    - (If applicable) `External Fuel Tank` should be dropped:
+	    - Read section: 6) Discarding `External Fuel Tank`;
 - **Dogfight:**
-    - DON'T!
-- **Intercepting:**
     - ==xxxx==
+- **Intercepting:**
     - ==For Rockets use, check `Special Ops` section;==
 - **Ground attack:**
     - Bombing:

@@ -105,18 +105,19 @@ EXTRA TIP: Check where you are on the map (or on the `kneeboard`);
 
 1. **Preparing:**
     1. Make sure `Nav. Lights` are ON;
-    2. On the runway, you are already in takeoff position;
-    3. Close the `Canopy` ;
-    4. Lock the `Tail Wheel` (left shoulder, a metal cable), set that down;
-    5. Make sure `Governor` switch is ON (down);
-    6. `Flaps` at 20º position (left side, weird left wheel). So 20º is the 3rd black mark in your left wing;
-    7. Based in your weight:
+    2. (If applicable) Case `External Fuel Tank`, ==selector position xxxxxxxxxxxx;==
+    3. On the runway, you are already in takeoff position;
+    4. Close the `Canopy` ;
+    5. Lock the `Tail Wheel` (left shoulder, a metal cable), set that down;
+    6. Make sure `Governor` switch is ON (down);
+    7. `Flaps` at 20º position (left side, weird left wheel). So 20º is the 3rd black mark in your left wing;
+    8. Based in your weight:
         1. Light:
             - Trim nose (stabilizer) up to +1.0 (left side, weird right wheel);
         2. Heavy:
             - (If applicable) If MW 50 is not for extra fuel, turn `MW 50 Boost` switch ON (forward);
             - Trim nose (stabilizer) up to +2.0 (left side, weird right wheel);
-    8. Make sure everything from "MEANWHILE" Cold-start procedures was done;
+    9. Make sure everything from "MEANWHILE" Cold-start procedures was done;
 2. **Go:**
     1. Say on radio: `YourCallsign` rolling!
     2. Keep the `Stick` in idle, slide up the `Throttle` slowly, adjusting the direction with `Rudder` , speeding up until ATA 1.35.
@@ -141,11 +142,11 @@ EXTRA TIP: Check where you are on the map (or on the `kneeboard`);
 ## **4) 109K-4 > Climbing & Cruise:**
 
 - **Climbing:**
-    - Ceiling: ==XXkm==;
-    - ATA 1.30 (safe)
-- **Cruise:**
-    - (Safe) ATA between 1.0 and 1.30;
-    - (If applicable) Make sure the `External Fuel Tank` is being used;
+	- Ceiling: ==XXkm==;
+	- ATA 1.30 (safe)
+- **Cruise:
+	- (If applicable) Case `External Fuel Tank`, ==selector position xxxxxxxxxxxx;==**
+	- (Safe) ATA between 1.0 and 1.30;
 - **Communication:**
 	- xxx
 
@@ -159,8 +160,9 @@ EXTRA TIP: Check where you are on the map (or on the `kneeboard`);
 	- ATA 1.98 - Engine survival = 10min;
 	- Stall speed ==< 180Km/h==
 	- Dive speed limit: 850Km/h alt 1km / 700Km/h alt 5km;
+	- (If applicable) `External Fuel Tank` should be dropped:
+	    - Read section: 6) Discarding `External Fuel Tank`;
 - **Dogfight:**
-	- (If applicable) `External Fuel` tank should be dropped!
 	- ==xxxx==
 - **Intercepting:**
 	- ==xxxx==

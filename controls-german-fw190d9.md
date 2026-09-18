@@ -66,10 +66,10 @@ Presets: `GoogleDrive:\My Drive\Hardwares e Softwares\Gaming Configs\DCS\`
         - Fire MGs with Wing Cowl Cannons =<span style="color: white; background-color: green; padding:0 5px;"> JOY_BTN2</span>
 - **Bombs:**
     - Activate bombs (Bomb fusing selector) = <span style="color: orange;">manually</span>;
-        - Bomb release = ==JOY_BTN3 (bt superior esq)==
+        - Weapon release = <span style="color: white; background-color: green; padding:0 5px;">JOY_BTN3 (bt superior esq)</span>
 - **Rockets:**
-    - Activate Rockets (Main rocket switch) = <span style="color: orange;">manually</span>;
-        - Launch rockets (same bt as 'Bomb release') = ==JOY_BTN3 (bt superior esq)==
+    - Activate Rockets (Main rocket switch) = <span style="color: orange;">manually (up = On)</span>;
+        - Launch rockets (same bt as 'Weapon release') = <span style="color: white; background-color: green; padding:0 5px;">JOY_BTN3 (bt superior esq)</span>
         - Rocket Emergency Release toggle On/Off = <span style="color: white; background-color: green; padding:0 5px;">RCtrl + NumLock</span>
 - **Lights:**
     - Instrument lights On = <span style="color: white; background-color: green; padding:0 5px;">Delete</span>

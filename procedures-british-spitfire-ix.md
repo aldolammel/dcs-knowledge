@@ -112,6 +112,7 @@ EXTRA TIP: Check where you are on the map (or on the kneeboard);
 
 1. **Preparing:**
     - Make sure `Nav. Lights` are ON;
+    - (If applicable) Case `External Fuel Tank`, ==selector position xxxxxxxxxxxx;==
     - On the runway, you are already in takeoff position;
     - Keep `Canopy` open (RAF doctrine);
     - Make sure `Pitch` is fully forward (up);
@@ -158,7 +159,7 @@ EXTRA TIP: Check where you are on the map (or on the kneeboard);
     - From 25.000ft alt:
         - Set `Fuel Tank Pressure` valve to ON (right);
 - **Cruise:**
-    - (If applicable) Make sure the `External Fuel Tank` is being used;
+    - (If applicable) Case `External Fuel Tank`, ==selector position xxxxxxxxxxxx;==
     - Safe cruise MAX = `Pitch` 2650 RPM, `Throttle` +7 Boost (Fuel = 80 igal/h);
     - To save fuel = `Pitch` 1800 RPM, `Throttle +2` Boost (Fuel = 30 igal/h);
     - Make sure `Radiators` switch is Auto (up);
@@ -176,6 +177,8 @@ EXTRA TIP: Check where you are on the map (or on the kneeboard);
     - Stall speed < 160mph (257Km);
     - Dive speed limit: 450mph alt 0-20K feet;
     - After 25K feet, set `Fuel Tank Pressure` valve to ON (right);
+    - (If applicable) `External Fuel Tank` should be dropped:
+	    - Read section: 6) Discarding `External Fuel Tank`;
 - **Dogfight:**
     - ==xxxx==
 - **Intercepting:**
