@@ -64,7 +64,7 @@ xxxxxxxxxxxxxxxxxxx
 		    3. Press and hold `Engage` pos (right click) and go to the next step holding it;
 	    2. Slide `Mixture Lever` (red "M" lever with `Throttle`) to `Auto Rich` pos;
 	    3. Once `Tachometer` reaches 800 RPM, release the `Starter Switch`;
-    8. THE ENGINE SHOULD START NOW!
+    8. Info: <span style="color: orange;">the engine should starts now!</span>
 9. **Warm the engine up:**
     1. Using `Throttle`, set `Tachometer` needle to 1200 RPM;
     2. (If applicable) Scramble situation:
@@ -89,13 +89,14 @@ xxxxxxxxxxxxxxxxxxx
 ## **2) P47 > Taxiing:**
 
 1. Make sure `Nav. Lights` are ON;
-2. Make sure `Canopy` is open;
-3. Release Boost lever's `Interconnection Latch` (behind/attached with `Throttle`), keeping `Boost lever` in idle;
-4. Make sure `Pitch` is fully forward (up);
-5. Make sure `Air Filter Control` lever is activated (UP);
-6. Say on radio: `YourCallsign` taxiing!
-7. To move the bird, use only `Throttle` at ==11 (1100 RPM)==, and `Wheel Brakes` gently. 
-8. (If applicable) Request to take off and wait for your go;
+2. (If applicable) Case `External Fuel Tank`, make sure ==selector position xxxxxxxxxxxx;==
+3. Make sure `Canopy` is open;
+4. Release Boost lever's `Interconnection Latch` (behind/attached with `Throttle`), keeping `Boost lever` in idle;
+5. Make sure `Pitch` is fully forward (up);
+6. Make sure `Air Filter Control` lever is activated (UP);
+7. Say on radio: `YourCallsign` taxiing!
+8. To move the bird, use only `Throttle` at ==11 (1100 RPM)==, and `Wheel Brakes` gently. 
+9. (If applicable) Request to take off and wait for your go;
 
 ---
 ## **3) P47 > Takeoff:**
@@ -103,7 +104,7 @@ EXTRA TIP: Check where you are on the map (or on the `kneeboard`);
 
 1. **Preparing:**
     - Make sure `Nav. Lights` are ON;
-    - (If applicable) Case `External Fuel Tank`, ==selector position xxxxxxxxxxxx;==
+    - (If applicable) Case `External Fuel Tank`, make sure ==selector position xxxxxxxxxxxx;==
     - On the runway, you are already in takeoff position;
     - Close the `Canopy` (USAF doctrine if not carrier-based airplane);
     - Lock `Tail Wheel` (right side, on floor) moving it forward;
@@ -160,7 +161,7 @@ Throttle / supercharger management. It's easy: Always use the throttle first, an
 	- Best climb speed: 160mph;
 	- Keep `Cowl Flaps` OPEN
 - **Cruise:**
-	- (If applicable) Case `External Fuel Tank`, ==selector position xxxxxxxxxxxx;==
+	- (If applicable) Case `External Fuel Tank`, make sure ==selector position xxxxxxxxxxxx;==
 	- Normal economical cruise = `Pitch` **2250 RPM**, `Throttle` **32" Hg**, `Mixture` **AUTO LEAN**;
 	- Maximum continuous = `Pitch` **2550 RPM**, `Throttle` **42" Hg**, `Mixture` **AUTO RICH**;
 	- If using `External Fuel Tank`:
@@ -175,6 +176,8 @@ Throttle / supercharger management. It's easy: Always use the throttle first, an
 
 - **General:**
     - [basic-about-maneuvers](basic-about-maneuvers.md)
+    - (If applicable) `External Fuel Tank` should be <span style="color: orange;">jettison</span>:
+	    - Read section: 6) Discarding `External Fuel Tank`;
     - Water injection deliveries <span style="color: orange;">800</span> additional horse power for <span style="color: orange;">5min</span>;
     - Pitch 2700 RPM + Throttle 52 - engine survival = 15min;
     - Pitch 2750 RPM + Throttle 64 + Water injection - engine survival = 5min;
@@ -183,9 +186,7 @@ Throttle / supercharger management. It's easy: Always use the throttle first, an
         - For less power = First, reduce `Boost`/manifold pressure, and then RPM;
         - For more power = First, increase RPM, and then `Boost`/manifold pressure;
     - Stall speed <span style="color: orange;">130mph</span>;
-    - Dive speed limit: <span style="color: orange;">500mph</span>;
-    - (If applicable) `External Fuel Tank` should be dropped:
-	    - Read section: 6) Discarding `External Fuel Tank`;
+    - Dive speed limit: <span style="color: orange;">500mph</span>;    - 
 - **Dogfight:**
     - ==xxxx==
 - **Intercepting:**

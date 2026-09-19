@@ -30,7 +30,7 @@ Presets: `GoogleDrive:\My Drive\Hardwares e Softwares\Gaming Configs\DCS\`
     - Radiators control Open/Close = <span style="color: white; background-color: green; padding:0 5px;">RAlt+Seta-cima</span> / <span style="color: white; background-color: green; padding:0 5px;">RAlt+Seta-baixo</span>;
     - MW 50 Boost fluid = <span style="color: white; background-color: green; padding:0 5px;">Off=J</span> / <span style="color: white; background-color: green; padding:0 5px;">On=K</span>
         - Release MW50/Fuel (Jettison) = not available
-    - MW B4 = ==???????????????==
+    - MW B4 = not working yet;
     - Release External Fuel tank (Jettison Fuselage stores) = <span style="color: white; background-color: green; padding:0 5px;">NumLock</span>
     - Radiator Flaps Open/Close = <span style="color: white; background-color: green; padding:0 5px;">RAlt+Seta-cima</span> / <span style="color: white; background-color: green; padding:0 5px;">RAlt+Seta-baixo</span>
 - **Navigation:**

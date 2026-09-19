@@ -57,43 +57,44 @@ Anton is a 1944 variant of the German FW-190. Originally intended for intercepti
 8. **Engine:**
     1. In `Magneto Switch`, select `M1+M2` option (fully forward);
     2. `Unlock throttle` ("throttle to start" command), and keep idle pos;
-    3. Set `Zündung` (Governor) switch to OFF (down) to manually control the propeller blades angle;
+    3. <span style="color: orange;">Hold</span> both `Wheel Brakes` down OR ask crew <span style="color: orange;">to place</span> `Wheel Chocks`;
+    4. Set `Zündung` (Governor) switch to OFF (down) to manually control the propeller blades angle;
         - In `Propeller Pitch Indicator` (gauge on the right of the `Fuel` gauge), set the blades angle to `12:35` using `Engine RPM` commands (to prevent the plane from going forward in warm-up);
-    4. In `Starter Switch` (right side, below `Canopy Hand Crank`):
+    5. In `Starter Switch` (right side, below `Canopy Hand Crank`):
         - Open `FREI` protection;
         - Press down and hold the switch (left click), waiting 25secs before releasing it and then pull it up once (right click);
-    5. THE ENGINE SHOULD START NOW!
+    6. Info: <span style="color: orange;">the engine should starts now!</span>
 9. **Warm the engine up:**
     1. Set `Cooling Flaps Control` (hand crank in your front) to `Zu` (close);
-    2. Hold both `Wheel Brakes` down OR ask `Ground Crew` to place `Wheel Chocks` (to avoid the plane moving);
-    3. Slide up `Throttle` until the `Tachometer` gauge hits 12 (1200) RPM;
+    2. Slide up `Throttle` until the `Tachometer` gauge hits 12 (1200) RPM;
         - Stay there until the `Oil temperature` gauge (red) hits 25ºC;
-    4. Now, `Tachometer` to 14 (1400) RPM;
-    5. (If applicable) Scramble situation:
+    3. Now, `Tachometer` to 14 (1400) RPM;
+    4. (If applicable) Scramble situation:
 	    1. ==xxxxxxxxxxxxxxxxxxxx==
-    6. **Meanwhile:**
+    5. **Meanwhile:**
 	    - ==Turn `Battery Switch` (front panel, left side, over the red valve) ON (left);==
 	    - Ask `Ground Crew` to disconnect `Ground Electric Power`;
 	    - ==Turn Radio (xxxxxxxx) ON and set this up;==
 	    1. ==In `Altimeter` gauge, set it to zero!==
 	    2. ==In `Compass Course Ring` (behind the `Stick`), align the North with the North Magnetic (a white cross);==
-    7. Wait for `Oil temp.` in 40ºC (probably it can take ~5min);
-    8. Once warmed up, slide back the `Throttle` to idle.
-    9. Set `Cooling Flaps Control` to `Auf` (open);
-    10. Release the `Wheel Brakes` OR remove the `Wheel Chocks`;
+    6. Wait for `Oil temp.` in 40ºC (probably it can take ~5min);
+    7. Once warmed up, slide back the `Throttle` to idle.
+    8. Set `Cooling Flaps Control` to `Auf` (open);
+    9. Release the `Wheel Brakes` OR remove the `Wheel Chocks`;
 10. Ready to go!
 
 ---
 ## 2) A-8 > Taxiing:
 
 1. Make sure `Nav. Lights` are ON;
-2. Make sure `Canopy` is open;
-3. Make sure `Cooling Flaps Control` is `Auf` (open);
-4. Turn `Zündung` (Governor) switch to ON (up) to automatically control the propeller blade angle!
-5. Say on radio: `MyCallsign` taxiing!
-6. To move, `Throttle` (1200-1400RPM) and `Wheel Brakes` gently;
-7. If needed, pull the `Stick` back to lock `Tail Wheel`;
-8. (If applicable) Request to take off and wait for your go;
+2. (If applicable) Case `External Fuel Tank`, make sure ==selector position xxxxxxxxxxxx;==
+3. Make sure `Canopy` is open;
+4. Make sure `Cooling Flaps Control` is `Auf` (open);
+5. Turn `Zündung` (Governor) switch to ON (up) to automatically control the propeller blade angle!
+6. Say on radio: `MyCallsign` taxiing!
+7. To move, `Throttle` (1200-1400RPM) and `Wheel Brakes` gently;
+8. If needed, pull the `Stick` back to lock `Tail Wheel`;
+9. (If applicable) Request to take off and wait for your go;
 
 ---
 ## 3) A-8 > Takeoff:
@@ -101,7 +102,7 @@ EXTRA TIP: Check where you are on the `map` (or on the `kneeboard`);
 
 1. **Preparing**:
     1. Make sure `Nav. Lights` are ON;
-    2. (If applicable) Case `External Fuel Tank`, ==selector position xxxxxxxxxxxx;==
+    2. (If applicable) Case `External Fuel Tank`, make sure ==selector position xxxxxxxxxxxx;==
     3. On the runway, you are already in takeoff position;
     4. Close the `Canopy`,
     5. Make sure `Zündung` (Governor) switch is set ON (up)!
@@ -136,7 +137,7 @@ EXTRA TIP: Check where you are on the `map` (or on the `kneeboard`);
     - From ==Xkm== alt:
         - Make sure `Circuit Breaker Clothes Heating` switch is ON (in);
 - **Cruise:**
-    - (If applicable) Case `External Fuel Tank`, ==selector position xxxxxxxxxxxx;==
+    - (If applicable) Case `External Fuel Tank`, make sure ==selector position xxxxxxxxxxxx;==
     - ==Safe cruise MAX = ATA 1.0-1.2 ???????(Fuel consuption = xxx xxxx/h);==
     - ==To save fuel = xxxxxxxx (Fuel consuption = xx xxx/h);==
     - Set `Cooling Flaps` to `Zu` (close) to avoid drag;
@@ -148,11 +149,11 @@ EXTRA TIP: Check where you are on the `map` (or on the `kneeboard`);
 
 - **General:**
     - [basic-about-maneuvers](basic-about-maneuvers.md)
+    - (If applicable) `External Fuel Tank` should be <span style="color: orange;">jettison</span>:
+	    - Read section: 6) Discarding `External Fuel Tank`;
     - Max speed = ==xxxxxKm==/h (ATA 1.xx)
     - Stall speed < 180Km/h (==xxxMph==)
     - Dive speed limit: 850Km/h alt 2Km / 700Km/h alt 5Km;
-    - (If applicable) `External Fuel Tank` should be dropped:
-	    - Read section: 6) Discarding `External Fuel Tank`;
 - **Dogfight:**
     - `Cooling Flaps:` Closed or at least 50% closed to prevent energy bleeding;
     - For Scissors maneuver, consider using `Flaps` in `Takeoff` pos (flaps limit 300km/h) to get the enemy in your crosshair;

@@ -75,7 +75,7 @@
 		1. Press and hold both buttons simultaneously until the propeller starts to spin;
 		2. Quickly, and still holding those buttons, push the `Mixture Control Select` lever fully forward;
 		3. Release those buttons;
-	7. THE ENGINE SHOULD START NOW!
+	7. Info: <span style="color: orange;">the engine should starts now!</span>
 		1. (If applicable) If it failed, pull back the `Mixture Control Select` lever and restart the procedure, starting with the "2 buttons" step and so on!
 	8. Back to `Primer` valve again (the copper one), twist it to close;
 11. **Warm the engine up:**
@@ -99,12 +99,13 @@
 ## **2) Spitfire > Taxiing:**
 
 1. Make sure `Nav. Lights` are ON;
-2. Make sure `Canopy` is open;
-3. Make sure `Pitch` is fully forward (up);
-4. Make sure the `Carburetor Air Control` lever (left leg) is in `Filter IN` (up);
-5. Say on radio:  taxiing!
-6. To move the bird, use only `Throttle` at 11 (1100 RPM), `Rudder`, and `Wheel Brakes` gently. The brake system gets the rudder direction to apply the right pressure to the wheels during a turn.
-7. (If applicable) Request to take off and wait for your go;
+2. (If applicable) Case `External Fuel Tank`, make sure ==selector position xxxxxxxxxxxx;==
+3. Make sure `Canopy` is open;
+4. Make sure `Pitch` is fully forward (up);
+5. Make sure the `Carburetor Air Control` lever (left leg) is in `Filter IN` (up);
+6. Say on radio:  taxiing!
+7. To move the bird, use only `Throttle` at 11 (1100 RPM), `Rudder`, and `Wheel Brakes` gently. The brake system gets the rudder direction to apply the right pressure to the wheels during a turn.
+8. (If applicable) Request to take off and wait for your go;
 
 ---
 ## **3) Spitfire > Takeoff:**
@@ -112,7 +113,7 @@ EXTRA TIP: Check where you are on the map (or on the kneeboard);
 
 1. **Preparing:**
     - Make sure `Nav. Lights` are ON;
-    - (If applicable) Case `External Fuel Tank`, ==selector position xxxxxxxxxxxx;==
+    - (If applicable) Case `External Fuel Tank`, make sure ==selector position xxxxxxxxxxxx;==
     - On the runway, you are already in takeoff position;
     - Keep `Canopy` open (RAF doctrine);
     - Make sure `Pitch` is fully forward (up);
@@ -159,7 +160,7 @@ EXTRA TIP: Check where you are on the map (or on the kneeboard);
     - From 25.000ft alt:
         - Set `Fuel Tank Pressure` valve to ON (right);
 - **Cruise:**
-    - (If applicable) Case `External Fuel Tank`, ==selector position xxxxxxxxxxxx;==
+    - (If applicable) Case `External Fuel Tank`, make sure ==selector position xxxxxxxxxxxx;==
     - Safe cruise MAX = `Pitch` 2650 RPM, `Throttle` +7 Boost (Fuel = 80 igal/h);
     - To save fuel = `Pitch` 1800 RPM, `Throttle +2` Boost (Fuel = 30 igal/h);
     - Make sure `Radiators` switch is Auto (up);
@@ -171,14 +172,14 @@ EXTRA TIP: Check where you are on the map (or on the kneeboard);
 
 - **General:**
 	- [basic-about-maneuvers](basic-about-maneuvers.md)
-    - Never use high `Boost` (`Throttle`) settings with low RPM (`Pitch`);
-        - For less power = First, reduce `Boost`, and then RPM;
-        - For more power = First, increase RPM, and then `Boost`;
+	- (If applicable) `External Fuel Tank` should be <span style="color: orange;">jettison</span>:
+		- Read section: 6) Discarding `External Fuel Tank`;
+	- Never use high `Boost` (`Throttle`) settings with low RPM (`Pitch`);
+		- For less power = First, reduce `Boost`, and then RPM;
+	        - For more power = First, increase RPM, and then `Boost`;
     - Stall speed < 160mph (257Km);
     - Dive speed limit: 450mph alt 0-20K feet;
     - After 25K feet, set `Fuel Tank Pressure` valve to ON (right);
-    - (If applicable) `External Fuel Tank` should be dropped:
-	    - Read section: 6) Discarding `External Fuel Tank`;
 - **Dogfight:**
     - ==xxxx==
 - **Intercepting:**

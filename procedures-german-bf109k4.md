@@ -64,40 +64,41 @@ An October 1944 variant of the Bf 109, Germany's most important and deadliest fi
             1. At your left shoulder (below the `Tail Wheel` `Brake` lever), set that small lever to `Kraftstoff` (down);
             2. Make sure `MW 50 Boost` switch (below the `Altimeter`) is OFF (left). If you turn it on, the fuel will be catastrophically injected into the supercharger;
 8. **Engine:**
-    1. In `Magneto` switch, select the last (up) option "_M1+M2_";
+    1. In `Magneto` switch, select the last (up) option "_M1+M2_"; 
     2. Set `Governor` switch (below `Throttle`) to OFF (forward) to manually control the propeller blades angle;
         - In `Propeller Pitch Indicator` (ride side of `Tachometer)` , set blades angle to "_12:30_";
-    3. Ask the `Ground Crew` to `"Run Inertial Starter",` and wait for the "Clear" message!
-    4. In `Starter Switch` (your left side, below a big red button), open the "_FREI_" protection, and pull and hold the `Starter Switch` (left click) until the propeller blades start to run.
-    5. THE ENGINE SHOULD START NOW!
+    3. <span style="color: orange;">Hold</span> both `Wheel Brakes` down OR ask crew <span style="color: orange;">to place</span> `Wheel Chocks`;
+    4. Ask `Ground Crew` to `"Run Inertial Starter",` and wait for the "Clear" message!
+    5. In `Starter Switch` (your left side, below a big red button), open the "_FREI_" protection, and pull and hold the `Starter Switch` (left click) until the propeller blades start to run.
+    6. Info: <span style="color: orange;">the engine should starts now!</span>
 9. **Warm the engine up:**
-    1. Hold both `Wheel Brakes` down OR ask crew to place `Wheel Chocks` (to avoid the plane moving);
-    2. Set `Radiators Mode` (right side, above a red valve on the floor) to `Zu` (close) pos.
-    3. Using the `Throttle` , keep it until the `Tachometer` gauge hits 6 (600 RPM) for ~25 secs.
-    4. Sliding up `Throttle` , increase the `Tachometer` to 15 (1500 RPM);
-    5. (If applicable) Scramble situation:
+    1. Set `Radiators Mode` (right side, above a red valve on the floor) to `Zu` (close) pos.
+    2. Using the `Throttle` , keep it until the `Tachometer` gauge hits 6 (600 RPM) for ~25 secs.
+    3. Sliding up `Throttle` , increase the `Tachometer` to 15 (1500 RPM);
+    4. (If applicable) Scramble situation:
 	    1. ==xxxxxxxxxxxxxxxxxxxx==
-    6. **Meanwhile:**
+    5. **Meanwhile:**
 	    - ==Turn `Battery Switch` (front panel, left side, over the red valve) ON (left);==
 	    - Ask `Ground Crew` to disconnect `Ground Electric Power`;
 	    - ==Turn Radio (xxxxxxxx) ON and set this up;==
 	    1. In the `Artificial Horizon` , rotate it fully anti-clockwise;
 	    2. ==In `Altimeter` gauge, set it to zero!==
-    7. Wait for the `Oil pressure` gauge (half-yellow, half-red, in the front-right panel) to stabilize at ~9.5, and the `Oil temperature` gauge (right side, small red edges) reaches 25ºC.
-    8. Once warmed up, slide back the `Throttle` to idle;
-    9. Release the `Wheel Brakes` OR remove the `Wheel Chocks;
+    6. Wait for the `Oil pressure` gauge (half-yellow, half-red, in the front-right panel) to stabilize at ~9.5, and the `Oil temperature` gauge (right side, small red edges) reaches 25ºC.
+    7. Once warmed up, slide back the `Throttle` to idle;
+    8. Release the `Wheel Brakes` OR remove the `Wheel Chocks;
 10. Ready to go!
 
 ---
 ## **2) 109K-4 > Taxiing:**
 
 1. Make sure `Nav. Lights` are ON;
-2. Make sure `Canopy` is open;
-3. Make sure `Radiators Mode` is `Zu` (close);
-4. Set the `Governor` switch to ON (down);
-5. Say on radio: `YourCallsign` taxiing!
-6. To move, `Throttle` (1000-1100RPM) and `Wheel Brakes` gently;
-7. (If applicable) Request to take off and wait for your go;
+2. (If applicable) Case `External Fuel Tank`, make sure ==selector position xxxxxxxxxxxx;==
+3. Make sure `Canopy` is open;
+4. Make sure `Radiators Mode` is `Zu` (close);
+5. Set the `Governor` switch to ON (down);
+6. Say on radio: `YourCallsign` taxiing!
+7. To move, `Throttle` (1000-1100RPM) and `Wheel Brakes` gently;
+8. (If applicable) Request to take off and wait for your go;
 
 ---
 ## 3) 109K-4 > Takeoff:
@@ -105,7 +106,7 @@ EXTRA TIP: Check where you are on the map (or on the `kneeboard`);
 
 1. **Preparing:**
     1. Make sure `Nav. Lights` are ON;
-    2. (If applicable) Case `External Fuel Tank`, ==selector position xxxxxxxxxxxx;==
+    2. (If applicable) Case `External Fuel Tank`, make sure ==selector position xxxxxxxxxxxx;==
     3. On the runway, you are already in takeoff position;
     4. Close the `Canopy` ;
     5. Lock the `Tail Wheel` (left shoulder, a metal cable), set that down;
@@ -155,13 +156,13 @@ EXTRA TIP: Check where you are on the map (or on the `kneeboard`);
 
 - **General:**
 	- [basic-about-maneuvers](basic-about-maneuvers.md)
-	- Original `MW 50 Boost` fluid delivers an extra 500 horsepower for 10min!
+	- (If applicable) `External Fuel Tank` should be <span style="color: orange;">jettison</span>:
+	    - Read section: 6) Discarding `External Fuel Tank`;
+	- `MW 50 Boost` fluid delivers an extra 500hp for 10min!
 	- ATA 1.35 - Engine survival = 30min;
 	- ATA 1.98 - Engine survival = 10min;
 	- Stall speed ==< 180Km/h==
 	- Dive speed limit: 850Km/h alt 1km / 700Km/h alt 5km;
-	- (If applicable) `External Fuel Tank` should be dropped:
-	    - Read section: 6) Discarding `External Fuel Tank`;
 - **Dogfight:**
 	- ==xxxx==
 - **Intercepting:**

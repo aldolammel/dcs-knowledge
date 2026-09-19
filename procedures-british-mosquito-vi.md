@@ -72,7 +72,7 @@ Introduced in 1942, this is a variant of the British 'Wooden Wonder', the twin-e
             1. Turn both left `Magnetos` ON (up);
             2. Open `Starter` and `Booster Coil button` covers (above those two big red bts);
             3. Press and hold both buttons simultaneously until the propeller starts to spin;
-            4. LEFT ENGINE SHOULD START NOW!
+            4. Info: <span style="color: orange;">one of the engines should starts now!</span>
                 1. (If applicable) If it failed, ==xxxxxxxxxxxxxx== and restart the procedure, starting with the "2 buttons" step and so on!
             5. Using the `Left Throttle` only, making your left engine `Tachometer` (front panel, lower left side) park at 12 (1200 RPM);
         2. Right engine:
@@ -99,16 +99,17 @@ Introduced in 1942, this is a variant of the British 'Wooden Wonder', the twin-e
 ## **2) Mosquito > Taxiing:**
 
 1. Make sure `Nav. Lights` are ON;
-2. (If applicable) Make sure `Landing Light` knobs are ON;
-3. (If applicable) Looking to `Radio Operator` seat, lower the `Armored Backrest`;
-4. Make sure all windows are closed;
-5. Make sure `Pitch` levers are fully forward;
-6. In `Radiators` panel:
+2. (If applicable) Case `External Fuel Tanks`, make sure ==selector position xxxxxxxxxxxx;==
+3. (If applicable) Make sure `Landing Light` knobs are ON;
+4. (If applicable) Looking to `Radio Operator` seat, lower the `Armored Backrest`;
+5. Make sure all windows are closed;
+6. Make sure `Pitch` levers are fully forward;
+7. In `Radiators` panel:
     1. Make sure both `Engine Water Cooling Flaps` switches are ON (down);
     2. Make sure `Air Filter` (of carburetor) is ON (down);
-7. Say on radio: `YourCallsign` taxiing!
-8. To move the bird, use only `Throttle` at 11.5 (1150 RPM), `Rudder` , and `Wheel Brakes` gently. The brake system gets the rudder direction to apply the right pressure to the wheels during a turn;
-9. (If applicable) Request to take off and wait for your go;
+8. Say on radio: `YourCallsign` taxiing!
+9. To move the bird, use only `Throttle` at 11.5 (1150 RPM), `Rudder` , and `Wheel Brakes` gently. The brake system gets the rudder direction to apply the right pressure to the wheels during a turn;
+10. (If applicable) Request to take off and wait for your go;
 
 ---
 ## 3) Mosquito > Takeoff:
@@ -116,7 +117,7 @@ EXTRA TIP: Check where you are on the map (or on the kneeboard);
 
 1. **Preparing:**
     - Make sure `Nav. Lights` are ON;
-    - (If applicable) Case `External Fuel Tanks`, ==selector position xxxxxxxxxxxx;==
+    - (If applicable) Case `External Fuel Tanks`, make sure ==selector position xxxxxxxxxxxx;==
     - (If applicable) Make sure `Landing Light` knobs are ON;
     - (If applicable) Looking to `Radio Operator` seat, lower the `Armored Backrest`;
     - Make sure all windows are closed;
@@ -185,14 +186,14 @@ EXTRA TIP: Check where you are on the map (or on the kneeboard);
 
 - **General:**
     - [basic-about-maneuvers](basic-about-maneuvers.md)
+    - (If applicable) `External Fuel Tanks` should be <span style="color: orange;">jettison</span>:
+	    - Read section: 6) Discarding `External Fuel Tanks`;
     - ==Never use high `Boost` (`Throttle`) settings with low RPM (`Pitch`);==
         - ==For less power = First, reduce `Boost` , and then RPM;==
         - ==For more power = First, increase RPM, and then `Boost`;==
     - ==Stall speed < 160mph (257Km);==
     - ==Dive speed limit: 450mph alt 0-20K feet;==
     - ==After 25K feet, set `Fuel Tank Pressure` valve to ON (right);==
-    - (If applicable) `External Fuel Tanks` should be dropped:
-	    - Read section: 6) Discarding `External Fuel Tanks`;
 - **Dogfight:**
     - ==xxxx==
 - **Intercepting:**
