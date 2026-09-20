@@ -202,5 +202,27 @@
       ],
       "key": "Tab"
     }
+  ],
+  "templater-obsidian:.obsidian/_format-templates/grey-text.md": [
+    {
+      "modifiers": [
+        "Meta"
+      ],
+      "key": "End"
+    },
+    {
+      "modifiers": [
+        "Meta"
+      ],
+      "key": "Numpad1"
+    }
+  ],
+  "templater-obsidian:.obsidian/_format-templates/red-text.md": [
+    {
+      "modifiers": [
+        "Meta"
+      ],
+      "key": "Numpad2"
+    }
   ]
 }

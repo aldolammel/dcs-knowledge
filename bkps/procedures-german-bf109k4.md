@@ -31,19 +31,19 @@ An October 1944 variant of the Bf 109, Germany's most important and deadliest fi
 ---
 ## **1) 109K-4 > Cold start:**
 
-1. (If applicable) Turn your `personal flashlight` ON;
+1. (Maybe) Turn your `personal flashlight` ON;
 2. Open Canopy (crew needs to listen to you);
 3. Request `Start-Up` procedure to tower;
 4. Check the current weather temperature in the `Briefing` screen;
-5. (If applicable) Ask `Ground Crew` to "Rearm and Refuel", and wait for the `"Rearming"` and/or `"Refueling"` answer;
+5. (Maybe) Ask `Ground Crew` to "Rearm and Refuel", and wait for the `"Rearming"` and/or `"Refueling"` answer;
 6. **Electric:**
     1. Ask `Ground Crew` for `Ground Electrical Power` ON;
-    2. (If applicable) Turn `Cockpit lights` ON;
+    2. (Maybe) Turn `Cockpit lights` ON;
     3. Turn `Circuit Breakers` (right side, below `pistol flare`) ON (in):
         - Mandatory (from top to bottom):
             - Left column: **1**st; **3**rd; **6**th (last one);
             - Right column: **all of them**;
-        - (If applicable):
+        - (Maybe):
             - If dark or raining:
                 - Left column: **2**nd; **4**th;
                 - Right column: --
@@ -54,14 +54,14 @@ An October 1944 variant of the Bf 109, Germany's most important and deadliest fi
                 - Left column: **5**th;
                 - Right column: --
 7. **Fuel:**
-    1. (If applicable) Ask crew to add the `External Fuel Tank` ;
+    1. (Maybe) Ask crew to add the `External Fuel Tank` ;
     2. Set `Booster Pump` (Fuel tank selector near `Throttle`) lever to `P1+P2` (Rear+Front tanks);
     3. In `Priming Pump` (left side, floor, red valve), pump it 15x;
     4. Slide `Throttle` forward just 10% to make the fuel flow into the engine;
-    5. (If applicable) Extra fuel:
-        - (If applicable) `External Fuel` tank:
+    5. (Maybe) Extra fuel:
+        - (Maybe) `External Fuel` tank:
             1. Check if `External Fuel Tube` has liquid flowing (right lag, transparent tube);
-        - (If applicable) `MW 50 Boost` fluid replaced by fuel:
+        - (Maybe) `MW 50 Boost` fluid replaced by fuel:
             1. At your left shoulder (below the `Tail Wheel` `Brake` lever), set that small lever to `Kraftstoff` (down);
             2. Make sure `MW 50 Boost` switch (below the `Altimeter`) is OFF (left). If you turn it on, the fuel will be catastrophically injected into the supercharger;
 8. **Engine:**
@@ -76,7 +76,7 @@ An October 1944 variant of the Bf 109, Germany's most important and deadliest fi
     2. Set `Radiators Mode` (right side, above a red valve on the floor) to `Zu` (close) pos.
     3. Using the `Throttle` , keep it until the `Tachometer` gauge hits 6 (600 RPM) for ~25 secs.
     4. Sliding up `Throttle` , increase the `Tachometer` to 15 (1500 RPM);
-    5. (If applicable) Scramble situation:
+    5. (Maybe) Scramble situation:
 	    1. ==xxxxxxxxxxxxxxxxxxxx==
     6. **Meanwhile:**
 	    - ==Turn `Battery Switch` (front panel, left side, over the red valve) ON (left);==
@@ -87,7 +87,7 @@ An October 1944 variant of the Bf 109, Germany's most important and deadliest fi
     7. Wait for the `Oil pressure` gauge (half-yellow, half-red, in the front-right panel) to stabilize at ~9.5, and the `Oil temperature` gauge (right side, small red edges) reaches 25ºC.
     8. Once warmed up, slide back the `Throttle` to idle;
     9. Release the `Wheel Brakes` OR remove the `Wheel Chocks;
-10. Ready to go!
+10. Info: ready to go!
 
 ---
 ## **2) 109K-4 > Taxiing:**
@@ -98,7 +98,7 @@ An October 1944 variant of the Bf 109, Germany's most important and deadliest fi
 4. Set the `Governor` switch to ON (down);
 5. Say on radio: `YourCallsign` taxiing!
 6. To move, `Throttle` (1000-1100RPM) and `Wheel Brakes` gently;
-7. (If applicable) Request to take off and wait for your go;
+7. (Maybe) Request to take off and wait for your go;
 
 ---
 ## 3) 109K-4 > Takeoff:
@@ -115,7 +115,7 @@ EXTRA TIP: Check where you are on the map (or on the `kneeboard`);
         1. Light:
             - Trim nose (stabilizer) up to +1.0 (left side, weird right wheel);
         2. Heavy:
-            - (If applicable) If MW 50 is not for extra fuel, turn `MW 50 Boost` switch ON (forward);
+            - (Maybe) If MW 50 is not for extra fuel, turn `MW 50 Boost` switch ON (forward);
             - Trim nose (stabilizer) up to +2.0 (left side, weird right wheel);
     8. Make sure everything from "MEANWHILE" Cold-start procedures was done;
 2. **Go:**
@@ -130,7 +130,7 @@ EXTRA TIP: Check where you are on the map (or on the `kneeboard`);
     - Trim adjustments;
     - Turn the `Oxygen` valve (right side, low panel, blue one) ON (==xxxxxx== pos);
     1. (If applicable and not fuel in) Turn `MW 50 Boost` switch (below the `Altimeter`) ON (right pos);
-    2. **(If applicable) In combat skies:**
+    2. **(Maybe) In combat skies:**
         - Turn the `Nav. Lights` OFF;
         - ==Turn `Cabin illumination OFF` ;==
         - Turn the `SZKK3 Weapons Control` switch (left of the `Gun Sight`) ON (up);
@@ -146,7 +146,7 @@ EXTRA TIP: Check where you are on the map (or on the `kneeboard`);
     - ATA 1.30 (safe)
 - **Cruise:**
     - (Safe) ATA between 1.0 and 1.30;
-    - (If applicable) Make sure the `External Fuel Tank` is being used;
+    - (Maybe) Make sure the `External Fuel Tank` is being used;
 - **Communication:**
 	- xxx
 
@@ -161,7 +161,7 @@ EXTRA TIP: Check where you are on the map (or on the `kneeboard`);
     - Stall speed ==< 180Km/h==
     - Dive speed limit: 850Km/h alt 1km / 700Km/h alt 5km;
 - **Dogfight:**
-    - (If applicable) `External Fuel` tank should be dropped!
+    - (Maybe) `External Fuel` tank should be dropped!
     - ==xxxx==
 - **Intercepting:**
     - ==xxxx==
@@ -176,9 +176,9 @@ EXTRA TIP: Check where you are on the map (or on the `kneeboard`);
 
 ## 6) **109K-4 >** Special Ops:
 
-- **(If) Discarding `External Fuel` Tank:**
+- **(Maybe) Discarding `External Fuel` Tank:**
     - In `Bomben-notwurfgriff` valve (left leg, orange one), pull it;
-- **(If) Firing rockets:**
+- **(Maybe) Firing rockets:**
     - ==xxxxxxx==
 
 ---
@@ -192,14 +192,14 @@ EXTRA TIP: Check where you are on the map (or on the `kneeboard`);
             - P1 - use only the REAR section of the main tank;
             - P2 - use only the FRONT section of the main tank;
             - P1+P2 - use FULL main tank;
-        - (If applicable) `MW50` as extra fuel? Pull its valve (right side, below `Pistol Flare`);
+        - (Maybe) `MW50` as extra fuel? Pull its valve (right side, below `Pistol Flare`);
         - Read section: 8) Landing > Emergency landing;
     - **Radiator coolant:**
         - Cut OFF the corresponding wing-damaged radiator lever (close to the legs, both sides);
 - **For Engine:**
     - **Failure:**
         - Gliding speed ~225km/h;
-        - (If applicable) Jettison all external load;
+        - (Maybe) Jettison all external load;
         - Shut `Booster Pump` (Fuel tank selector near `Throttle`) off to `Zu` (closed);
         - Turn `Governor` switch OFF (forward);
             - In `Propeller Pitch Indicator` , set it to 03:10 (feathered position);
@@ -211,7 +211,7 @@ EXTRA TIP: Check where you are on the map (or on the `kneeboard`);
         - In `Circuit Breaker,` turn OFF:
             - Left column: last button (**6th**, Ignition);
             - Right column: last button (**4th**, Fuel Pump);
-        - (If applicable) `MW50` as extra fuel? Pull its valve (right side, below `Pistol Flare`);
+        - (Maybe) `MW50` as extra fuel? Pull its valve (right side, below `Pistol Flare`);
         - Read section: 8) Landing > Emergency landing;
 - **For Gear:**
     - Press `Landing` button (blue one, left knee);
@@ -223,21 +223,21 @@ EXTRA TIP: Check where you are on the map (or on the `kneeboard`);
 ## **8) 109K-4 > Landing:**
 
 1. **Before:**
-    1. (If applicable) Release `External Fuel` tank;
+    1. (Maybe) Release `External Fuel` tank;
     2. `Nav. Lights` ON;
     3. Lock the `Tail Wheel` lever (down)` ;
     4. Set `Trim` to -4 to -5 (nose up);
     5. Place the `Safety guns` stick's plate;
     6. `ATA` 1.0, 200m alt;
     7. ==Set `Radiators Mode` to `Zu` (close) pos.==
-    8. (If applicable) Emergency landing:
+    8. (Maybe) Emergency landing:
         1. Release the `MW50/Fuel` (right side, below `Pistol Flare`);
 2. **Approaching/Landing:**
     1. `Flaps` at 40º pos (5th label, the red one on left wing) - limit speed's 250Km/h;
     2. `Gears` down (blue bt) - limit speed's 350Km/h;
     3. Vel. 220Km/h (`ATA` ~0.7);
     4. Alt. 200-100m;
-    5. (If applicable) Emergency landing:
+    5. (Maybe) Emergency landing:
         1. Set `Magneto` switch to 0 (full down);
         2. Hit `Kill Switch` button (big red one);
         3. Jettison the `Canopy` ;
@@ -257,7 +257,7 @@ EXTRA TIP: Check where you are on the map (or on the `kneeboard`);
 2. Cut `Throttle` to idle pos;
 3. Ask crew to place `Wheel Chocks` ;
 4. **Engine:**
-    1. (If applicable) If the ambient temperature's below 0ºC (32ºF), in `Cold Weather Start` valve (below the `Booster Pump` , a white valve), open it for 2min before turning the engine off (It injects fuel into the lubrication system to thin out the engine oil so it won't freeze);
+    1. (Maybe) If the ambient temperature's below 0ºC (32ºF), in `Cold Weather Start` valve (below the `Booster Pump` , a white valve), open it for 2min before turning the engine off (It injects fuel into the lubrication system to thin out the engine oil so it won't freeze);
         - Meanwhile: advance the "Weaponry" and "Others" procedure steps while waiting;
     2. In `Engine Stop` lever (yellow one, near the `Throttle`), move it UP and, after that, DOWN again;
     3. In the `Magneto s_witch, move it all the way down;

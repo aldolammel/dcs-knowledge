@@ -36,22 +36,22 @@
 ---
 ## **1) Spitfire > Cold start:**
 
-1. ~~(If applicable) Turn your `personal flashlight` ON;~~
-2. (If applicable) Turn `Cockpit lights` ON;
+1. <span style="color: grey;">(Unavailable)</span> <span style="color: grey;">(Maybe)</span> ~~Turn your `personal flashlight` ON;~~
+2. (Maybe) Turn `Cockpit lights` ON;
 3. Open `Canopy` (crew needs to listen to you);
 4. To `ATC`, request <span style="color: orange;">start-up</span> procedure;
 5. In `Briefing` screen, check <span style="color: orange;">weather temp.</span>;
-6. (If) To `Ground Crew`, request <span style="color: orange;">rearm and refuel</span>, and wait for the answer;
+6. (Maybe) To `Ground Crew`, request <span style="color: orange;">rearm and refuel</span>, and wait for the answer;
 7. **Electric (part 1/2):**
 	1. To `Ground Crew`, request <span style="color: orange;">ground electrical power ON</span>;
-	2. (If) `Cockpit lights` (front panel, upper left corner) should be <span style="color: orange;">ON (up)</span>;
+	2. (Maybe) `Cockpit lights` (front panel, upper left corner) should be <span style="color: orange;">ON (up)</span>;
 	3. Hidden by the `Throttle`, turn the `Undercarriage Indicator Switch` ON (forward);
-	4. (If applicable):
+	4. (Maybe):
 		1. If cold/high-alt.: Turn `Windscreen De-Icer` knob (right leg) to ON (upper red end pointing to the back);
 8. **Fuel:**
 	1. Make sure `Fuel Tank Pressure` valve (front, right low corner) is OFF (left);
 	2. In `Main Tank` lever (behind the `Stick`), set to ON (up);
-	3. (If applicable) Using an `External Fuel Tank`:
+	3. (Maybe) Using an `External Fuel Tank`:
 		1. Pull `Drop Tank` lever (right leg) to ON (back);
 		2. Again, in `Main Tank` lever, turn it back to OFF (down);
 	4. In `Primer` (a copper valve side by side with the `Main Tank` lever), twist it to open, and pump it 4x (if cold outside, 8x). Keep it open;
@@ -62,7 +62,7 @@
         1. Mandatory:
             - Turn `Fuel Pump` switch ON (down);
             - Turn `Radiators Flaps Auto` switch AUTO/OFF (up);
-        2. (If applicable):
+        2. (Maybe):
             - If cold: `Pitot Heating` switch ON (down);
             - If rain: `Pitot Heating` switch ON (down); 
 10. **Engine:**
@@ -76,11 +76,11 @@
 		2. Quickly, and still holding those buttons, push the `Mixture Control Select` lever fully forward;
 		3. Release those buttons;
 	7. Info: <span style="color: orange;">the engine should starts now!</span>
-		1. (If) If it failed, pull back the `Mixture Control Select` lever and restart the procedure, starting with the "2 buttons" step and so on!
+		1. (Maybe) If it failed, pull back the `Mixture Control Select` lever and restart the procedure, starting with the "2 buttons" step and so on!
 	8. Back to `Primer` valve again (the copper one), twist it to close;
 11. **Warm the engine up:**
 	1. Adjust the `Throttle`, making your `Tachometer` park at 12 (1200 RPM);
-	2. (If applicable) Scramble situation:
+	2. (Maybe) Scramble situation:
 		1. ==xxxxxxxxxxxxxxxxxxxx==
 		2. ==xxxxx;==
 	3. **Meanwhile:**
@@ -93,19 +93,19 @@
 	5. Check the `Oil Pressure` gauge (front panel, red square monitor), it should be within 60-120ft/in²;
 	6. Once warmed up, slide back the `Throttle` to idle;
 	7. Release the `Wheel Brakes`;
-12. Ready to go!
+12. Info: ready to go!
 
 ---
 ## **2) Spitfire > Taxiing:**
 
 1. Make sure `Nav. Lights` are ON;
-2. (If applicable) Case `External Fuel Tank`, make sure ==selector position xxxxxxxxxxxx;==
+2. (Maybe) Case `External Fuel Tank`, make sure ==selector position xxxxxxxxxxxx;==
 3. Make sure `Canopy` is open;
 4. Make sure `Pitch` is fully forward (up);
 5. Make sure the `Carburetor Air Control` lever (left leg) is in `Filter IN` (up);
 6. Say on radio:  taxiing!
 7. To move the bird, use only `Throttle` at 11 (1100 RPM), `Rudder`, and `Wheel Brakes` gently. The brake system gets the rudder direction to apply the right pressure to the wheels during a turn.
-8. (If) To `ATC`, request <span style="color: orange;">takeoff</span> procedure and wait for the answer;
+8. (Maybe) To `ATC`, request <span style="color: orange;">takeoff</span> procedure and wait for the answer;
 
 ---
 ## **3) Spitfire > Takeoff:**
@@ -113,7 +113,7 @@ EXTRA TIP: Check where you are on the map (or on the kneeboard);
 
 1. **Preparing:**
     - Make sure `Nav. Lights` are ON;
-    - (If applicable) Case `External Fuel Tank`, make sure ==selector position xxxxxxxxxxxx;==
+    - (Maybe) Case `External Fuel Tank`, make sure ==selector position xxxxxxxxxxxx;==
     - Keep `Canopy` open (RAF doctrine);
     - Make sure `Pitch` is fully forward (up);
     - Make sure `Carburetor Air Control` lever (left leg) is in `Filter IN` (up);
@@ -136,13 +136,13 @@ EXTRA TIP: Check where you are on the map (or on the kneeboard);
             - When the `Tail` comes up, open to +9 boost;
 3. **Once airborne:**
     - `Gears up` - limit speed's 160mph;
-    - (If applicable) `Flaps up` to 0º - limit speed's 140mph;
+    - (Maybe) `Flaps up` to 0º - limit speed's 140mph;
     - Close the `Canopy`;
     - Say on radio: `YourCallsign` airborne!
     - Trim adjustments!
     - In `Carburettor Air Control` lever, set to `Normal` (down);
     - In `Oxygen` valve (left side, black wing knob), open it (vertical) to arm the auto feed (idle until 10K feet);
-    1. **(If applicable) In combat skies:**
+    1. **(Maybe) In combat skies:**
         - Turn the `Nav. Lights` OFF;
         - Turn `Cabin illumination` OFF;
         - Turn `Gunsight Master` switch (behind the gun sight, to the left) ON;
@@ -159,7 +159,7 @@ EXTRA TIP: Check where you are on the map (or on the kneeboard);
     - From 25.000ft alt:
         - Set `Fuel Tank Pressure` valve to ON (right);
 - **Cruise:**
-    - (If applicable) Case `External Fuel Tank`, make sure ==selector position xxxxxxxxxxxx;==
+    - (Maybe) Case `External Fuel Tank`, make sure ==selector position xxxxxxxxxxxx;==
     - Safe cruise MAX = `Pitch` 2650 RPM, `Throttle` +7 Boost (Fuel = 80 igal/h);
     - To save fuel = `Pitch` 1800 RPM, `Throttle +2` Boost (Fuel = 30 igal/h);
     - Make sure `Radiators` switch is Auto (up);
@@ -171,7 +171,7 @@ EXTRA TIP: Check where you are on the map (or on the kneeboard);
 
 - **General:**
 	- [basic-about-maneuvers](basic-about-maneuvers.md)
-	- (If applicable) `External Fuel Tank` should be <span style="color: orange;">jettison</span>:
+	- (Maybe) `External Fuel Tank` should be <span style="color: orange;">jettison</span>:
 		- Read section: 6) Discarding `External Fuel Tank`;
 	- Never use high `Boost` (`Throttle`) settings with low RPM (`Pitch`);
 		- For less power = First, reduce `Boost`, and then RPM;
@@ -195,9 +195,9 @@ EXTRA TIP: Check where you are on the map (or on the kneeboard);
 ---
 ## 6) **Spitfire >** Special Ops:
 
-- **(If) Firing rockets:**
+- **(Maybe) Firing rockets:**
     - ==xxxxxxx==
-- **(If) Discarding `External Fuel` Tank:**
+- **(Maybe) Discarding `External Fuel` Tank:**
     1. Turn `Main Tank` lever ON (up);
     2. Push `Drop Tank` lever (right leg) to OFF (forward);
     3. Pull `Drop Tank Release` valve (red one with the `Drop Tank` lever);
@@ -208,7 +208,7 @@ EXTRA TIP: Check where you are on the map (or on the kneeboard);
 - **For Fuel leaking:**
     1. Pull `Mixture Control Select` lever full back to stop fuel flow;
     2. Turn `Circuit Breaker Fuel Pump` OFF (up);
-    3. (If applicable) Keep the `External Fuel Tank` until you figure out where the leak is;
+    3. (Maybe) Keep the `External Fuel Tank` until you figure out where the leak is;
         1. If fueling from `External Fuel Tank`, return to the Main Fuel Tank and jettison the external tank;
         2. Open `Mixture Control Select` lever again;
         3. Turn `Circuit Breaker Fuel Pump` ON (down);
@@ -229,18 +229,18 @@ EXTRA TIP: Check where you are on the map (or on the kneeboard);
 ## **8) Spitfire > Landing:**
 
 1. **Before:**
-    1. (If) To `ATC`, request <span style="color: orange;">landing</span> procedure and wait for the answer;
-    2. (if applicable) Release `External Fuel Tank`;
+    1. (Maybe) To `ATC`, request <span style="color: orange;">landing</span> procedure and wait for the answer;
+    2. (Maybe) Release `External Fuel Tank`;
     3. Set `Trim` to Nose UP;
     4. `Nav. Lights` ON;
     5. Make sure `Pitch` lever is in full forward position;
     6. Set `Fuel Tank Pressure` valve to OFF (left);
     7. Vel. 160mph, alt. 1000 feet;
-    8. (If applicable) Emergency landing:
+    8. (Maybe) Emergency landing:
         1. Jettison the `Canopy` with its red lever (over your head);
         2. Set `Supercharger Mode Auto` switch to `M.S.` (up);
         3. Turn `Circuit Breaker Fuel Pump` OFF (up);
-        4. (If) Don't use Gear Down for soft terrain/water;
+        4. (Maybe) Don't use Gear Down for soft terrain/water;
     9. In `Stick`, press `Safety Guns Pin` IN (on)!
     10. In `Carburettor Air Control` lever (left leg), set it to `Filter In` (up);
 2. **Approaching/Landing:**
@@ -249,7 +249,7 @@ EXTRA TIP: Check where you are on the map (or on the kneeboard);
     3. `Gears` down - limit speed's 160mph;
     4. Vel. 110-100mph (RPM ~==XX==);
     5. Alt. 650-350 feet;
-    6. (If applicable) Emergency landing:
+    6. (Maybe) Emergency landing:
         - Set `Magneto` switches OFF (down);
         - In `Main Tank` lever, set to OFF (down);
         - Pull `Mixture Control Select` lever full back;

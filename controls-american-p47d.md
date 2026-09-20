@@ -29,7 +29,7 @@ Presets: `GoogleDrive:\My Drive\Hardwares e Softwares\Gaming Configs\DCS\`
 	    - On/Off = <span style="color: white; background-color: green; padding:0 5px;">RCtrl+Num0</span>
     - Release external fuel tank (Jettison Drop Tank) = ==NumLock==
     - ==Release MW50/Fuel (Jettison) = RShift + NumLock==
-    - Radiator Flaps Open/Close = ==RAlt+Seta-cima / RAlt+Seta-baixo==
+    - Radiator Flaps Open/Close = <span style="color: white; background-color: green; padding:0 5px;">RAlt+Seta-cima</span> / <span style="color: white; background-color: green; padding:0 5px;">RAlt+Seta-baixo</span>
     - Cold-start needs:
 	    - Starter Switch = <span style="color: white; background-color: green; padding:0 5px;">Num1</span>
 	    - Mixture lever to Auto Rich pos = <span style="color: white; background-color: green; padding:0 5px;">Num2</span>
@@ -62,9 +62,10 @@ Presets: `GoogleDrive:\My Drive\Hardwares e Softwares\Gaming Configs\DCS\`
         - Launch rockets (same bt as 'Bomb release') = JOY_BTN3 (bt superior esq)
         - Rocket Emergency Release toggle On/Off = RCtrl + NumLock
 - **Lights:**
-    - Cockpit Lighting (next): RShift + DEL
-    - Cockpit Lighting (previous): RCtrl + DEL
-    - Wing Position Lights (Navigation) On/Off = <span style="color: white; background-color: green; padding:0 5px;">Insert</span>
+    - Cockpit Lights cycle = <span style="color: white; background-color: green; padding:0 5px;">RShift + DEL</span> / <span style="color: white; background-color: green; padding:0 5px;">RCtrl + DEL</span>
+    - Navigation:
+	    - Wing Lights cycle = <span style="color: white; background-color: green; padding:0 5px;">Insert</span>
+	    - Tail Light cycle = <span style="color: white; background-color: green; padding:0 5px;">RShift + Insert</span>
 - **Câmera:**
     - Gun Camera = JOY_BTN7 (botão frontal abaixo do gatilho principal)
     - Zoom in slow = JOY_BTN6 (bt inferior dir)

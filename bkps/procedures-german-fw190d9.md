@@ -26,36 +26,36 @@ From September 1944, the Focke-Wulf Dora-9 was a late-war Luftwaffe high-altitud
 ---
 ## **1)** D-9 > **Cold start:**
 
-1. (If applicable) Turn your `personal flashlight` ON;
+1. (Maybe) Turn your `personal flashlight` ON;
 2. Open `Canopy` (crew needs to listen to you);
 3. Request `Start-Up` procedure to tower;
 4. Check the current weather temperature in the `Briefing` screen;
-5. (If applicable) Ask `Ground Crew` to "Rearm and Refuel", and wait for the `"Rearming"` and/or `"Refueling"` answer;
+5. (Maybe) Ask `Ground Crew` to "Rearm and Refuel", and wait for the `"Rearming"` and/or `"Refueling"` answer;
 6. **Electric:**
 	1. Ask `Ground Crew` for `Ground Electrical Power` ON;
-	2. (If applicable) Turn `Cockpit lights` ON;
+	2. (Maybe) Turn `Cockpit lights` ON;
 	3. Turn `Circuit Breakers` (right side, low panel) ON:
 		1. Mandatory (from top): **all**, except the **3**rd one;
-		2. (If applicable):
+		2. (Maybe):
 			- If dark: --
 			- If cold: **3**rd;
 			- If raining: **3**rd;
 			- If dropping bombs: --
 		3. In `Kraftstoffpumpen` (fuel pumps) (right side, lower panel):
 			1. Mandatory (from top to bottom): **All**, except **E85;**
-			2. (If applicable) If `External Fuel` tank: **All;**
+			2. (Maybe) If `External Fuel` tank: **All;**
 7. **Fuel:**
-    1. (If applicable) Ask crew to add the `External Fuel Tank`;
+    1. (Maybe) Ask crew to add the `External Fuel Tank`;
     2. In `Fuel Tank Selector` (red valve on the left):
         1. Put it fully up in "_Auf_" (On/Auto);
-        2. ==(If applicable) Case `External Fuel` tank, put that in "_Vord."` pos! It closes the forward tank, making the `External Fuel` refill only the rear tank.==
+        2. ==(Maybe) Case `External Fuel` tank, put that in "_Vord."` pos! It closes the forward tank, making the `External Fuel` refill only the rear tank.==
     3. ==In `Fuel Gauge Selector` (front-low-right yellow lever), set `Hinten` (rear) to monitor that tank.==
     4. ~~In~~ `~~Primer Pump~~` ~~(left lower panel, black rounded valve), pump it 10x;~~
     5. Make sure `MW-40` switch is "Aus" (OFF, back);
-    6. (If applicable) Extra fuel:
-        - ==(If applicable) `External Fuel` tank:==
+    6. (Maybe) Extra fuel:
+        - ==(Maybe) `External Fuel` tank:==
             1. ==XXXXXXXXXXXXXXX==
-        - (If applicable) `MW 50 Boost` fluid replaced by fuel:
+        - (Maybe) `MW 50 Boost` fluid replaced by fuel:
             1. Make sure `MW 50 Boost` switch (left lower panel, near to `Magnetos`) is OFF (back). If you turn it on, the fuel will be catastrophically injected into the supercharger;
 8. **Engine:**
     1. In `Magneto Switch`, select "_M1+M2_" option (fully forward);
@@ -72,7 +72,7 @@ From September 1944, the Focke-Wulf Dora-9 was a late-war Luftwaffe high-altitud
     3. Slide `Throttle` up until `Tachometer` hits 12 (1200) RPM;
         - Stay until `Oil temp.` gauge (red) hits 40ºC;
     4. Now, `Tachometer` to 1800 RPM;
-    5. (If applicable) Scramble situation:
+    5. (Maybe) Scramble situation:
 	    1. ==xxxxxxxxxxxxxxxxxxxx==
     6. **Meanwhile:**
 	    - ==Turn `Battery Switch` (front panel, left side, over the red valve) ON (left);==
@@ -84,7 +84,7 @@ From September 1944, the Focke-Wulf Dora-9 was a late-war Luftwaffe high-altitud
     8. Once warmed up, slide back the `Throttle` to idle.
     9. ==Set `Cooling Flaps Control` to `Auf` (open);==
     10. Release `Wheel Brakes` OR remove the `Wheel Chocks`;
-10. Ready to go!
+10. Info: ready to go!
 
 ---
 ## **2)** D-9 > **Taxiing:**
@@ -96,7 +96,7 @@ From September 1944, the Focke-Wulf Dora-9 was a late-war Luftwaffe high-altitud
 5. Say on radio: `YourCallsign` taxiing!
 6. To move, `Throttle` (1200-1400RPM) and `Wheel Brakes` gently;
 7. If needed, pull the `Stick` back to lock `Tail Wheel`;
-8. (If applicable) Request to take off and wait for your go;
+8. (Maybe) Request to take off and wait for your go;
 
 ---
 ## 3) D-9 > Takeoff:
@@ -113,7 +113,7 @@ EXTRA TIP: Check where you are on the map (or on the `kneeboard`);
             - Make sure `MW 50 Boost` switch (left lower panel, near to `Magnetos`) is OFF (back).
             - Trim nose (stabilizer) up to +1.0 (left side, weird right wheel);
         2. Heavy:
-            - (If applicable) If MW 50 is not for extra fuel, turn `MW 50 Boost` switch ON (forward);
+            - (Maybe) If MW 50 is not for extra fuel, turn `MW 50 Boost` switch ON (forward);
             - Trim nose (stabilizer) up to +2.0 (left side, weird right wheel);
     7. Make sure everything from "MEANWHILE" Cold-start procedures was done;
 2. **Go:**
@@ -127,7 +127,7 @@ EXTRA TIP: Check where you are on the map (or on the `kneeboard`);
     - Trim adjustments!
     - Turn `Oxygen` valve (right side, low panel, blue one) ON (up);
     - (If applicable and not fuel in) Turn `MW 50 Boost` switch (near to `Magnetos`) ON (forward);
-    1. **(If applicable) In combat skies:**
+    1. **(Maybe) In combat skies:**
         - Turn `Nav. Lights` OFF;
         - ==Turn `Cabin illumination OFF`;==
         - Turn `Master Arm` switch to ON (up);
@@ -142,7 +142,7 @@ EXTRA TIP: Check where you are on the map (or on the `kneeboard`);
     - ==From Xkm alt:==
         - Make sure `Circuit Breaker Pitot and Clothes Heating` switch is ON (in);
 - **Cruise:**
-    - ==(If applicable) Make sure the `External Fuel Tank` is being used;==
+    - ==(Maybe) Make sure the `External Fuel Tank` is being used;==
     - ==Safe cruise MAX = ATA 1.0-1.2 ???????(Fuel consuption = xxx xxxx/h);==
     - ==To save fuel = xxxxxxxx (Fuel consuption = xx xxx/h);==
     - ==Set `Cooling Flaps` to `Zu` (close) to avoid drag;==
@@ -159,7 +159,7 @@ EXTRA TIP: Check where you are on the map (or on the `kneeboard`);
     - ==Stall speed < 180Km/h (xxxMph)==
     - ==Dive speed limit: 850Km/h alt 2Km / 700Km/h alt 5Km;==
 - **Dogfight:**
-    - (If applicable) `External Fuel` tank should be dropped!
+    - (Maybe) `External Fuel` tank should be dropped!
     - ==_Cooling Flaps:` Closed or at least 50% closed to prevent energy bleeding;==
     - ==For Scissors maneuver, consider using `Flaps` in `Takeoff` pos (flaps limit 300km/h) to get the enemy in your crosshair;==
 - **Intercepting:**
@@ -177,11 +177,11 @@ EXTRA TIP: Check where you are on the map (or on the `kneeboard`);
 ---
 ## 6) D-9 > Special Ops:
 
-- **(If) Discarding `External Fuel` Tank:**
+- **(Maybe) Discarding `External Fuel` Tank:**
     - ==In `Fuel Tank Selector`, put it up in the "_Auf_" (On/Auto);==
     - ==In `Kraftstoffpumpen` (Fuel Circuit Breakers) panel, turn OFF the first and the last two bts;==
     - ==Pull the `Bomben` handle (red one) to release the aux. fuel tank;==
-- **(If) Firing rockets:**
+- **(Maybe) Firing rockets:**
     - ==Turn ON the `Main Rocket Switch` (front-low-panel behind the stick);==
     - ==To discard the rocket tubes, use the `Rocket Emergency Release` in the rockets panel;==
 
@@ -201,7 +201,7 @@ EXTRA TIP: Check where you are on the map (or on the `kneeboard`);
 - **For Engine:**
     - **Failure:**
         - ==Gliding speed ~260km/h;==
-        - ==(If applicable) Jettison all external load;==
+        - ==(Maybe) Jettison all external load;==
         - ==Turn `Zündung` (Governor) switch OFF (back);==
             - ==In `Propeller Pitch Indicator`, set it to 12:35 (feathered position);==
         - Read section: 8) Landing > Emergency landing;
@@ -219,12 +219,12 @@ EXTRA TIP: Check where you are on the map (or on the `kneeboard`);
 ## 8) D-9 > **Landing:**
 
 1. **Before:**
-    1. (if applicable) Release `External fuel tank`;
+    1. (Maybe) Release `External fuel tank`;
     2. `Nav. Lights` ON;
     3. ==Set `Trim` to -2 to -3 (nose up);==
-    4. ==(If applicable) `Cooling Flaps Control` in `Auf` (open) to add more drag;==
+    4. ==(Maybe) `Cooling Flaps Control` in `Auf` (open) to add more drag;==
     5. ==Vel. 300Km/h (`ATA` 1.0), 200m alt;==
-    6. (If applicable) Emergency landing:
+    6. (Maybe) Emergency landing:
         1. ==Nothing to do...==
     7. Turn `Master Arm` switch to OFF (down);
 2. **Approaching/Landing:**
@@ -232,8 +232,8 @@ EXTRA TIP: Check where you are on the map (or on the `kneeboard`);
     2. `Gears` down (green right bt) - limit speed's ==XXXKm==/h;
     3. ==Vel. 250Km/h (`ATA` ~0.7);==
     4. ==Alt. 200-100m;==
-    5. (If applicable) Emergency landing:
-        - (If) Don't use Gear Down for soft terrain/water;
+    5. (Maybe) Emergency landing:
+        - (Maybe) Don't use Gear Down for soft terrain/water;
         - Set `Fuel Tank Selector` valve full down to `Zu` (close);
         - Set `Magneto` switch to 0 (full down);
         - Hit `Kill Switch` button (big red one);
@@ -257,8 +257,8 @@ EXTRA TIP: Check where you are on the map (or on the `kneeboard`);
     2. **Meanwhile:**
         - Turn `Oxygen` valve OFF (down);
         - Turn `Master Arms` switch OFF (down);
-        - ==(If applicable) Turn `Main Rocket` switch OFF (down);==
-        - ==(If applicable) Turn `Bomb Fusing Selector` to AUS (up-center) pos;==
+        - ==(Maybe) Turn `Main Rocket` switch OFF (down);==
+        - ==(Maybe) Turn `Bomb Fusing Selector` to AUS (up-center) pos;==
     3. After that time, cut `Throttle` to idle;
     4. Set `Magneto Switch` to 0 (full back);
     5. `Lock Throttle` ("throttle to stop" command);

@@ -28,31 +28,31 @@ Anton is a 1944 variant of the German FW-190. Originally intended for intercepti
 ---
 ## 1) A-8 > Cold start:
 
-1. (If applicable) Turn your `personal flashlight` ON;
+1. (Maybe) Turn your `personal flashlight` ON;
 2. Open `Canopy` (crew needs to listen to you);
 3. Request `Start-Up` procedure to tower;
 4. Check the current weather temperature in the `Briefing` screen;
-5. (If applicable) Ask `Ground Crew` to "Rearm and Refuel", and wait for the `"Rearming"` and/or `"Refueling"` answer;
+5. (Maybe) Ask `Ground Crew` to "Rearm and Refuel", and wait for the `"Rearming"` and/or `"Refueling"` answer;
 6. **Electric:**
     1. Ask `Ground Crew` for `Ground Electrical Power` ON;
-    2. (If applicable) Turn `Cockpit lights` ON;
+    2. (Maybe) Turn `Cockpit lights` ON;
     3. Turn `Circuit Breakers` (right side, low panel) ON:
         1. Mandatory (from top): **2**nd; **3**rd; **4**th; **5**th; **8**th; **9**th; **10**th, **11**th (last one);
-        2. (If applicable):
+        2. (Maybe):
             - If dark: --
             - If cold: **6**th; **7**th;
             - If raining: **7**th;
             - If dropping bombs: **1**st;
     4. In `Kraftstoffpumpen` (fuel pumps) (right side, lower panel):
         - Mandatory (from top to bottom): **2**nd; **3**rd;
-        - (If applicable) If `External Fuel` tank: **all other ones**;
+        - (Maybe) If `External Fuel` tank: **all other ones**;
     5. In `Schusswaffen` (Firearms), turn on those 3 bts;
     6. Near to `Schusswaffen` bts, open that other circuit panel and turn on all of them, except the last one (right side, "self-destruction...");
 7. **Fuel:**
-    1. (If applicable) Ask `Ground Crew` to add the `External Fuel Tank`;
+    1. (Maybe) Ask `Ground Crew` to add the `External Fuel Tank`;
     2. In `Fuel Tank Selector` (red valve on the left):
         - Put it fully up in `Auf` (On/Auto);
-        - (If applicable) Case `External Fuel` tank, put that in `Vord` pos! It closes the forward tank, making the `External Fuel` refill only the rear tank.
+        - (Maybe) Case `External Fuel` tank, put that in `Vord` pos! It closes the forward tank, making the `External Fuel` refill only the rear tank.
     3. In `Fuel Gauge Selector` (front-low-right yellow lever), set `Hinten` (rear) to monitor that tank.
     4. In `Primer Pump` (yellow valve, below your left shoulder), pump it 10x;
 8. **Engine:**
@@ -70,7 +70,7 @@ Anton is a 1944 variant of the German FW-190. Originally intended for intercepti
     3. Slide up `Throttle` until the `Tachometer` gauge hits 12 (1200) RPM;
         - Stay there until the `Oil temperature` gauge (red) hits 25ºC;
     4. Now, `Tachometer` to 14 (1400) RPM;
-    5. (If applicable) Scramble situation:
+    5. (Maybe) Scramble situation:
 	    1. ==xxxxxxxxxxxxxxxxxxxx==
     6. **Meanwhile:**
 	    - ==Turn `Battery Switch` (front panel, left side, over the red valve) ON (left);==
@@ -82,7 +82,7 @@ Anton is a 1944 variant of the German FW-190. Originally intended for intercepti
     8. Once warmed up, slide back the `Throttle` to idle.
     9. Set `Cooling Flaps Control` to `Auf` (open);
     10. Release the `Wheel Brakes` OR remove the `Wheel Chocks`;
-10. Ready to go!
+10. Info: ready to go!to go!
 
 ---
 ## 2) A-8 > Taxiing:
@@ -94,7 +94,7 @@ Anton is a 1944 variant of the German FW-190. Originally intended for intercepti
 5. Say on radio: `MyCallsign` taxiing!
 6. To move, `Throttle` (1200-1400RPM) and `Wheel Brakes` gently;
 7. If needed, pull the `Stick` back to lock `Tail Wheel`;
-8. (If applicable) Request to take off and wait for your go;
+8. (Maybe) Request to take off and wait for your go;
 
 ---
 ## 3) A-8 > Takeoff:
@@ -119,7 +119,7 @@ EXTRA TIP: Check where you are on the `map` (or on the `kneeboard`);
     - Say on radio: `MyCallsign` airborne!
     - Trim adjustments!
     - Turn `Oxygen` valve (right side, low panel, blue one) ON (up);
-    1. **(If applicable) In combat skies:**
+    1. **(Maybe) In combat skies:**
         - Turn the `Nav. Lights` OFF;
         - Turn the `Cabin illumination OFF`;
         - Turn `Master Arm` and `Outer Wings Guns ON` (up);
@@ -136,7 +136,7 @@ EXTRA TIP: Check where you are on the `map` (or on the `kneeboard`);
     - From ==Xkm== alt:
         - Make sure `Circuit Breaker Clothes Heating` switch is ON (in);
 - **Cruise:**
-    - (If applicable) Make sure the `External Fuel Tank` is being used;
+    - (Maybe) Make sure the `External Fuel Tank` is being used;
     - ==Safe cruise MAX = ATA 1.0-1.2 ???????(Fuel consuption = xxx xxxx/h);==
     - ==To save fuel = xxxxxxxx (Fuel consuption = xx xxx/h);==
     - Set `Cooling Flaps` to `Zu` (close) to avoid drag;
@@ -152,7 +152,7 @@ EXTRA TIP: Check where you are on the `map` (or on the `kneeboard`);
     - Stall speed < 180Km/h (==xxxMph==)
     - Dive speed limit: 850Km/h alt 2Km / 700Km/h alt 5Km;
 - **Dogfight:**
-    - (If applicable) `External Fuel` tank should be dropped!
+    - (Maybe) `External Fuel` tank should be dropped!
     - `Cooling Flaps:` Closed or at least 50% closed to prevent energy bleeding;
     - For Scissors maneuver, consider using `Flaps` in `Takeoff` pos (flaps limit 300km/h) to get the enemy in your crosshair;
 - **Intercepting:**
@@ -170,11 +170,11 @@ EXTRA TIP: Check where you are on the `map` (or on the `kneeboard`);
 ---
 ## 6) A-8 > Special Ops:
 
-- **(If) Discarding `External Fuel` Tank:**
+- **(Maybe) Discarding `External Fuel` Tank:**
     - In `Fuel Tank Selector`, put it up in the "_Auf_" (On/Auto);
     - In `Kraftstoffpumpen` (Fuel Circuit Breakers) panel, turn OFF the first and the last two bts;
     - Pull the `Bomben` handle (red one) to release the aux. fuel tank;
-- **(If) Firing rockets:**
+- **(Maybe) Firing rockets:**
     - Turn ON the `Main Rocket Switch` (front-low-panel behind the stick);
     - To discard the rocket tubes, use the `Rocket Emergency Release` in the rockets panel;
 
@@ -194,7 +194,7 @@ EXTRA TIP: Check where you are on the `map` (or on the `kneeboard`);
 - **For Engine:**
     - **Failure:**
         - Gliding speed ~260km/h;
-        - (If applicable) Jettison all external load;
+        - (Maybe) Jettison all external load;
         - Turn `Zündung` (Governor) switch OFF (back);
             - In `Propeller Pitch Indicator`, set it to ==12:35== (feathered position);
         - Read section: 8) Landing > Emergency landing;
@@ -212,12 +212,12 @@ EXTRA TIP: Check where you are on the `map` (or on the `kneeboard`);
 ## 8) A-8 > Landing:
 
 1. **Before:**
-    1. (if applicable) Release `External fuel tank`;
+    1. (Maybe) Release `External fuel tank`;
     2. `Nav. Lights` ON;
     3. Set `Trim` to -2 to -3 (nose up);
     4. (If aplicable) `Cooling Flaps Control` in `Auf` (open) to add more drag;
     5. Vel. 300Km/h (ATA` 1.0), 200m alt;
-    6. (If applicable) Emergency landing:
+    6. (Maybe) Emergency landing:
         1. Nothing to do...
     7. Place the `Safety guns` stick's plate!
 2. **Approaching/Landing:**
@@ -225,8 +225,8 @@ EXTRA TIP: Check where you are on the `map` (or on the `kneeboard`);
     2. `Gears` down (green right bt) - limit speed's ==XXXKm==/h;
     3. Vel. 250Km/h (ATA` ~0.7);
     4. Alt. 200-100m;
-    5. (If applicable) Emergency landing:
-        - (If) Don't use Gear Down for soft terrain/water;
+    5. (Maybe) Emergency landing:
+        - (Maybe) Don't use Gear Down for soft terrain/water;
         - Set `Fuel Tank Selector` valve full down to `Zu` (close);
         - Set `Magneto` switch to 0 (full down);
         - Hit `Kill Switch` button (big red one);
@@ -251,8 +251,8 @@ EXTRA TIP: Check where you are on the `map` (or on the `kneeboard`);
         - Turn `Oxygen` valve OFF (down);
         - Turn `Master Arms` switch OFF (down);
         - Turn `Outer Wing Guns` switch OFF (down);
-        - (If applicable) Turn `Main Rocket` switch OFF (down);
-        - (If applicable) Turn `Bomb Fusing Selector` to AUS (up-center) pos;
+        - (Maybe) Turn `Main Rocket` switch OFF (down);
+        - (Maybe) Turn `Bomb Fusing Selector` to AUS (up-center) pos;
         - Make sure `Safety guns` stick's plate is in place;
     3. After that time, cut `Throttle` to idle;
     4. Set `Magneto Switch` to 0 (full back);

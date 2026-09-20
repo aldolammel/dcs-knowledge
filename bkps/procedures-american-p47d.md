@@ -25,28 +25,28 @@ xxxxxxxxxxxxxxxxxxx
 ---
 ## **1) P47 > Cold start:**
 
-1. (If applicable) Turn your `personal flashlight` ON;
+1. (Maybe) Turn your `personal flashlight` ON;
 2. Open `Canopy` (crew needs to listen to you);
 3. Request `Start-Up` procedure to tower;
 4. Check the current weather temperature in the `Briefing` screen;
-5. (If applicable) Ask `Ground Crew` to "Rearm and Refuel", and wait for the `"Rearming"` and/or `"Refueling"` answer;
+5. (Maybe) Ask `Ground Crew` to "Rearm and Refuel", and wait for the `"Rearming"` and/or `"Refueling"` answer;
 6. **Electric:**
     1. Ask `Ground Crew` for `Ground Electrical Power` ON;
-    2. (If applicable) Turn `Cockpit lights` ON;
+    2. (Maybe) Turn `Cockpit lights` ON;
     3. In `Circuit Breakers` (left side, lower black panel):
 	    1. Turn `Generator Switch` (lowest left panel side) ON (up);
-    4. ==(If applicable):==
+    4. ==(Maybe):==
         1. ==Heavy duty operation weight: ask for the crew to `Ground Electric Power`;==
         2. ==If cold/high-alt.: Turn `Windscreen De-Icer` knob (right leg) to ON (upper red end pointing to the back);==
 7. **Fuel:**
-    1. ==(If applicable) Ask `Ground Crew` to add the `External Fuel Tank`;==
+    1. ==(Maybe) Ask `Ground Crew` to add the `External Fuel Tank`;==
     2. Set `Main Fuel Selector Valve` (left side, below the red ball lever) to `Main On` (forward) pos with the smallest side of the valve;
     3. In `Primer` valve (front panel, right side, a elliptical valve):
 	    1. Unlock it (right click)
 	    2. Pump it (left click) 5x;
 	    3. Lock it again;
     4. Slide `Throttle` forward just a bit (10%) to make the fuel flow;
-    5. ==(If applicable) Using an `External Fuel Tank`:==
+    5. ==(Maybe) Using an `External Fuel Tank`:==
         1. ==Pull `Drop Tank` lever (right leg) to ON (back);==
         2. ==Turn `Main Tank` lever to OFF (down);==
 8. **Engine:**
@@ -68,7 +68,7 @@ xxxxxxxxxxxxxxxxxxx
     8. THE ENGINE SHOULD START NOW!
 9. **Warm the engine up:**
     1. Using `Throttle`, set `Tachometer` needle to 1200 RPM;
-    2. (If applicable) Scramble situation:
+    2. (Maybe) Scramble situation:
 	    1. Press and hold `Cowl Flaps Control` knob (front-right side, below `Primer`) until the engine flaps are totally closed (it will dangerously increase temperatures);
     3. **Meanwhile:**
         - Turn `Battery Switch` (front panel, left side, over the red valve) ON (left);
@@ -84,7 +84,7 @@ xxxxxxxxxxxxxxxxxxx
 	    3. `Oil Pressure` gauge stabilizes between 70-90 LBS;
     5. Once warmed up, slide `Throttle` back to idle;
     6. Release the `Wheel Brakes` pressing the pedals once;
-10. Ready to go!
+10. Info: ready to go!
 
 ---
 ## **2) P47 > Taxiing:**
@@ -96,7 +96,7 @@ xxxxxxxxxxxxxxxxxxx
 5. Make sure `Air Filter Control` lever is activated (UP);
 6. Say on radio: `YourCallsign` taxiing!
 7. To move the bird, use only `Throttle` at ==11 (1100 RPM)==, and `Wheel Brakes` gently. 
-8. (If applicable) Request to take off and wait for your go;
+8. (Maybe) Request to take off and wait for your go;
 
 ---
 ## **3) P47 > Takeoff:**
@@ -132,16 +132,16 @@ EXTRA TIP: Check where you are on the map (or on the `kneeboard`);
             - ==xxxxxxxxxxxxx==
 3. **Once airborne:**
     - `Gears up` - limit speed's ==160mph;==
-    - (If applicable) `Flaps up` to 0º - limit speed's ==140mph;==
+    - (Maybe) `Flaps up` to 0º - limit speed's ==140mph;==
     - Say on radio: `YourCallsign` airborne!
     - Fully close `Cowl Flaps`;
     - In`Air Filter Control` lever, deactivate it, pushing it DOWN (back/left);
     - In `Main Fuel Selector Valve`:
 	    - Change to `Auxiliary On` pos (right);
-	    - (If applicable) For `External Tank`, change to `External On` pos (left) instead;
+	    - (Maybe) For `External Tank`, change to `External On` pos (left) instead;
     - ==In `Oxygen` valve (left side, black wing knob), open it (vertical) to arm the auto feed (idle until 10K feet);==
     - Trim adjustments!
-    1. **(If applicable) In combat skies:**
+    1. **(Maybe) In combat skies:**
         - Turn `Nav. Lights` OFF;
         - ==Turn `Cabin illumination OFF`;==
         - ==Turn `Gunsight Master` switch (behind the gun sight, to the left) ON;==
@@ -161,7 +161,7 @@ Throttle / supercharger management. It's easy: Always use the throttle first, an
     - ==From 25.000ft alt:==
         - ==Set `Fuel Tank Pressure` valve to ON (right);==
 - **Cruise:**
-    - ==(If applicable) Make sure the `External Fuel Tank` is being used;==
+    - ==(Maybe) Make sure the `External Fuel Tank` is being used;==
     - ==Safe cruise MAX = `Pitch` 2650 RPM, `Throttle` +7 Boost (Fuel = 80 igal/h);==
     - ==To save fuel = `Pitch` 1800 RPM, `Throttle +2` Boost (Fuel = 30 igal/h);==
     - ==Make sure `Radiators` switch is Auto (up);==
@@ -195,9 +195,9 @@ Throttle / supercharger management. It's easy: Always use the throttle first, an
 ---
 ## 6) **P47 >** Special Ops:
 
-- **(If) Firing rockets:**
+- **(Maybe) Firing rockets:**
     - ==xxxxxxx==
-- **(If) Discarding `External Fuel` Tank:**
+- **(Maybe) Discarding `External Fuel` Tank:**
     1. ==Turn `Main Tank` lever ON (up);==
     2. ==Push `Drop Tank` lever (right leg) to OFF (forward);==
     3. ==Pull `Drop Tank Release` valve (red one with the `Drop Tank` lever);==
@@ -208,7 +208,7 @@ Throttle / supercharger management. It's easy: Always use the throttle first, an
 - **For Fuel leaking:**
     1. ==Pull `Mixture Control Select` lever full back to stop fuel flow;==
     2. ==Turn `Circuit Breaker Fuel Pump` OFF (up);==
-    3. ==(If applicable) Keep the `External Fuel Tank` until you figure out where the leak is;==
+    3. ==(Maybe) Keep the `External Fuel Tank` until you figure out where the leak is;==
         1. ==If fueling from `External Fuel Tank`, return to the Main Fuel Tank and jettison the external tank;==
         2. ==Open `Mixture Control Select` lever again;==
         3. ==Turn `Circuit Breaker Fuel Pump` ON (down);==
@@ -229,17 +229,17 @@ Throttle / supercharger management. It's easy: Always use the throttle first, an
 ## **8) P47 > Landing:**
 
 1. **Before:**
-    1. (if applicable) Release `External Fuel Tank`;
+    1. (Maybe) Release `External Fuel Tank`;
     2. ==Set `Trim` to Nose UP;==
     3. ==`Nav. Lights` ON;==
     4. ==Make sure `Pitch` lever is in full forward position;==
     5. ==Set `Fuel Tank Pressure` valve to OFF (left);==
     6. ==Vel. 160mph, alt. 1000 feet;==
-    7. (If applicable) Emergency landing:
+    7. (Maybe) Emergency landing:
         1. ==Jettison the `Canopy` with its red lever (over your head);==
         2. ==Set `Supercharger Mode Auto` switch to `M.S.` (up);==
         3. ==Turn `Circuit Breaker Fuel Pump` OFF (up);==
-        4. ==(If) Don't use Gear Down for soft terrain/water;==
+        4. ==(Maybe) Don't use Gear Down for soft terrain/water;==
     8. ==In `Stick`, press `Safety Guns Pin` IN (on)!==
     9.  In`Air Filter Control` lever (left side, on floor), active it, pulling it UP;
 2. **Approaching/Landing:**
@@ -247,7 +247,7 @@ Throttle / supercharger management. It's easy: Always use the throttle first, an
     2. ==`Gears` down - limit speed's 160mph;==
     3. ==Vel. 110-100mph (RPM ~XX);==
     4. ==Alt. 650-350 feet;==
-    5. (If applicable) Emergency landing:
+    5. (Maybe) Emergency landing:
         - ==Set `Magneto` switches OFF (down);==
         - ==In `Main Tank` lever, set to OFF (down);==
         - ==Pull `Mixture Control Select` lever full back;==

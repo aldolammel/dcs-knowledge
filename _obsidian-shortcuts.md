@@ -35,6 +35,12 @@ Creating a Green Highlight (`Alt + Numpad-comma`): -- Templater add-on
 Creating a Orange text (`Win + Num-comma`): -- Templater add-on
 <span style="color: orange;">Example</span>
 
+Creating a Grey text (`Win + Num-1`): -- Templater add-on
+<span style="color: grey;">Example</span>
+
+Creating a Red text (`Win + Num-2`): -- Templater add-on
+<span style="color: red;">Example</span>
+
 Creating a code block (`Ctrl + Numpad0`): -- Obsidian native
 ```
 Example
