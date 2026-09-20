@@ -1,11 +1,13 @@
 # Procedures > German FW190A-8
 
 ---
-## Controls:
+
+**Controls:**
 - [controls-german-fw190a8](controls-german-fw190a8.md)
-## Guns & Fuel:
+- IL2 GB, controls, FW190 (soon)
+**Guns & Fuel:**
 - [guns-and-fuel-german-fw190a8](guns-and-fuel-german-fw190a8.md)
-## Basic Gameplay:
+**Basic Gameplay:**
 - [basic-about-aircrafts](basic-about-aircrafts.md)
 - This plane's official doc: [https://www.digitalcombatsimulator.com/en/downloads/documentation/dcs-fw_190_a-8_flight_manual_en/](https://www.digitalcombatsimulator.com/en/downloads/documentation/dcs-fw_190_a-8_flight_manual_en/)
 
@@ -30,12 +32,12 @@ Anton is a 1944 variant of the German FW-190. Originally intended for intercepti
 
 1. (If applicable) Turn your `personal flashlight` ON;
 2. Open `Canopy` (crew needs to listen to you);
-3. Request `Start-Up` procedure to tower;
-4. Check the current weather temperature in the `Briefing` screen;
-5. (If applicable) Ask `Ground Crew` to "Rearm and Refuel", and wait for the `"Rearming"` and/or `"Refueling"` answer;
+3. To `ATC`, request <span style="color: orange;">start-up</span> procedure;
+4. In `Briefing` screen, check <span style="color: orange;">weather temp.</span>;
+5. (If) To `Ground Crew`, request <span style="color: orange;">rearm and refuel</span>, and wait for the answer;
 6. **Electric:**
-    1. Ask `Ground Crew` for `Ground Electrical Power` ON;
-    2. (If applicable) Turn `Cockpit lights` ON;
+    1. To `Ground Crew`, request <span style="color: orange;">ground electrical power ON</span>;
+    2. (If) `Cockpit lights` should be <span style="color: orange;">ON</span>;
     3. Turn `Circuit Breakers` (right side, low panel) ON:
         1. Mandatory (from top): **2**nd; **3**rd; **4**th; **5**th; **8**th; **9**th; **10**th, **11**th (last one);
         2. (If applicable):
@@ -51,18 +53,20 @@ Anton is a 1944 variant of the German FW-190. Originally intended for intercepti
 7. **Fuel:**
     1. In `Fuel Tank Selector` (red valve on the left):
         - Put it fully up in `Auf` (On/Auto);
-        - (If applicable) Case `External Fuel` tank, put that in `Vord` pos! It closes the forward tank, making the `External Fuel` refill only the rear tank.
+        - (If) Case `External Fuel` tank, put that in `Vord` pos! It closes the forward tank, making the `External Fuel` refill only the rear tank.
     2. In `Fuel Gauge Selector` (front-low-right yellow lever), set `Hinten` (rear) to monitor that tank.
     3. In `Primer Pump` (yellow valve, below your left shoulder), pump it 10x;
 8. **Engine:**
     1. In `Magneto Switch`, select `M1+M2` option (fully forward);
-    2. `Unlock throttle` ("throttle to start" command), and keep idle pos;
+    2. On `Throttle`, <span style="color: orange;">unlock it</span>, keeping it in <span style="color: orange;">idle</span> pos;
     3. <span style="color: orange;">Hold</span> both `Wheel Brakes` down OR ask crew <span style="color: orange;">to place</span> `Wheel Chocks`;
     4. Set `Zündung` (Governor) switch to OFF (down) to manually control the propeller blades angle;
         - In `Propeller Pitch Indicator` (gauge on the right of the `Fuel` gauge), set the blades angle to `12:35` using `Engine RPM` commands (to prevent the plane from going forward in warm-up);
     5. In `Starter Switch` (right side, below `Canopy Hand Crank`):
         - Open `FREI` protection;
-        - Press down and hold the switch (left click), waiting 25secs before releasing it and then pull it up once (right click);
+        - <span style="color: orange;">Press down and hold</span> the switch (left click), waiting:
+	        1. (If) Warm day and dry: ==25 secs==;
+	        2. (If) Cold day or wet: ==XX secs==;
     6. Info: <span style="color: orange;">the engine should starts now!</span>
 9. **Warm the engine up:**
     1. Set `Cooling Flaps Control` (hand crank in your front) to `Zu` (close);
@@ -73,7 +77,7 @@ Anton is a 1944 variant of the German FW-190. Originally intended for intercepti
 	    1. ==xxxxxxxxxxxxxxxxxxxx==
     5. **Meanwhile:**
 	    - ==Turn `Battery Switch` (front panel, left side, over the red valve) ON (left);==
-	    - Ask `Ground Crew` to disconnect `Ground Electric Power`;
+	    - To `Ground Crew`, request <span style="color: orange;">ground electric power OFF</span>;
 	    - ==Turn Radio (xxxxxxxx) ON and set this up;==
 	    1. ==In `Altimeter` gauge, set it to zero!==
 	    2. ==In `Compass Course Ring` (behind the `Stick`), align the North with the North Magnetic (a white cross);==
@@ -94,7 +98,7 @@ Anton is a 1944 variant of the German FW-190. Originally intended for intercepti
 6. Say on radio: `MyCallsign` taxiing!
 7. To move, `Throttle` (1200-1400RPM) and `Wheel Brakes` gently;
 8. If needed, pull the `Stick` back to lock `Tail Wheel`;
-9. (If applicable) Request to take off and wait for your go;
+9. (If) To `ATC`, request <span style="color: orange;">takeoff</span> procedure and wait for the answer;
 
 ---
 ## 3) A-8 > Takeoff:
@@ -102,9 +106,9 @@ EXTRA TIP: Check where you are on the `map` (or on the `kneeboard`);
 
 1. **Preparing**:
     1. Make sure `Nav. Lights` are ON;
-    2. (If applicable) Case `External Fuel Tank`, make sure ==selector position xxxxxxxxxxxx;==
-    3. On the runway, you are already in takeoff position;
-    4. Close the `Canopy`,
+    2. (If) Case `External Fuel Tank`, make sure ==selector position xxxxxxxxxxxx;==
+    3. On the runway, <span style="color: orange;">roll straight a bit to make sure tail wheel is aligned</span>;
+    4. Close the `Canopy`;
     5. Make sure `Zündung` (Governor) switch is set ON (up)!
     6. Make sure the `Cooling Flaps Control` is `Auf` (open) pos.;
     7. `Flaps` at 13º position (left side, lower panel, small yellow button);
@@ -214,14 +218,15 @@ EXTRA TIP: Check where you are on the `map` (or on the `kneeboard`);
 ## 8) A-8 > Landing:
 
 1. **Before:**
-    1. (if applicable) Release `External fuel tank`;
-    2. `Nav. Lights` ON;
-    3. Set `Trim` to -2 to -3 (nose up);
-    4. (If aplicable) `Cooling Flaps Control` in `Auf` (open) to add more drag;
-    5. Vel. 300Km/h (ATA` 1.0), 200m alt;
-    6. (If applicable) Emergency landing:
+    1. (If) To `ATC`, request <span style="color: orange;">landing</span> procedure and wait for the answer;
+    2. (If) Release `External fuel tank`;
+    3. `Nav. Lights` ON;
+    4. Set `Trim` to -2 to -3 (nose up);
+    5. (If aplicable) `Cooling Flaps Control` in `Auf` (open) to add more drag;
+    6. Vel. 300Km/h (ATA` 1.0), 200m alt;
+    7. (If applicable) Emergency landing:
         1. Nothing to do...
-    7. Place the `Safety guns` stick's plate!
+    8. Place the `Safety guns` stick's plate!
 2. **Approaching/Landing:**
     1. `Flaps` landing (green left bt) - limit speed's 300Km/h;
     2. `Gears` down (green right bt) - limit speed's ==XXXKm==/h;
@@ -245,25 +250,24 @@ EXTRA TIP: Check where you are on the `map` (or on the `kneeboard`);
 ---
 ## 9) A-8 > Turn it off:
 
-1. Make sure you have your `Canopy` open;
-2. Ask crew to place `Wheel Chocks`;
+1. `Canopy` should be <span style="color: orange;">open</span>;
+2. To `Ground Crew`, request to place <span style="color: orange;">wheel chocks</span>;
 3. **Engine:**
-    1. Slide down the `Throttle` until 12 (1200 RPM) for 2 min to lower cylinder head temperatures;
+    1. On `Throttle`, set to <span style="color: orange;">1200 RPM for 2 min</span> to lower cylinder head temp.;
     2. **Meanwhile:**
-        - Turn `Oxygen` valve OFF (down);
-        - Turn `Master Arms` switch OFF (down);
-        - Turn `Outer Wing Guns` switch OFF (down);
-        - (If applicable) Turn `Main Rocket` switch OFF (down);
-        - (If applicable) Turn `Bomb Fusing Selector` to AUS (up-center) pos;
+        - `Oxygen` must be <span style="color: orange;">OFF (down)</span>;
+        - `Master Arms` must be <span style="color: orange;">OFF (down)</span>;
+        - `Outer Wing Guns` must be <span style="color: orange;">OFF (down)</span>;
+        - (If) On `Rocket/Bomb panel`, both switches must be <span style="color: orange;">OFF (down)</span>;
+        - (If) On `Fusing Selector panel`, knob must be <span style="color: orange;">Aus (up)</span> pos;
         - Make sure `Safety guns` stick's plate is in place;
-    3. After that time, cut `Throttle` to idle;
-    4. Set `Magneto Switch` to 0 (full back);
-    5. `Lock Throttle` ("throttle to stop" command);
-    6. Set `Zündung` (Governor) switch to OFF (down);
-    7. Set `Cooling Flaps Control` to `Zu` (close);
+    3. On `Throttle`, <span style="color: orange;">lock it</span>, pulling it fully back to the indent pos;
+    4. Set `Magneto Switch` <span style="color: orange;">fully back</span>;
+    5. `Zündung` (Governor) must be <span style="color: orange;">OFF (down)</span>;
+    6. `Cooling Flaps Control` must be <span style="color: orange;">Zu (close)</span>;
 4. **Fuel:**
-    1. In `Fuel Tank Selector`, put it down in `ZU` (close);
+    1. In `Fuel Tank Selector`, put it fully down to <span style="color: orange;">Zu (close)</span>;
 5. **Electric:**
-    1. Press `Kill Switch` button (left side, big red one);
-    2. Turn all `Circuit Breakers` OFF, including `Kraftstoffpumpen` and `Schusswaffen._
+    1. <span style="color: orange;">Press</span> `Kill Switch` button (left side, big red one);
+    2. On `Circuit Breakers`, turn <span style="color: orange;">OFF all of them</span>, including `Kraftstoffpumpen` and `Schusswaffen`;
 6. Done!

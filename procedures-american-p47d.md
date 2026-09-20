@@ -1,10 +1,10 @@
 # Procedures > American P47D
 
 ---
+
 **Controls:**
 - [controls-american-p47d](controls-american-p47d.md)
 - IL2 GB, controls, P47 (soon)
-
 **Guns & Fuel:**
 - [guns-and-fuel-american-p47d](guns-and-fuel-american-p47d.md)
 **Basic Gameplay:**
@@ -14,10 +14,12 @@
 ```
 xxxxxxxxxxxxxxxxxxx
 ```
-## **Pros:**
+## Pros:
+
 - ==Absolute for turn fights;==
 - [basic-about-maneuvers](basic-about-maneuvers.md)- ==xxxxxxxxxx==
-## **Cons:**
+## Cons:
+
 - ==Poor ammo power and amount;==
 - ==xxxxxx==
 - [basic-about-maneuvers](basic-about-maneuvers.md)- ==Don't xxxxxxx==
@@ -27,12 +29,12 @@ xxxxxxxxxxxxxxxxxxx
 
 1. (If applicable) Turn your `personal flashlight` ON;
 2. Open `Canopy` (crew needs to listen to you);
-3. Request `Start-Up` procedure to tower;
-4. Check the current weather temperature in the `Briefing` screen;
-5. (If applicable) Ask `Ground Crew` to "Rearm and Refuel", and wait for the `"Rearming"` and/or `"Refueling"` answer;
+3. To `ATC`, request <span style="color: orange;">start-up</span> procedure;
+4. In `Briefing` screen, check <span style="color: orange;">weather temp.</span>;
+5. (If) To `Ground Crew`, request <span style="color: orange;">rearm and refuel</span>, and wait for the answer;
 6. **Electric:**
-    1. Ask `Ground Crew` for `Ground Electrical Power` ON;
-    2. (If applicable) Turn `Cockpit lights` ON;
+    1. To `Ground Crew`, request <span style="color: orange;">ground electrical power ON</span>;
+    2. (If) `Cockpit lights` should be <span style="color: orange;">ON</span>;
     3. In `Circuit Breakers` (left side, lower black panel):
 	    1. Turn `Generator Switch` (lowest left panel side) ON (up);
     4. ==(If applicable):==
@@ -71,7 +73,7 @@ xxxxxxxxxxxxxxxxxxx
 	    1. Press and hold `Cowl Flaps Control` knob (front-right side, below `Primer`) until the engine flaps are totally closed (it will dangerously increase temperatures);
     3. **Meanwhile:**
         - Turn `Battery Switch` (front panel, left side, over the red valve) ON (left);
-        - Ask `Ground Crew` to disconnect `Ground Electric Power`;
+        - To `Ground Crew`, request <span style="color: orange;">ground electric power OFF</span>;
         - ==Turn Radio (xxxxxxxx) ON and set this up;==
         - Unlock `Artificial Horizon`, using its big `Cage` knob, twisting it to ON pos;
         - In `Altimeter` gauge, set it to zero!
@@ -96,7 +98,7 @@ xxxxxxxxxxxxxxxxxxx
 6. Make sure `Air Filter Control` lever is activated (UP);
 7. Say on radio: `YourCallsign` taxiing!
 8. To move the bird, use only `Throttle` at ==11 (1100 RPM)==, and `Wheel Brakes` gently. 
-9. (If applicable) Request to take off and wait for your go;
+9. (If) To `ATC`, request <span style="color: orange;">takeoff</span> procedure and wait for the answer;
 
 ---
 ## **3) P47 > Takeoff:**
@@ -105,9 +107,9 @@ EXTRA TIP: Check where you are on the map (or on the `kneeboard`);
 1. **Preparing:**
     - Make sure `Nav. Lights` are ON;
     - (If applicable) Case `External Fuel Tank`, make sure ==selector position xxxxxxxxxxxx;==
-    - On the runway, you are already in takeoff position;
-    - Close the `Canopy` (USAF doctrine if not carrier-based airplane);
+    - On the runway, <span style="color: orange;">roll straight a bit to make sure tail wheel is aligned</span>;
     - Lock `Tail Wheel` (right side, on floor) moving it forward;
+    - Close the `Canopy` (USAF doctrine if not carrier-based airplane);
     - Make sure `Pitch` is fully forward (up);
     - Make sure Boost lever's `Interconnection Latch` is not attached to `Throttle` and still in idle;
     - Unlock `Guns Safety Switch` (red cover behind `Throttle`);
@@ -235,19 +237,20 @@ Throttle / supercharger management. It's easy: Always use the throttle first, an
 ## **8) P47 > Landing:**
 
 1. **Before:**
-    1. (if applicable) Release `External Fuel Tank`;
-    2. ==Set `Trim` to Nose UP;==
-    3. ==`Nav. Lights` ON;==
-    4. ==Make sure `Pitch` lever is in full forward position;==
-    5. ==Set `Fuel Tank Pressure` valve to OFF (left);==
-    6. ==Vel. 160mph, alt. 1000 feet;==
-    7. (If applicable) Emergency landing:
+    1. (If) To `ATC`, request <span style="color: orange;">landing</span> procedure and wait for the answer;
+    2. (if applicable) Release `External Fuel Tank`;
+    3. ==Set `Trim` to Nose UP;==
+    4. ==`Nav. Lights` ON;==
+    5. ==Make sure `Pitch` lever is in full forward position;==
+    6. ==Set `Fuel Tank Pressure` valve to OFF (left);==
+    7. ==Vel. 160mph, alt. 1000 feet;==
+    8. (If applicable) Emergency landing:
         1. ==Jettison the `Canopy` with its red lever (over your head);==
         2. ==Set `Supercharger Mode Auto` switch to `M.S.` (up);==
         3. ==Turn `Circuit Breaker Fuel Pump` OFF (up);==
         4. ==(If) Don't use Gear Down for soft terrain/water;==
-    8. ==In `Stick`, press `Safety Guns Pin` IN (on)!==
-    9.  In`Air Filter Control` lever (left side, on floor), active it, pulling it UP;
+    9. ==In `Stick`, press `Safety Guns Pin` IN (on)!==
+    10.  In`Air Filter Control` lever (left side, on floor), active it, pulling it UP;
 2. **Approaching/Landing:**
     1. ==`Flaps` down - limit speed's 140mph;==
     2. ==`Gears` down - limit speed's 160mph;==
@@ -269,7 +272,7 @@ Throttle / supercharger management. It's easy: Always use the throttle first, an
 ---
 ## **9) P47 > Turn it off:**
 
-1. ==Make sure the `Canopy` is open;==
+1. `Canopy` should be <span style="color: orange;">open</span>;
 2. ==Set the `Wheel Brakes`;==
 3. **Engine:**
     1. ==Cool the engine for 2min at 800 RPM;==

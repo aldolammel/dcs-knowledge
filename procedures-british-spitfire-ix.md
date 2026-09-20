@@ -5,10 +5,8 @@
 **Controls:**
 - [controls-british-spitfire-ix](controls-british-spitfire-ix.md)
 - IL2 GB, controls, Spitfire (soon)
-
 **Guns & Fuel:**
 - [guns-and-fuel-british-spitfire-ix](guns-and-fuel-british-spitfire-ix.md)
-
 **Basic Gameplay:**
 - [basic-about-aircrafts](basic-about-aircrafts.md)
 - This plane's official doc: [https://www.digitalcombatsimulator.com/en/downloads/documentation/dcs-spitfire_flight_manual_en/](https://www.digitalcombatsimulator.com/en/downloads/documentation/dcs-spitfire_flight_manual_en/)
@@ -16,7 +14,8 @@
 ```
 1942 low-altitude variant of the Spitfire fighter. A full-service fighter, the most versatile and battle-hardened of the British aircraft.
 ```
-## **Pros:**
+## Pros:
+
 - **Both:**
     - Absolute for turn fights;
 - **Elliptical Wings version:**
@@ -28,7 +27,8 @@
     - Greater roll capacities;
     - Better for diving;
 - [basic-about-maneuvers](basic-about-maneuvers.md)- ==xxxxxxxxxx==
-## **Cons:**
+## Cons:
+
 - Poor ammo power and amount;
 - ==xxxxxx==
 - [basic-about-maneuvers](basic-about-maneuvers.md)- ==Don't xxxxxxx==
@@ -39,12 +39,12 @@
 1. ~~(If applicable) Turn your `personal flashlight` ON;~~
 2. (If applicable) Turn `Cockpit lights` ON;
 3. Open `Canopy` (crew needs to listen to you);
-4. Request `Start-Up` procedure to tower;
-5. Check the current weather temperature in the `Briefing` screen;
-6. (If applicable) Ask `Ground Crew` to "Rearm and Refuel", and wait for the `"Rearming"` and/or `"Refueling"` answer;
+4. To `ATC`, request <span style="color: orange;">start-up</span> procedure;
+5. In `Briefing` screen, check <span style="color: orange;">weather temp.</span>;
+6. (If) To `Ground Crew`, request <span style="color: orange;">rearm and refuel</span>, and wait for the answer;
 7. **Electric (part 1/2):**
-	1.  Ask `Ground Crew` for `Ground Electrical Power` ON;
-	2. Turn the red `Nav. Lights` switch (front panel, upper left corner) ON (up);
+	1. To `Ground Crew`, request <span style="color: orange;">ground electrical power ON</span>;
+	2. (If) `Cockpit lights` (front panel, upper left corner) should be <span style="color: orange;">ON (up)</span>;
 	3. Hidden by the `Throttle`, turn the `Undercarriage Indicator Switch` ON (forward);
 	4. (If applicable):
 		1. If cold/high-alt.: Turn `Windscreen De-Icer` knob (right leg) to ON (upper red end pointing to the back);
@@ -76,7 +76,7 @@
 		2. Quickly, and still holding those buttons, push the `Mixture Control Select` lever fully forward;
 		3. Release those buttons;
 	7. Info: <span style="color: orange;">the engine should starts now!</span>
-		1. (If applicable) If it failed, pull back the `Mixture Control Select` lever and restart the procedure, starting with the "2 buttons" step and so on!
+		1. (If) If it failed, pull back the `Mixture Control Select` lever and restart the procedure, starting with the "2 buttons" step and so on!
 	8. Back to `Primer` valve again (the copper one), twist it to close;
 11. **Warm the engine up:**
 	1. Adjust the `Throttle`, making your `Tachometer` park at 12 (1200 RPM);
@@ -84,7 +84,7 @@
 		1. ==xxxxxxxxxxxxxxxxxxxx==
 		2. ==xxxxx;==
 	3. **Meanwhile:**
-		- (If applicable) Ask the crew to disconnect the `Ground Electric Power`;
+		- To `Ground Crew`, request <span style="color: orange;">ground electric power OFF</span>;
 		- ==Turn Radio (xxxxxxxx) ON and set this up;==
 		- ==In `Altimeter` gauge, set it to zero!==
 		- In `Compass Course Ring` (behind the `Stick`), align the North with the North Magnetic (a white cross);
@@ -105,7 +105,7 @@
 5. Make sure the `Carburetor Air Control` lever (left leg) is in `Filter IN` (up);
 6. Say on radio:  taxiing!
 7. To move the bird, use only `Throttle` at 11 (1100 RPM), `Rudder`, and `Wheel Brakes` gently. The brake system gets the rudder direction to apply the right pressure to the wheels during a turn.
-8. (If applicable) Request to take off and wait for your go;
+8. (If) To `ATC`, request <span style="color: orange;">takeoff</span> procedure and wait for the answer;
 
 ---
 ## **3) Spitfire > Takeoff:**
@@ -114,7 +114,6 @@ EXTRA TIP: Check where you are on the map (or on the kneeboard);
 1. **Preparing:**
     - Make sure `Nav. Lights` are ON;
     - (If applicable) Case `External Fuel Tank`, make sure ==selector position xxxxxxxxxxxx;==
-    - On the runway, you are already in takeoff position;
     - Keep `Canopy` open (RAF doctrine);
     - Make sure `Pitch` is fully forward (up);
     - Make sure `Carburetor Air Control` lever (left leg) is in `Filter IN` (up);
@@ -230,19 +229,20 @@ EXTRA TIP: Check where you are on the map (or on the kneeboard);
 ## **8) Spitfire > Landing:**
 
 1. **Before:**
-    1. (if applicable) Release `External Fuel Tank`;
-    2. Set `Trim` to Nose UP;
-    3. `Nav. Lights` ON;
-    4. Make sure `Pitch` lever is in full forward position;
-    5. Set `Fuel Tank Pressure` valve to OFF (left);
-    6. Vel. 160mph, alt. 1000 feet;
-    7. (If applicable) Emergency landing:
+    1. (If) To `ATC`, request <span style="color: orange;">landing</span> procedure and wait for the answer;
+    2. (if applicable) Release `External Fuel Tank`;
+    3. Set `Trim` to Nose UP;
+    4. `Nav. Lights` ON;
+    5. Make sure `Pitch` lever is in full forward position;
+    6. Set `Fuel Tank Pressure` valve to OFF (left);
+    7. Vel. 160mph, alt. 1000 feet;
+    8. (If applicable) Emergency landing:
         1. Jettison the `Canopy` with its red lever (over your head);
         2. Set `Supercharger Mode Auto` switch to `M.S.` (up);
         3. Turn `Circuit Breaker Fuel Pump` OFF (up);
         4. (If) Don't use Gear Down for soft terrain/water;
-    8. In `Stick`, press `Safety Guns Pin` IN (on)!
-    9. In `Carburettor Air Control` lever (left leg), set it to `Filter In` (up);
+    9. In `Stick`, press `Safety Guns Pin` IN (on)!
+    10. In `Carburettor Air Control` lever (left leg), set it to `Filter In` (up);
 2. **Approaching/Landing:**
     1. Open the `Canopy` (RAF doctrine);
     2. `Flaps` down - limit speed's 140mph;
@@ -265,8 +265,8 @@ EXTRA TIP: Check where you are on the map (or on the kneeboard);
 ---
 ## **9) Spitfire > Turn it off:**
 
-1. Make sure the `Canopy` is open;
-2. Set the `Wheel Brakes`;
+1. `Canopy` should be <span style="color: orange;">open</span>;
+2. To `Ground Crew`, request to place <span style="color: orange;">wheel chocks</span>;
 3. **Engine:**
     1. Cool the engine for 2min at 800 RPM;
         1. **Meanwhile:**

@@ -4,10 +4,9 @@
 
 **Controls:**
 - [controls-german-bf109k4](controls-german-bf109k4.md)
-
+- IL2 GB, controls, BF109 (soon)
 **Guns & Fuel:**
 - [guns-and-fuel-german-bf109k4](guns-and-fuel-german-bf109k4.md)
-
 **Basic Gameplay:**
 - [basic-about-aircrafts](basic-about-aircrafts.md)
 - This plane's official doc: [https://www.digitalcombatsimulator.com/en/downloads/documentation/dcs-bf_109k_flight_manual_en/](https://www.digitalcombatsimulator.com/en/downloads/documentation/dcs-bf_109k_flight_manual_en/)
@@ -15,13 +14,13 @@
 ```
 An October 1944 variant of the Bf 109, Germany's most important and deadliest fighter of WWII. In this K-4 version, it served as a high-altitude air superiority fighter. It featured excellent speed and rate of climb, along with superb vertical maneuverability. It was the most versatile and battle-proven German aircraft.
 ```
-## **Pros:**
+## Pros:
 
 - Faster
 - Good horizontal turns, outstanding vertical ones;
 - Destroy escort planes with one hit (30mm);
 - [basic-about-maneuvers](basic-about-maneuvers.md)- ==xxxxxxxxxx==
-## **Cons:**
+## Cons:
 
 - Can't take too much punishment;
 - Poor rear visibility;
@@ -33,12 +32,12 @@ An October 1944 variant of the Bf 109, Germany's most important and deadliest fi
 
 1. (If applicable) Turn your `personal flashlight` ON;
 2. Open Canopy (crew needs to listen to you);
-3. Request `Start-Up` procedure to tower;
-4. Check the current weather temperature in the `Briefing` screen;
-5. (If applicable) Ask `Ground Crew` to "Rearm and Refuel", and wait for the `"Rearming"` and/or `"Refueling"` answer;
+3. To `ATC`, request <span style="color: orange;">start-up</span> procedure;
+4. In `Briefing` screen, check <span style="color: orange;">weather temp.</span>;
+5. (If) To `Ground Crew`, request <span style="color: orange;">rearm and refuel</span>, and wait for the answer;
 6. **Electric:**
-    1. Ask `Ground Crew` for `Ground Electrical Power` ON;
-    2. (If applicable) Turn `Cockpit lights` ON;
+    1. To `Ground Crew`, request <span style="color: orange;">ground electrical power ON</span>;
+    2. (If) `Cockpit lights` should be <span style="color: orange;">ON</span>;
     3. Turn `Circuit Breakers` (right side, below `pistol flare`) ON (in):
         - Mandatory (from top to bottom):
             - Left column: **1**st; **3**rd; **6**th (last one);
@@ -79,7 +78,7 @@ An October 1944 variant of the Bf 109, Germany's most important and deadliest fi
 	    1. ==xxxxxxxxxxxxxxxxxxxx==
     5. **Meanwhile:**
 	    - ==Turn `Battery Switch` (front panel, left side, over the red valve) ON (left);==
-	    - Ask `Ground Crew` to disconnect `Ground Electric Power`;
+	    - To `Ground Crew`, request <span style="color: orange;">ground electric power OFF</span>;
 	    - ==Turn Radio (xxxxxxxx) ON and set this up;==
 	    1. In the `Artificial Horizon` , rotate it fully anti-clockwise;
 	    2. ==In `Altimeter` gauge, set it to zero!==
@@ -98,7 +97,7 @@ An October 1944 variant of the Bf 109, Germany's most important and deadliest fi
 5. Set the `Governor` switch to ON (down);
 6. Say on radio: `YourCallsign` taxiing!
 7. To move, `Throttle` (1000-1100RPM) and `Wheel Brakes` gently;
-8. (If applicable) Request to take off and wait for your go;
+8. (If) To `ATC`, request <span style="color: orange;">takeoff</span> procedure and wait for the answer;
 
 ---
 ## 3) 109K-4 > Takeoff:
@@ -107,9 +106,9 @@ EXTRA TIP: Check where you are on the map (or on the `kneeboard`);
 1. **Preparing:**
     1. Make sure `Nav. Lights` are ON;
     2. (If applicable) Case `External Fuel Tank`, make sure ==selector position xxxxxxxxxxxx;==
-    3. On the runway, you are already in takeoff position;
-    4. Close the `Canopy` ;
-    5. Lock the `Tail Wheel` (left shoulder, a metal cable), set that down;
+    3. On the runway, <span style="color: orange;">roll straight a bit to make sure tail wheel is aligned</span>;
+    4. Lock the `Tail Wheel` (left shoulder, a metal cable), set that down;
+    5. Close the `Canopy`;
     6. Make sure `Governor` switch is ON (down);
     7. `Flaps` at 20º position (left side, weird left wheel). So 20º is the 3rd black mark in your left wing;
     8. Based in your weight:
@@ -225,14 +224,15 @@ EXTRA TIP: Check where you are on the map (or on the `kneeboard`);
 ## **8) 109K-4 > Landing:**
 
 1. **Before:**
-    1. (If applicable) Release `External Fuel` tank;
-    2. `Nav. Lights` ON;
-    3. Lock the `Tail Wheel` lever (down)` ;
-    4. Set `Trim` to -4 to -5 (nose up);
-    5. Place the `Safety guns` stick's plate;
-    6. `ATA` 1.0, 200m alt;
-    7. ==Set `Radiators Mode` to `Zu` (close) pos.==
-    8. (If applicable) Emergency landing:
+    1. (If) To `ATC`, request <span style="color: orange;">landing</span> procedure and wait for the answer;
+    2. (If applicable) Release `External Fuel` tank;
+    3. `Nav. Lights` ON;
+    4. Lock the `Tail Wheel` lever (down)` ;
+    5. Set `Trim` to -4 to -5 (nose up);
+    6. Place the `Safety guns` stick's plate;
+    7. `ATA` 1.0, 200m alt;
+    8. ==Set `Radiators Mode` to `Zu` (close) pos.==
+    9. (If applicable) Emergency landing:
         1. Release the `MW50/Fuel` (right side, below `Pistol Flare`);
 2. **Approaching/Landing:**
     1. `Flaps` at 40º pos (5th label, the red one on left wing) - limit speed's 250Km/h;
@@ -255,9 +255,9 @@ EXTRA TIP: Check where you are on the map (or on the `kneeboard`);
 
 ## **9) 109K-4 > Turn it off:**
 
-1. Make sure you have `Canopy` open;
+1. `Canopy` should be <span style="color: orange;">open</span>;
 2. Cut `Throttle` to idle pos;
-3. Ask crew to place `Wheel Chocks` ;
+3. To `Ground Crew`, request to place <span style="color: orange;">wheel chocks</span>;
 4. **Engine:**
     1. (If applicable) If the ambient temperature's below 0ºC (32ºF), in `Cold Weather Start` valve (below the `Booster Pump` , a white valve), open it for 2min before turning the engine off (It injects fuel into the lubrication system to thin out the engine oil so it won't freeze);
         - Meanwhile: advance the "Weaponry" and "Others" procedure steps while waiting;

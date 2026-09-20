@@ -14,12 +14,14 @@
 ```
 Introduced in 1942, this is a variant of the British 'Wooden Wonder', the twin-engine Mosquito fighter-bomber. Renowned as one of the fastest propeller-driven aircraft of WWII, it features potent centralized cannon firepower and flexible internal and wing-mounted payloads. It's a night interceptor too, using the Hit-and-Run doctrine.
 ```
-## **Pros:**
+## Pros:
+
 - Light (wooden-made);
 - Perfect for fast and low-altitude missions at night;
 - Designed for Anti-ship and ground attack missions;
 - [basic-about-maneuvers](basic-about-maneuvers.md)- Fire and leave, never orbiting a target to re-engage.
-## **Cons:**
+## Cons:
+
 - No armor at all;
 - Avoid dogfights;
 - Avoid turns and aggressive dives;
@@ -31,12 +33,12 @@ Introduced in 1942, this is a variant of the British 'Wooden Wonder', the twin-e
 1. (If applicable) Turn your `personal flashlight` ON;
 2. Open `left window` (crew needs to listen to you);
 3. (If applicable) Looking to `Radio Operator` seat, lower the `Armored Backrest`;
-4. Request `Start-Up` procedure to tower;4. 
-5. Check the current weather temperature in the `Briefing` screen;
-6. (If applicable) Ask `Ground Crew` to "Rearm and Refuel", and wait for the `"Rearming"` and/or `"Refueling"` answer;
+4. To `ATC`, request <span style="color: orange;">start-up</span> procedure;
+5. In `Briefing` screen, check <span style="color: orange;">weather temp.</span>;
+6. (If) To `Ground Crew`, request <span style="color: orange;">rearm and refuel</span>, and wait for the answer;
 7. **Electric:**
-	1. Ask `Ground Crew` to `Ground Electric Power`;
-	2. (If applicable) Turn `Cockpit lights` ON;
+	1. To `Ground Crew`, request <span style="color: orange;">ground electrical power ON</span>;
+	2. (If) `Cockpit lights` should be <span style="color: orange;">ON</span>;
 	3. Unblock the `Electric Power Master` switch (front panel, left side of those two red bts) by pulling only the metal protection UP;
 	4. In `Radiators` panel (front blue panel, above those two red bts):
 		1. Make sure both `Engine Water Cooling Flaps` switches are OFF (up);
@@ -109,7 +111,7 @@ Introduced in 1942, this is a variant of the British 'Wooden Wonder', the twin-e
     2. Make sure `Air Filter` (of carburetor) is ON (down);
 8. Say on radio: `YourCallsign` taxiing!
 9. To move the bird, use only `Throttle` at 11.5 (1150 RPM), `Rudder` , and `Wheel Brakes` gently. The brake system gets the rudder direction to apply the right pressure to the wheels during a turn;
-10. (If applicable) Request to take off and wait for your go;
+10. (If) To `ATC`, request <span style="color: orange;">takeoff</span> procedure and wait for the answer;
 
 ---
 ## 3) Mosquito > Takeoff:
@@ -121,7 +123,6 @@ EXTRA TIP: Check where you are on the map (or on the kneeboard);
     - (If applicable) Make sure `Landing Light` knobs are ON;
     - (If applicable) Looking to `Radio Operator` seat, lower the `Armored Backrest`;
     - Make sure all windows are closed;
-    - On the runway, you are already in takeoff position;
     - Make sure `Pitch` levers are fully forward;
     - Make sure both `Fuel Tank` selectors are in the `Outer Tanks` positions;
     - Unblock `Gear` lever (right knee, red one), making sure the `protection plate` is felt to pilot direction;
@@ -258,29 +259,30 @@ EXTRA TIP: Check where you are on the map (or on the kneeboard);
 ## **8) Mosquito > Landing:**
 
 1. **Before the motherland coast:**
-    1. (If applicable) Release `External Fuel Tank`;
-    2. (If applicable) Night/Low visibility:
+    1. (If applicable) Night/Low visibility:
         - Turn `Resin Air Lamps` switch (right panel, left of `Morse Code` panel) to ON (down);
         - Turn `Type F Transmitter` light (an IR tail light) switch (right panel, under a golden valve) to ON (right/back);
 2. **After that, already at home sky:**
-    1. `Nav. Lights` ON;
-    2. Turn `Supercharger Gear` switch to MOD (down);
-    3. Make sure `Pitch` lever is in fully forward pos;
-    4. `Trim_:
+    1. (If) To `ATC`, request <span style="color: orange;">landing</span> procedure and wait for the answer;
+    2. (If applicable) Release `External Fuel Tank`;
+    3. `Nav. Lights` ON;
+    4. Turn `Supercharger Gear` switch to MOD (down);
+    5. Make sure `Pitch` lever is in fully forward pos;
+    6. `Trim_:
         - `Trim Elevator` (monitor above `Throttle`):
             - ==If no bombs: to 1 pos (nose down);==
             - ==If with bombs: to 2 pos (nose down);==
         - `Trim Rudder` (monitor right side of `Reflector Sight`) ==to right until the "Trim" pos;==
         - `Trim Ailerons` (right knee) ==to neutral (center) pos;==
-    5. Unblock `Flaps` lever, and adjust it to ==15º== (monitor on the lever's left side);
-    6. ==Vel. 160mph, alt. 1000 feet;==
-    7. (If applicable) Emergency landing:
+    7. Unblock `Flaps` lever, and adjust it to ==15º== (monitor on the lever's left side);
+    8. ==Vel. 160mph, alt. 1000 feet;==
+    9. (If applicable) Emergency landing:
         1. ==Jettison the `Canopy` with its red lever (over your head);==
         2. ==Set `Supercharger Mode Auto` switch to `M.S.` (up);==
         3. ==Turn `Circuit Breaker Fuel Pump` OFF (up);==
         4. ==(If) Don't use Gear Down for soft terrain/water;==
-    8. ==In `Stick` , press `Safety Guns Pin` IN (on)!==
-    9. ==In `Carburetor Air Control` lever (left leg), set it to `Filter In` (up);==
+    10. ==In `Stick` , press `Safety Guns Pin` IN (on)!==
+    11. ==In `Carburetor Air Control` lever (left leg), set it to `Filter In` (up);==
 3. **Approaching/Landing:**
     1. (If applicable) Night/Low visibility, turn both `Landing Light` (right foot) knobs ON (right);
     2. `Flaps` down - limit speed's 140mph;
@@ -306,8 +308,8 @@ EXTRA TIP: Check where you are on the map (or on the kneeboard);
 
 1. **Weaponry:**
     - Turn `Gun Firing Master` switch (right knee) to SAFE (up), and block it;
-2. Make sure the `left window` is open;
-3. Ask `Ground Crew` to place `Wheel Chocks`;
+2. `Left window` should be <span style="color: orange;">open</span>;
+3. To `Ground Crew`, request to place <span style="color: orange;">wheel chocks</span>;
 - (If applicable) Turn `Landing Light` knobs OFF (left);
 1. **Engine:**
     1. ==Cool the engine for 2min at 800 RPM;==
