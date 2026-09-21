@@ -134,7 +134,7 @@ EXTRA TIP: Check where you are on the map (or on the `kneeboard`);
     - `Trim` adjustments!
     - `Oxygen` valve (right side, low panel, blue one) must be <span style="color: orange;">open (up)</span>;
     - (If and not fuel in) Turn `MW 50 Boost` switch (near to `Magnetos`) <span style="color: orange;">ON (forward)</span>;
-    1. **(Maybe) In combat skies:**
+    1. **(Maybe) In dangerous sky:**
         - `Nav. Lights` should be <span style="color: orange;">OFF</span>;
         - `Master Arm` switch should be <span style="color: orange;">ON (up)</span>;
         - <span style="color: grey;">(Unavailable)</span> ~~In `Stick`, remove the `safety guns' plate` OFF (out);~~

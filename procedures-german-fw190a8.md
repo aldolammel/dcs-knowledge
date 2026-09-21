@@ -124,7 +124,7 @@ EXTRA TIP: Check where you are on the `map` (or on the `kneeboard`);
     - Say on radio: `MyCallsign` airborne!
     - `Trim` adjustments!
     - `Oxygen` valve (right side, low panel, blue one) must be <span style="color: orange;">open (up)</span>;
-    1. **(Maybe) In combat skies:**
+    1. **(Maybe) In dangerous sky:**
         - `Nav. Lights` should be <span style="color: orange;">OFF</span>;
         - `Cabin illumination` should be <span style="color: orange;">OFF</span>;
         - `Master Arm` switch should be <span style="color: orange;">ON (up)</span>;

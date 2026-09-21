@@ -48,45 +48,45 @@ xxxxxxxxxxxxxxxxxxx
 		2. `Nav. Wing Lights` switch <span style="color: orange;">ON (up or down)</span>;
 		3. `Nav. Tail Light` switch <span style="color: orange;">ON (up or down)</span>;
 		4. `Generator Switch` (lowest left corner) <span style="color: orange;">ON (up)</span>;
-		5. <span style="color: grey;">(Maybe)</span> If wet or cold:
-			1. `Pitot Heater Switch` (side by side with `Generator Switch`) must be <span style="color: orange;">ON (up)</span>;
-			2. <span style="color: grey;">(Unavailable)</span> <span style="color: grey;">(Maybe)</span> ~~`Windscreen De-Icer` should be ON;~~
+		5. <span style="color: grey;">(Maybe)</span> If wet or cold, `Pitot Heater Switch` (side by side with `Generator Switch`) must be <span style="color: orange;">ON (up)</span>;
 	3. <span style="color: grey;">(Maybe)</span> `Landing Light` switch (right side of `Nav. Tail Light`) should be <span style="color: orange;">ON (up)</span>;
 7. **Fuel:**
-    1. In `Main Fuel Selector Valve` (left thigh, on floor), select <span style="color: orange;">Main On (forward)</span> pos;
+    1. In `Main Fuel Selector Valve` (left thigh, on floor), select <span style="color: orange;">'Main On' (forward)</span> pos;
     2. In `Primer` valve (front panel, right side, an elliptical valve):
 	    1. <span style="color: orange;">Unlock it</span> (right click);
 	    2. <span style="color: orange;">Pump it</span> (left click) <span style="color: orange;">5x</span>;
 	    3. <span style="color: orange;">Lock it</span> again;
-    3. On `Throttle`, <span style="color: orange;">slide it forward</span> just a bit (10%);
+    3. On `Throttle`, <span style="color: orange;">slide it forward</span> just a bit (<span style="color: orange;">10%</span>);
     4. <span style="color: grey;">(Maybe)</span> Case `External Fuel Tanks`:
-        1. In `External Tanks Fuel Selector valve` (left thigh, on floor), select the correct option in your case;
+        1. In `External Tanks Fuel Selector valve` (left thigh, on floor), <span style="color: orange;">select the best option</span> in your case;
 8. **Engine:**
     1. In `Air Filter Control` lever (left buttock, on floor), <span style="color: orange;">active it, pulling it UP</span>;
-    2. ==In `Supercharger Mode Auto` switch (right below the `Tachometer`), set to AUTO (down);==
-    3. In `Magnetos` (front panel, left side, red knob), move it to <span style="color: orange;">Both (fully right)</span> pos;
-    4.  In `Throttle Switch` panel (left side):
+    2. `Boost lever` setup (behind `Throttle`):
+	3. <span style="color: orange;">Disconnect</span> `Interconnection Latch` case it's attached to `Throttle`;
+	4. `Boost lever` should be in <span style="color: orange;">idle (fully back)</span> pos;
+    5. In `Magnetos` (front panel, left side, red knob), move it to <span style="color: orange;">Both (fully right)</span> pos;
+    6.  In `Throttle Switch` panel (left side, behind `Throttle`):
 	    1. In `Oil Cooler Shutter Switch`, <span style="color: orange;">press and hold</span> until its marker be over <span style="color: orange;">Neutral</span> pos;
 	    2. In `Intercooler Shutter Switch`, <span style="color: orange;">press and hold</span> until its marker be over <span style="color: orange;">Neutral</span> pos;
-    5. In `Pitch` lever (black one side by side with `Throttle`), slide it <span style="color: orange;">fully forward</span>;
-    6. In `Parking Brake Handle` lever (behind `Stick`):
+    7. In `Propeller RPM` lever (black "P" lever next to `Throttle`), slide it <span style="color: orange;">fully forward</span>;
+    8. In `Parking Brake Handle` lever (behind `Stick`):
 	    1. <span style="color: orange;">Pulling it</span> (right click) and <span style="color: orange;">press both</span> `Brake Pedals`;
 	    2. <span style="color: orange;">Release</span> `Brake Pedals`;
 	    3. <span style="color: orange;">Release</span> `Parking` lever;
-    7. Starting final step:
-	    1. In `Starter Switch` (front panel, right side, below `Tachometer` gauge):
-		    1. <span style="color: orange;">Select Engage</span> pos (right click) just once;
-		    2. <span style="color: orange;">Press and hold Energize</span> pos (left click) for <span style="color: orange;">15 secs</span>;
-		    3. <span style="color: orange;">Press and hold Engage</span> pos (right click) and <span style="color: orange;">go to the next step holding it</span>;
-	    2. In `Mixture Lever` (red "M" lever with `Throttle`), slide it to <span style="color: orange;">Auto Rich</span> pos;
-	    3. Info: <span style="color: orange;">the engine should starts now!</span>
-		    1. <span style="color: grey;">(Maybe)</span> Case it fails, return `Mixture Lever` to <span style="color: orange;">idle</span> and <span style="color: orange;">restart</span> `Start Switch` procedures;
-	    4. Once `Tachometer` reaches <span style="color: orange;">800 RPM</span>, release the `Starter Switch`;
+	9. In `Starter Switch` (front panel, right side, below `Tachometer` gauge):Q
+		1. <span style="color: orange;">Select Engage</span> pos (right click) just once;
+		2. <span style="color: orange;">Press and hold Energize</span> pos (left click) for <span style="color: orange;">15 secs</span>;
+		3. <span style="color: orange;">Press and hold Engage</span> pos (right click) and <span style="color: orange;">go to the next step holding it</span>;
+	10. In `Mixture Lever` (red "M" lever with `Throttle`), slide it to <span style="color: orange;">Auto Rich</span> pos;
+	11. Info: <span style="color: orange;">the engine should starts now!</span>
+		1. <span style="color: grey;">(Maybe)</span> Case it fails, return `Mixture Lever` to <span style="color: orange;">idle</span> and <span style="color: orange;">restart</span> `Start Switch` procedures;
+	12. Once `Tachometer` reaches <span style="color: orange;">900 RPM</span>, <span style="color: orange;">release Engage</span> switch;
 9. **Warm the engine up:**
     1. In `Throttle`, set <span style="color: orange;">1200 RPM</span>;
     2. <span style="color: grey;">(Maybe)</span> Scramble situation:
 	    1. In `Cowl Flaps Control` knob (front-right side, below `Primer`), <span style="color: orange;">press and hold it</span> until engine flaps are <span style="color: orange;">totally closed</span> <span style="color: red;">(it will dangerously increase temperatures)</span>;
     3. **Meanwhile:**
+        - In `Gun Sight Rheostat` knob (Circuit Breaker panel, upper left corner), set it <span style="color: orange;">ON (fully right)</span>;
         - Turn `Battery Switch` (front panel, left side, over the red valve) <span style="color: orange;">ON (left)</span>;
         - To `Ground Crew`, request <span style="color: orange;">ground electric power OFF</span>;
         - ==Turn Radio (xxxxxxxx) ON and set this up;==
@@ -94,9 +94,10 @@ xxxxxxxxxxxxxxxxxxx
         - In `Altimeter` gauge, set it to zero!
         - In `Directional Gyro` gauge (front panel, left side), set it to the same value as the `North Magnetic` shown by that front panel centered gauge;
         - In `Tail Wheel lock` lever (right thigh, on floor), must be <span style="color: orange;">unlocked (back/right)</span>;
+        - <span style="color: grey;">(Unavailable)</span> <span style="color: grey;">(Maybe)</span> ~~Case too cold, in `Defroster Knob` (above `Primer`), push it in;~~
     4. Waiting for:
 	    1. `Cylinder Temp.` gauge (front panel, right side of `Starter Switch`) to reach <span style="color: orange;">100lbs</span>;
-	    2. `Oil Temp` gauge (over `Cylinder Temp.` one) to reach <span style="color: orange;">40ºC</span>;
+	    2. `Oil Temp` gauge (over `Cylinder Temp.` gauge, on top) to reach <span style="color: orange;">40ºC</span>;
 	    3. `Oil Pressure` gauge stabilizes between <span style="color: orange;">70-90lbs</span>;
     5. Once warmed up, slide `Throttle` back to <span style="color: orange;">idle</span>;
     6. In `Wheel Brakes`, <span style="color: orange;">release them</span> pressing them once;
@@ -110,14 +111,11 @@ xxxxxxxxxxxxxxxxxxx
 3. <span style="color: grey;">(Maybe)</span> `Landing Light` switch (right side of `Nav. Tail Light`) should be <span style="color: orange;">ON (up)</span>;
 4. <span style="color: grey;">(Maybe)</span> Case `External Fuel Tanks`, make sure `External Tanks Fuel Selector valve` is correct;
 5. `Canopy` must be <span style="color: orange;">open</span>;
-6. `Boost lever` setup (behind `Throttle`):
-	1. <span style="color: orange;">Disconnect</span> `Interconnection Latch` case it's attached to `Throttle`;
-	2. `Boost lever` should be in <span style="color: orange;">idle (fully back)</span> pos;
-7. `Pitch` must be <span style="color: orange;">fully forward (up)</span>;
-8. `Air Filter Control` must be <span style="color: orange;">activated (up)</span>;
-9. Say on radio: `YourCallsign` taxiing!
-10. On `Throttle`, set ==11 (1100 RPM)==, and use `Wheel Brakes` gently;
-11. <span style="color: grey;">(Maybe)</span> To `ATC`, request <span style="color: orange;">takeoff</span> procedure and wait for the answer;
+6. `Propeller RPM` must be <span style="color: orange;">fully forward (up)</span>;
+7. `Air Filter Control` must be <span style="color: orange;">activated (up)</span>;
+8. Say on radio: `YourCallsign` taxiing!
+9. On `Throttle`, set <span style="color: orange;">900 RPM</span>, and <span style="color: orange;">use</span> `Wheel Brakes` gently;
+10. <span style="color: grey;">(Maybe)</span> To `ATC`, request <span style="color: orange;">takeoff</span> procedure and wait for the answer;
 
 ---
 ## **3) P47 > Takeoff:**
@@ -131,20 +129,21 @@ EXTRA TIP: Check where you are on the map (or on the `kneeboard`);
     - On the runway, <span style="color: orange;">roll straight a bit to make sure tail wheel is aligned</span>;
     - In `Tail Wheel` (right thigh, on floor), <span style="color: orange;">lock it moving it forward</span>;
     - `Canopy` must be <span style="color: orange;">closed</span> (USAF doctrine if not carrier-based airplane);
-    - `Pitch` must be <span style="color: orange;">fully forward (up)</span>;
-    - `Boost lever` must be:
-	1. `Interconnection Latch` <span style="color: orange;">disconnected</span> from `Throttle`;
-	2. `Boost lever` should be in <span style="color: orange;">idle</span>;
+    - `Propeller RPM` must be <span style="color: orange;">fully forward (up)</span>;
+    - `Cowl Flaps Control` should be <span style="color: orange;">almost closed</span> to avoid drag;
+    - <span style="color: grey;">(Maybe)</span> Case weather <span style="color: orange;">>=35ºC</span>:
+	    - `Cowl Flaps Control` should be <span style="color: orange;">fully open</span>;
+	    - In `Boost lever`, make sure `Interconnection Latch` is <span style="color: orange;">disconnected</span> from `Throttle`;
+	    - `Boost lever` should be <span style="color: orange;">idle (fully back)</span>;
     - `Guns Safety Switch` (red cover behind `Throttle`) protection should be <span style="color: orange;">unlocked</span>;
-    - In `Cowl Flaps Control` should be <span style="color: orange;">almost closed</span>;
     - `Air Filter Control` should be <span style="color: orange;">activated (up)</span>;
-    - ==Make sure `Supercharger Mode Auto` switch is AUTO (down);==
-    - `Trim`:
-        - ==`Trim Nose` UP until its gauge hand touches the second stripe (from top);==
-        - ==`Trim Rudder` (left thigh) all the way to the forward/right;==
-    - `Flaps`:
-        - If only guns and full internal fuel tank or less: <span style="color: orange;">no flaps needed</span>;
-        - If heavier (bombs and/or loaded w/ `External Fuel Tank`), move `Flaps Control Handle` (left side, orange one) back until <span style="color: orange;">10 black mark</span> on flaps surface . When `flaps` are down, over each wing, you can see a small tab indicator up;
+    - Decision based on weight:
+        - Light (only guns and full internal fuel tank):
+	        - Trim: <span style="color: orange;">not needed</span>;
+	        - Flaps: <span style="color: orange;">not needed</span>;
+	- Heavy (plus bombs or external fuel tanks): 
+		- `Trim`: ==nose xxx / rudder xxxxxxxxx==
+		- `Flaps`: move `Flaps Control Handle` (left side, orange one) back until <span style="color: orange;">10 black mark</span> on flaps surface;
     - Make sure everything from "MEANWHILE" Cold-start procedures was done;
 2. **Go:**
     1. Say on radio: `YourCallsign` rolling!
@@ -157,22 +156,24 @@ EXTRA TIP: Check where you are on the map (or on the `kneeboard`);
             - ==xxxxxxxxxxxxxxxx==
             - ==xxxxxxxxxxxxx==
 3. **Once airborne:**
-    - `Gears` <span style="color: orange;">up</span> - limit speed's ==160mph;==
-    - <span style="color: orange;">(Maybe)</span> `Flaps` <span style="color: orange;">up</span> - limit speed's ==140mph;==
+    - `Gears` <span style="color: orange;">UP</span> - limit speed's ==160mph;==
+    - <span style="color: grey;">(Maybe)</span> `Flaps` <span style="color: orange;">UP</span> - limit speed's ==140mph;==
     - Say on radio: `YourCallsign` airborne!
     - `Cowl Flaps Control` <span style="color: orange;">fully closed</span>;
-    - In`Air Filter Control` lever, turn it <span style="color: orange;">OFF (down/left)</span>;
+    - `Air Filter Control` lever <span style="color: orange;">OFF (down/left)</span>;
     - In `Main Fuel Selector Valve`:
 	    - Change to <span style="color: orange;">Auxiliary On (right)</span> pos;
 	    - <span style="color: grey;">(Maybe)</span> Case `External Tank`, change to <span style="color: orange;">External On (left)</span> pos instead;
     - ==`Oxygen` valve (left side, black wing knob), must be open (vertical) to arm the auto feed (idle until 10K feet);==
     - `Trim` adjustments!
-    1. **<span style="color: grey;">(Maybe)</span> In combat skies:**
+    - `Boost lever` setup:
+	    - Slide `Boost lever` <span style="color: orange;">forward</span> until current `Throttle` pos;
+	    - <span style="color: orange;">Connect</span> `Interconnection Latch` to `Throttle`;
+    - **<span style="color: grey;">(Maybe)</span> In dangerous sky:**
         - `Nav. Wing Lights` <span style="color: orange;">OFF</span>;
         - `Nav. Tail Light` <span style="color: orange;">OFF</span>;
-        - `Cabin illumination` <span style="color: orange;">OFF</span>;
-        - ==Turn `Gunsight Master` switch (behind the gun sight, to the left) ON;==
-        - ==In `Stick`, press `Safety Guns Pin` OUT (off)!==
+        - `Cockpit lights` <span style="color: orange;">OFF</span>;
+        - In `Gun Safety Switch`, turn it <span style="color: orange;">ON (down)</span>;
 
 ---
 ## **4) P47 > Climbing & Cruise:**
@@ -181,15 +182,16 @@ Throttle / supercharger management. It's easy: Always use the throttle first, an
 
 - **Climbing:**
 	- Ceiling: **43,000ft (~13km)**;
-	- `Pitch` 2550 RPM, `Throttle` 42" Hg;
+	- `Propeller RPM` 2550 RPM, `Throttle` 42" Hg;
 		- Use `Throttle` to establish the desired manifold pressure;
 		- Use `Boost`/turbo control to maintain the desired manifold pressure as altitude changes;
-	- Best climb speed: 160mph;
-	- Keep `Cowl Flaps` OPEN
+	- Best climb speed: <span style="color: orange;">160mph</span>;
+	- `Cowl Flaps Control` must be <span style="color: orange;">open</span>;
+	- <span style="color: grey;">(Unavailable)</span> <span style="color: grey;">(Maybe)</span> ~~Case too cold, in `Defroster Knob` (above `Primer`), push it in;~~
 - **Cruise:**
-	- (Maybe) Case `External Fuel Tank`, make sure ==selector position xxxxxxxxxxxx;==
-	- Normal economical cruise = `Pitch` **2250 RPM**, `Throttle` **32" Hg**, `Mixture` **AUTO LEAN**;
-	- Maximum continuous = `Pitch` **2550 RPM**, `Throttle` **42" Hg**, `Mixture` **AUTO RICH**;
+	- <span style="color: grey;">(Maybe)</span> Case `External Fuel Tank`, make sure ==selector position xxxxxxxxxxxx;==
+	- Normal economical cruise = `Propeller RPM` **2250 RPM**, `Throttle` **32" Hg**, `Mixture` **AUTO LEAN**;
+	- Maximum continuous = `Propeller RPM` **2550 RPM**, `Throttle` **42" Hg**, `Mixture` **AUTO RICH**;
 	- If using `External Fuel Tank`:
 	    - Select the external tank **after takeoff**;
 	    - With two external tanks, alternate them periodically to maintain lateral balance.
@@ -208,7 +210,7 @@ Throttle / supercharger management. It's easy: Always use the throttle first, an
     - Pitch 2700 RPM + Throttle 52 - engine survival = 15min;
     - Pitch 2750 RPM + Throttle 64 + Water injection - engine survival = 5min;
     - Above 225mph `Cowl Flaps` CLOSED to avoid excessive drag;
-    - Never use high `Boost`/`Throttle` with low `Pitch`/RPM;
+    - Never use high `Boost`/`Throttle` with low `Propeller RPM`/RPM;
         - For less power = First, reduce `Boost`/manifold pressure, and then RPM;
         - For more power = First, increase RPM, and then `Boost`/manifold pressure;
     - Stall speed <span style="color: orange;">130mph</span>;
@@ -230,9 +232,11 @@ Throttle / supercharger management. It's easy: Always use the throttle first, an
 - **(Maybe) Firing rockets:**
     - ==xxxxxxx==
 - **(Maybe) Discarding `External Fuel` Tank:**
-    1. ==Turn `Main Tank` lever ON (up);==
-    2. ==Push `Drop Tank` lever (right leg) to OFF (forward);==
-    3. ==Pull `Drop Tank Release` valve (red one with the `Drop Tank` lever);==
+    1. In `Main Fuel Selector Valve`, change to <span style="color: orange;">'Main' (forward)</span> or to <span style="color: orange;">'Auxiliary On' (forward)</span> pos;
+    2. <span style="color: grey;">(Maybe)</span> In `External Tanks Fuel Selector valve`, <span style="color: orange;">select the best option</span> for your case;
+    3. Behind `Stick`, <span style="color: orange;">jettison</span> the tank, pulling:
+	    1. One red valve on the right for belly tank;
+	    2. Two red valves on the left for wing tanks;
 
 ---
 ## 7) **P47 >** Failure Actions:
@@ -267,7 +271,7 @@ Throttle / supercharger management. It's easy: Always use the throttle first, an
     4. `Nav. Wing Lights` must be <span style="color: orange;">ON</span>;
     5. `Nav. Tail Light` must be <span style="color: orange;">ON</span>;
     6. <span style="color: grey;">(Maybe)</span> `Landing Light` (right side of `Nav. Tail Light`) should be <span style="color: orange;">ON (up)</span>;
-    7. ==Make sure `Pitch` lever is in full forward position;==
+    7. ==Make sure `Propeller RPM` lever is in full forward position;==
     8. ==Set `Fuel Tank Pressure` valve to OFF (left);==
     9. ==Vel. 160mph, alt. 1000 feet;==
     10. <span style="color: grey;">(Maybe)</span> Emergency landing:
@@ -305,7 +309,7 @@ Throttle / supercharger management. It's easy: Always use the throttle first, an
         1. **Meanwhile:**
             1. ==Make sure `Safety Guns Pin` is IN (on);==
             2. ==Turn `Oxygen` knob OFF (horizontal pos);==
-    2. ==Pull the `Pitch` lever full back;==
+    2. ==Pull the `Propeller RPM` lever full back;==
     3. ==Once the blades have stopped completely, turn `Magnetos` OFF;==
 4. **Fuel:**
     1. ==Turn `Fuel Tank Pressure` valve OFF (left);==

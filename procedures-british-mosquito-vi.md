@@ -154,7 +154,7 @@ EXTRA TIP: Check where you are on the map (or on the kneeboard);
     - Turn `Air Filter` (of carburetor) is OFF (up);
     - (Maybe) Turn `Supercharger to` ON/AUTO (up);
     - Trim adjustments!
-    1. **(Maybe) In combat skies:**
+    1. **(Maybe) In dangerous sky:**
         - Turn `Nav. Lights` OFF;
         - Turn `Cabin illumination OFF`;
         - Turn `Reflector Sight` switch (`Circuit Breakers` panel) ON (down);

@@ -31,8 +31,9 @@ Presets: `GoogleDrive:\My Drive\Hardwares e Softwares\Gaming Configs\DCS\`
     - ==Release MW50/Fuel (Jettison) = RShift + NumLock==
     - Radiator Flaps Open/Close = <span style="color: white; background-color: green; padding:0 5px;">RAlt+Seta-cima</span> / <span style="color: white; background-color: green; padding:0 5px;">RAlt+Seta-baixo</span>
     - Cold-start needs:
-	    - Starter Switch = <span style="color: white; background-color: green; padding:0 5px;">Num1</span>
-	    - Mixture lever to Auto Rich pos = <span style="color: white; background-color: green; padding:0 5px;">Num2</span>
+	    - Starter Switch Engage = <span style="color: white; background-color: green; padding:0 5px;">Num1</span>
+	    - Starter Switch Energize = <span style="color: white; background-color: green; padding:0 5px;">Num2</span>
+	    - Mixture lever to Auto Rich pos = <span style="color: white; background-color: green; padding:0 5px;">Num3</span>
 - **Navigation:**
     - Trim:
         - Trim Elevator D = <span style="color: white; background-color: green; padding:0 5px;">JOY_BTN_POV1_U (cima)</span>

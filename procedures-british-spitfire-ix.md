@@ -142,7 +142,7 @@ EXTRA TIP: Check where you are on the map (or on the kneeboard);
     - Trim adjustments!
     - In `Carburettor Air Control` lever, set to `Normal` (down);
     - In `Oxygen` valve (left side, black wing knob), open it (vertical) to arm the auto feed (idle until 10K feet);
-    1. **(Maybe) In combat skies:**
+    1. **(Maybe) In dangerous sky:**
         - Turn the `Nav. Lights` OFF;
         - Turn `Cabin illumination` OFF;
         - Turn `Gunsight Master` switch (behind the gun sight, to the left) ON;

@@ -130,7 +130,7 @@ EXTRA TIP: Check where you are on the map (or on the `kneeboard`);
     - Trim adjustments;
     - Turn the `Oxygen` valve (right side, low panel, blue one) ON (==xxxxxx== pos);
     1. (If applicable and not fuel in) Turn `MW 50 Boost` switch (below the `Altimeter`) ON (right pos);
-    2. **(Maybe) In combat skies:**
+    2. **(Maybe) In dangerous sky:**
         - Turn the `Nav. Lights` OFF;
         - ==Turn `Cabin illumination OFF` ;==
         - Turn the `SZKK3 Weapons Control` switch (left of the `Gun Sight`) ON (up);
