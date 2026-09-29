@@ -39,17 +39,16 @@ xxxxxxxxxxxxxxxxxxx
 			1. `Instrument Light Rheostat` (UV):
 				1. Using its knob, <span style="color: orange;">set it in 'Start' (fully right)</span> pos;
 				2. <span style="color: orange;">Wait until</span> a weak blue/UV light shows up;
-				3. <span style="color: orange;">Quickly</span>, move that same knob to <span style="color: orange;">'Dim'</span> pos;
-				4. `UV lamps` brightness adjustments:
-					1. Left shoulder lamp;
-					2. Right shoulder lamp;
-			2. `Cockpit Lighting Switch` <span style="color: orange;">ON (up)</span>;
-			3. `Compass Light` knob must be <span style="color: orange;">ON (forward/right)</span>;
+				3. <span style="color: orange;">Quickly</span>, move it back to <span style="color: orange;">'Dim'</span> pos;
+			2. `UV lamps, left` brightness adjustments:
+			3. `UV lamps, right` brightness adjustments:
+			4. `Cockpit Lighting Switch` <span style="color: orange;">ON (up)</span>;
+			5. `Compass Light` knob must be <span style="color: orange;">ON (forward/right)</span>;
 		2. `Nav. Wing Lights` switch <span style="color: orange;">ON (up or down)</span>;
 		3. `Nav. Tail Light` switch <span style="color: orange;">ON (up or down)</span>;
 		4. `Generator Switch` (lowest left corner) <span style="color: orange;">ON (up)</span>;
 		5. <span style="color: grey;">(Maybe)</span> If wet or cold, `Pitot Heater Switch` (side by side with `Generator Switch`) must be <span style="color: orange;">ON (up)</span>;
-	3. <span style="color: grey;">(Maybe)</span> `Landing Light` switch (right side of `Nav. Tail Light`) should be <span style="color: orange;">ON (up)</span>;
+		6. <span style="color: grey;">(Maybe)</span> `Landing Light` switch (right side of `Nav. Tail Light`) should be <span style="color: orange;">ON (up)</span>;
 7. **Fuel:**
     1. In `Main Fuel Selector Valve` (left thigh, on floor), select <span style="color: orange;">'Main On' (forward)</span> pos;
     2. In `Primer` valve (front panel, right side, an elliptical valve):
