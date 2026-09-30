@@ -73,12 +73,12 @@ xxxxxxxxxxxxxxxxxxx
 	    2. <span style="color: orange;">Release</span> `Brake Pedals`;
 	    3. <span style="color: orange;">Release</span> `Parking` lever;
 	9. In `Starter Switch` (front panel, right side, below `Tachometer` gauge):Q
-		1. <span style="color: orange;">Select Engage</span> pos (right click) just once;
-		2. <span style="color: orange;">Press and hold Energize</span> pos (left click) for <span style="color: orange;">15 secs</span>;
-		3. <span style="color: orange;">Press and hold Engage</span> pos (right click) and <span style="color: orange;">go to the next step holding it</span>;
+		1. <span style="color: orange;">Select Engage</span> (right click) position (up) just once;
+		2. <span style="color: orange;">Press and hold Energize</span> (down) for <span style="color: orange;">15 secs</span>;
+		3. <span style="color: orange;">Press and hold Engage</span>, going to the <span style="color: orange;">next step holding it</span>;
 	10. In `Mixture Lever` (red "M" lever with `Throttle`), slide it to <span style="color: orange;">Auto Rich</span> pos;
 	11. Info: <span style="color: orange;">the engine should starts now!</span>
-		1. <span style="color: grey;">(Maybe)</span> Case it fails, return `Mixture Lever` to <span style="color: orange;">idle</span> and <span style="color: orange;">restart</span> `Start Switch` procedures;
+		1. <span style="color: grey;">(Maybe)</span> Case it fails, return `Mixture Lever` to <span style="color: orange;">idle</span> and <span style="color: orange;">restart</span> `Starter Switch` procedures;
 	12. Once `Tachometer` reaches <span style="color: orange;">900 RPM</span>, <span style="color: orange;">release Engage</span> switch;
 9. **Warm the engine up:**
     1. In `Throttle`, set <span style="color: orange;">1200 RPM</span>;
