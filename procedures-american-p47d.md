@@ -97,7 +97,7 @@ xxxxxxxxxxxxxxxxxxx
     4. Waiting for:
 	    1. `Cylinder Temp.` gauge (front panel, right side of `Starter Switch`) to reach <span style="color: orange;">100lbs</span>;
 	    2. `Oil Temp` gauge (over `Cylinder Temp.` gauge, on top) to reach <span style="color: orange;">40ºC</span>;
-	    3. `Oil Pressure` gauge stabilizes between <span style="color: orange;">70-90lbs</span>;
+	    3. `Oil Pressure` gauge to stabilize between <span style="color: orange;">70-90lbs</span>;
     5. Once warmed up, slide `Throttle` back to <span style="color: orange;">idle</span>;
     6. In `Wheel Brakes`, <span style="color: orange;">release them</span> pressing them once;
 10. Info: ready to go!
